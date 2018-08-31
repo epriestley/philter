@@ -1,14 +1,16 @@
 <?php
 
+error_reporting(E_ALL | E_STRICT);
+
 require_once 'util.php';
 require_once 'FilterRule.php';
 
-header('Content-Type: text/plain; charset=utf8');
-
-$filter_name = null;
-if (isset($_GET['filter'])) {
-  $filter_name = $_GET['filter'];
+if ($argc < 2) {
+  echo "usage: filter.php <filter>\n";
+  die(1);
 }
+
+$filter_name = $argv[1];
 
 $hide_flasks = true;
 $show_scrolls = true;
@@ -17,6 +19,11 @@ switch ($filter_name) {
   case 'strict':
     $show_scrolls = false;
     break;
+  case 'default':
+    break;
+  default:
+    echo 'Unknown filter "'.$filter_name.'".'."\n";
+    die(1);
 }
 
 // TODO: Unique Maps.
@@ -46,6 +53,19 @@ $sound_vibrate = 7;
 
 $rules = array();
 
+$icon_large = 0;
+$icon_small = 2;
+
+$icon_yellow = 'Yellow';
+$icon_green = 'Green';
+$icon_brown = 'Brown';
+$icon_red = 'Red';
+$icon_blue = 'Blue';
+$icon_white = 'White';
+
+$icon_star = 'Star';
+$icon_circle = 'Circle';
+$icon_triangle = 'Triangle';
 
 // -(  Unique  )---------------------------------------------------------------
 
@@ -54,7 +74,8 @@ $rules[] = id(new FilterRule())
   ->setSize($size_huge)
   ->setTextColor($color_unique)
   ->setBorderColor($color_unique)
-  ->setSound($sound_vibrate, $volume_loud);
+  ->setSound($sound_vibrate, $volume_loud)
+  ->setIcon($icon_large, $icon_yellow, $icon_star);
 
 
 // -(  Cards  )----------------------------------------------------------------
@@ -306,7 +327,8 @@ $rules[] = id(new FilterRule())
   ->setSize($size_huge)
   ->setTextColor($color_pink)
   ->setBorderColor($color_green)
-  ->setSound($sound_vibrate, $volume_loud);
+  ->setSound($sound_vibrate, $volume_loud)
+  ->setIcon($icon_large, $icon_green, $icon_circle);
 
 $rule_gem = id(new FilterRule())
   ->addClass('Gem')
@@ -402,13 +424,15 @@ $rules[] = id(new FilterRule())
       'Strong Steel Net',
       'Thaumaturgical Net',
     ))
-  ->setSize($size_huge);
+  ->setSize($size_huge)
+  ->setIcon($icon_small, $icon_triangle, $icon_brown);
 
 $rules[] = id(new FilterRule())
   ->addClass('Currency')
   ->addClass('Stackable Currency')
   ->setSize($size_huge)
   ->setBorderColor($color_currency)
+  ->setIcon($icon_small, $icon_triangle, $icon_brown)
   ->setSound($sound_currency, $volume_loud);
 
 foreach ($hide_rules as $hide_rule) {
@@ -427,5 +451,4 @@ foreach ($rules as $rule) {
 }
 
 echo implode("\n\n", $filter)."\n";
-
 

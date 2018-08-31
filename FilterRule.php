@@ -22,6 +22,10 @@ final class FilterRule {
   private $soundID;
   private $soundVolume;
 
+  private $iconSize;
+  private $iconColor;
+  private $iconShape;
+
   public function setSize($size) {
     $this->size = $size;
     return $this;
@@ -50,6 +54,13 @@ final class FilterRule {
   public function setSound($id, $volume) {
     $this->soundID = $id;
     $this->soundVolume = $volume;
+    return $this;
+  }
+
+  public function setIcon($size, $color, $shape) {
+    $this->iconSize = $size;
+    $this->iconColor = $color;
+    $this->iconShape = $shape;
     return $this;
   }
 
@@ -179,6 +190,11 @@ final class FilterRule {
 
     if ($this->soundID !== null) {
       $lines[] = "    PlayAlertSoundPositional {$this->soundID} {$this->soundVolume}";
+    }
+
+    if ($this->iconSize !== null) {
+      $lines[] = "    MinimapIcon {$this->iconSize} {$this->iconColor} {$this->iconShape}";
+      $lines[] = "    PlayEffect {$this->iconColor}";
     }
 
     return implode("\n", $lines);
