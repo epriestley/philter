@@ -79,8 +79,6 @@ $rules[] = id(new FilterRule())
 // -(  Normal Items  )---------------------------------------------------------
 
 $item_data = json_decode(file_get_contents('bases.json'), true);
-$more_data = require_once 'more_data.php';
-$item_data = array_merge($item_data, $more_data);
 
 foreach ($item_data as $key => $item) {
   if ($item['name'] == 'Maelstrom Staff') {

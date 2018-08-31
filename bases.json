@@ -1,1881 +1,1881 @@
 [
    {
       "name" : "Plate Vest",
-      "kind" : "Armour",
-      "level" : 1,
       "str" : 12,
-      "type" : "Body Armour"
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "level" : 1
    },
    {
-      "name" : "Shabby Jerkin",
-      "dex" : 14,
-      "kind" : "Armour",
       "level" : 2,
+      "dex" : 14,
+      "name" : "Shabby Jerkin",
+      "kind" : "Armour",
       "type" : "Body Armour"
    },
    {
       "name" : "Simple Robe",
+      "type" : "Body Armour",
       "kind" : "Armour",
       "level" : 3,
-      "int" : 17,
+      "int" : 17
+   },
+   {
+      "int" : 10,
+      "level" : 4,
+      "type" : "Body Armour",
+      "kind" : "Armour",
+      "dex" : 10,
+      "name" : "Padded Vest"
+   },
+   {
+      "level" : 4,
+      "int" : 10,
+      "name" : "Chainmail Vest",
+      "str" : 10,
+      "kind" : "Armour",
       "type" : "Body Armour"
    },
    {
-      "int" : 10,
-      "level" : 4,
-      "type" : "Body Armour",
-      "name" : "Padded Vest",
-      "dex" : 10,
-      "kind" : "Armour"
-   },
-   {
-      "type" : "Body Armour",
-      "int" : 10,
-      "level" : 4,
       "str" : 10,
-      "kind" : "Armour",
-      "name" : "Chainmail Vest"
-   },
-   {
       "type" : "Body Armour",
-      "level" : 4,
-      "str" : 10,
       "kind" : "Armour",
+      "name" : "Scale Vest",
       "dex" : 10,
-      "name" : "Scale Vest"
+      "level" : 4
    },
    {
-      "name" : "Chestplate",
-      "kind" : "Armour",
       "level" : 6,
+      "type" : "Body Armour",
+      "kind" : "Armour",
       "str" : 25,
-      "type" : "Body Armour"
+      "name" : "Chestplate"
    },
    {
-      "kind" : "Armour",
-      "dex" : 16,
       "name" : "Light Brigandine",
-      "type" : "Body Armour",
+      "dex" : 16,
       "str" : 16,
+      "type" : "Body Armour",
+      "kind" : "Armour",
       "level" : 8
    },
    {
+      "name" : "Chainmail Tunic",
       "type" : "Body Armour",
-      "int" : 16,
-      "level" : 8,
-      "str" : 16,
       "kind" : "Armour",
-      "name" : "Chainmail Tunic"
+      "str" : 16,
+      "level" : 8,
+      "int" : 16
    },
    {
-      "kind" : "Armour",
       "name" : "Strapped Leather",
       "dex" : 32,
       "type" : "Body Armour",
+      "kind" : "Armour",
       "level" : 9
    },
    {
-      "type" : "Body Armour",
-      "int" : 17,
       "level" : 9,
-      "kind" : "Armour",
+      "int" : 17,
       "name" : "Oiled Vest",
-      "dex" : 17
+      "dex" : 17,
+      "type" : "Body Armour",
+      "kind" : "Armour"
    },
    {
-      "type" : "Body Armour",
       "level" : 11,
       "int" : 37,
+      "name" : "Silken Vest",
       "kind" : "Armour",
-      "name" : "Silken Vest"
+      "type" : "Body Armour"
    },
    {
       "kind" : "Armour",
+      "type" : "Body Armour",
       "name" : "Buckskin Tunic",
       "dex" : 53,
-      "type" : "Body Armour",
       "level" : 17
    },
    {
+      "str" : 28,
+      "type" : "Body Armour",
       "kind" : "Armour",
       "name" : "Ringmail Coat",
-      "type" : "Body Armour",
       "int" : 28,
-      "level" : 17,
-      "str" : 28
+      "level" : 17
    },
    {
       "level" : 17,
       "str" : 28,
       "type" : "Body Armour",
-      "dex" : 28,
+      "kind" : "Armour",
       "name" : "Scale Doublet",
-      "kind" : "Armour"
+      "dex" : 28
    },
    {
-      "type" : "Body Armour",
       "level" : 17,
       "str" : 53,
       "kind" : "Armour",
+      "type" : "Body Armour",
       "name" : "Copper Plate"
    },
    {
       "name" : "Scholar's Robe",
+      "type" : "Body Armour",
       "kind" : "Armour",
-      "int" : 55,
       "level" : 18,
-      "type" : "Body Armour"
+      "int" : 55
    },
    {
-      "kind" : "Armour",
-      "name" : "Padded Jacket",
       "dex" : 30,
+      "name" : "Padded Jacket",
+      "kind" : "Armour",
       "type" : "Body Armour",
       "level" : 18,
       "int" : 30
    },
    {
-      "level" : 21,
       "int" : 34,
-      "str" : 34,
+      "level" : 21,
+      "kind" : "Armour",
       "type" : "Body Armour",
-      "name" : "Chainmail Doublet",
-      "kind" : "Armour"
+      "str" : 34,
+      "name" : "Chainmail Doublet"
    },
    {
+      "str" : 34,
+      "type" : "Body Armour",
       "kind" : "Armour",
       "name" : "Infantry Brigandine",
       "dex" : 34,
-      "type" : "Body Armour",
-      "str" : 34,
       "level" : 21
    },
    {
-      "kind" : "Armour",
-      "name" : "War Plate",
       "type" : "Body Armour",
-      "level" : 21,
-      "str" : 63
+      "kind" : "Armour",
+      "str" : 63,
+      "name" : "War Plate",
+      "level" : 21
    },
    {
-      "type" : "Body Armour",
       "int" : 35,
       "level" : 22,
       "kind" : "Armour",
-      "name" : "Oiled Coat",
-      "dex" : 35
+      "type" : "Body Armour",
+      "dex" : 35,
+      "name" : "Oiled Coat"
    },
    {
-      "level" : 25,
-      "int" : 73,
+      "kind" : "Armour",
       "type" : "Body Armour",
       "name" : "Silken Garb",
-      "kind" : "Armour"
+      "int" : 73,
+      "level" : 25
    },
    {
-      "type" : "Body Armour",
-      "level" : 25,
-      "kind" : "Armour",
+      "dex" : 73,
       "name" : "Wild Leather",
-      "dex" : 73
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "level" : 25
    },
    {
+      "kind" : "Armour",
       "type" : "Body Armour",
-      "int" : 43,
-      "level" : 28,
       "str" : 43,
-      "kind" : "Armour",
-      "name" : "Full Ringmail"
-   },
-   {
-      "level" : 28,
-      "int" : 81,
-      "type" : "Body Armour",
-      "name" : "Mage's Vestment",
-      "kind" : "Armour"
-   },
-   {
-      "type" : "Body Armour",
-      "level" : 28,
-      "str" : 81,
-      "kind" : "Armour",
-      "name" : "Full Plate"
-   },
-   {
-      "kind" : "Armour",
-      "dex" : 81,
-      "name" : "Full Leather",
-      "type" : "Body Armour",
+      "name" : "Full Ringmail",
+      "int" : 43,
       "level" : 28
    },
    {
-      "dex" : 43,
-      "name" : "Scarlet Raiment",
+      "type" : "Body Armour",
       "kind" : "Armour",
+      "name" : "Mage's Vestment",
+      "int" : 81,
+      "level" : 28
+   },
+   {
+      "name" : "Full Plate",
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "str" : 81,
+      "level" : 28
+   },
+   {
+      "level" : 28,
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "dex" : 81,
+      "name" : "Full Leather"
+   },
+   {
       "level" : 28,
       "int" : 43,
+      "name" : "Scarlet Raiment",
+      "dex" : 43,
+      "kind" : "Armour",
       "type" : "Body Armour"
    },
    {
-      "kind" : "Armour",
+      "level" : 28,
       "dex" : 43,
       "name" : "Full Scale Armour",
       "type" : "Body Armour",
-      "level" : 28,
+      "kind" : "Armour",
       "str" : 43
    },
    {
       "level" : 32,
-      "type" : "Body Armour",
       "dex" : 91,
       "name" : "Sun Leather",
+      "type" : "Body Armour",
       "kind" : "Armour"
    },
    {
-      "int" : 48,
-      "level" : 32,
-      "type" : "Body Armour",
-      "dex" : 48,
       "name" : "Waxed Garb",
-      "kind" : "Armour"
-   },
-   {
+      "dex" : 48,
       "type" : "Body Armour",
-      "str" : 48,
-      "int" : 48,
-      "level" : 32,
       "kind" : "Armour",
-      "name" : "Full Chainmail"
+      "level" : 32,
+      "int" : 48
    },
    {
-      "name" : "Silk Robe",
+      "name" : "Full Chainmail",
+      "type" : "Body Armour",
       "kind" : "Armour",
+      "str" : 48,
+      "level" : 32,
+      "int" : 48
+   },
+   {
       "level" : 32,
       "int" : 91,
+      "name" : "Silk Robe",
+      "type" : "Body Armour",
+      "kind" : "Armour"
+   },
+   {
+      "level" : 32,
+      "name" : "Arena Plate",
+      "str" : 91,
+      "kind" : "Armour",
       "type" : "Body Armour"
    },
    {
-      "type" : "Body Armour",
-      "str" : 91,
-      "level" : 32,
-      "kind" : "Armour",
-      "name" : "Arena Plate"
-   },
-   {
-      "type" : "Body Armour",
-      "level" : 32,
       "str" : 48,
       "kind" : "Armour",
+      "type" : "Body Armour",
+      "name" : "Soldier's Brigandine",
       "dex" : 48,
-      "name" : "Soldier's Brigandine"
+      "level" : 32
    },
    {
-      "name" : "Bone Armour",
-      "dex" : 53,
-      "kind" : "Armour",
       "int" : 53,
       "level" : 35,
-      "type" : "Body Armour"
+      "type" : "Body Armour",
+      "kind" : "Armour",
+      "name" : "Bone Armour",
+      "dex" : 53
    },
    {
       "name" : "Cabalist Regalia",
       "kind" : "Armour",
+      "type" : "Body Armour",
       "level" : 35,
-      "int" : 99,
-      "type" : "Body Armour"
+      "int" : 99
    },
    {
-      "str" : 53,
       "level" : 35,
-      "type" : "Body Armour",
       "dex" : 53,
       "name" : "Field Lamellar",
-      "kind" : "Armour"
-   },
-   {
-      "name" : "Thief's Garb",
-      "dex" : 99,
       "kind" : "Armour",
-      "level" : 35,
-      "type" : "Body Armour"
-   },
-   {
-      "name" : "Lordly Plate",
-      "kind" : "Armour",
-      "level" : 35,
-      "str" : 99,
-      "type" : "Body Armour"
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Holy Chainmail",
       "type" : "Body Armour",
-      "int" : 53,
+      "str" : 53
+   },
+   {
+      "level" : 35,
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "name" : "Thief's Garb",
+      "dex" : 99
+   },
+   {
+      "level" : 35,
+      "type" : "Body Armour",
+      "kind" : "Armour",
+      "str" : 99,
+      "name" : "Lordly Plate"
+   },
+   {
+      "kind" : "Armour",
+      "type" : "Body Armour",
       "str" : 53,
+      "name" : "Holy Chainmail",
+      "int" : 53,
       "level" : 35
    },
    {
-      "name" : "Bronze Plate",
       "kind" : "Armour",
-      "level" : 37,
+      "type" : "Body Armour",
       "str" : 104,
-      "type" : "Body Armour"
+      "name" : "Bronze Plate",
+      "level" : 37
    },
    {
       "level" : 37,
       "type" : "Body Armour",
-      "dex" : 104,
-      "name" : "Eelskin Tunic",
-      "kind" : "Armour"
-   },
-   {
-      "type" : "Body Armour",
-      "level" : 37,
-      "int" : 104,
       "kind" : "Armour",
-      "name" : "Sage's Robe"
+      "dex" : 104,
+      "name" : "Eelskin Tunic"
    },
    {
-      "str" : 57,
-      "level" : 38,
       "type" : "Body Armour",
-      "dex" : 57,
-      "name" : "Wyrmscale Doublet",
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "name" : "Sage's Robe",
+      "int" : 104,
+      "level" : 37
    },
    {
+      "name" : "Wyrmscale Doublet",
+      "dex" : 57,
+      "str" : 57,
+      "type" : "Body Armour",
+      "kind" : "Armour",
+      "level" : 38
+   },
+   {
+      "str" : 59,
+      "type" : "Body Armour",
       "kind" : "Armour",
       "name" : "Latticed Ringmail",
-      "type" : "Body Armour",
-      "str" : 59,
       "int" : 59,
       "level" : 39
    },
    {
-      "dex" : 60,
-      "name" : "Quilted Jacket",
-      "kind" : "Armour",
       "level" : 40,
       "int" : 60,
+      "name" : "Quilted Jacket",
+      "dex" : 60,
+      "type" : "Body Armour",
+      "kind" : "Armour"
+   },
+   {
+      "level" : 41,
+      "str" : 114,
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "name" : "Battle Plate"
+   },
+   {
+      "level" : 41,
+      "dex" : 114,
+      "name" : "Frontier Leather",
+      "kind" : "Armour",
       "type" : "Body Armour"
    },
    {
-      "kind" : "Armour",
-      "name" : "Battle Plate",
-      "type" : "Body Armour",
-      "str" : 114,
-      "level" : 41
-   },
-   {
-      "kind" : "Armour",
-      "dex" : 114,
-      "name" : "Frontier Leather",
-      "type" : "Body Armour",
-      "level" : 41
-   },
-   {
-      "type" : "Body Armour",
       "int" : 114,
       "level" : 41,
       "kind" : "Armour",
+      "type" : "Body Armour",
       "name" : "Silken Wrap"
    },
    {
-      "kind" : "Armour",
+      "level" : 42,
       "name" : "Hussar Brigandine",
       "dex" : 62,
-      "type" : "Body Armour",
-      "level" : 42,
-      "str" : 62
+      "str" : 62,
+      "kind" : "Armour",
+      "type" : "Body Armour"
    },
    {
-      "int" : 64,
+      "type" : "Body Armour",
+      "kind" : "Armour",
       "str" : 64,
-      "level" : 43,
-      "type" : "Body Armour",
       "name" : "Crusader Chainmail",
-      "kind" : "Armour"
+      "int" : 64,
+      "level" : 43
    },
    {
-      "int" : 65,
       "level" : 44,
-      "type" : "Body Armour",
+      "int" : 65,
       "dex" : 65,
       "name" : "Sleek Coat",
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "type" : "Body Armour"
    },
    {
       "level" : 45,
-      "type" : "Body Armour",
       "name" : "Glorious Leather",
       "dex" : 124,
+      "type" : "Body Armour",
       "kind" : "Armour"
    },
    {
-      "name" : "Conjurer's Vestment",
-      "kind" : "Armour",
       "int" : 124,
       "level" : 45,
-      "type" : "Body Armour"
+      "type" : "Body Armour",
+      "kind" : "Armour",
+      "name" : "Conjurer's Vestment"
    },
    {
-      "str" : 124,
       "level" : 45,
-      "type" : "Body Armour",
       "name" : "Sun Plate",
-      "kind" : "Armour"
-   },
-   {
       "kind" : "Armour",
-      "name" : "Full Wyrmscale",
-      "dex" : 68,
       "type" : "Body Armour",
-      "level" : 46,
-      "str" : 68
+      "str" : 124
    },
    {
-      "name" : "Ornate Ringmail",
+      "dex" : 68,
+      "name" : "Full Wyrmscale",
       "kind" : "Armour",
-      "int" : 69,
-      "level" : 47,
+      "type" : "Body Armour",
+      "str" : 68,
+      "level" : 46
+   },
+   {
+      "kind" : "Armour",
+      "type" : "Body Armour",
       "str" : 69,
-      "type" : "Body Armour"
+      "name" : "Ornate Ringmail",
+      "int" : 69,
+      "level" : 47
    },
    {
-      "name" : "Crimson Raiment",
-      "dex" : 71,
-      "kind" : "Armour",
       "int" : 71,
       "level" : 48,
-      "type" : "Body Armour"
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "name" : "Crimson Raiment",
+      "dex" : 71
    },
    {
-      "type" : "Body Armour",
       "level" : 49,
-      "kind" : "Armour",
       "dex" : 134,
-      "name" : "Coronal Leather"
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Spidersilk Robe",
+      "name" : "Coronal Leather",
       "type" : "Body Armour",
-      "level" : 49,
-      "int" : 134
-   },
-   {
-      "name" : "Colosseum Plate",
-      "kind" : "Armour",
-      "level" : 49,
-      "str" : 134,
-      "type" : "Body Armour"
-   },
-   {
-      "str" : 73,
-      "level" : 50,
-      "type" : "Body Armour",
-      "name" : "Commander's Brigandine",
-      "dex" : 73,
       "kind" : "Armour"
    },
    {
+      "kind" : "Armour",
       "type" : "Body Armour",
-      "str" : 75,
+      "name" : "Spidersilk Robe",
+      "int" : 134,
+      "level" : 49
+   },
+   {
+      "level" : 49,
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "str" : 134,
+      "name" : "Colosseum Plate"
+   },
+   {
+      "level" : 50,
+      "name" : "Commander's Brigandine",
+      "dex" : 73,
+      "str" : 73,
+      "kind" : "Armour",
+      "type" : "Body Armour"
+   },
+   {
       "int" : 75,
       "level" : 51,
+      "str" : 75,
+      "type" : "Body Armour",
       "kind" : "Armour",
       "name" : "Chain Hauberk"
    },
    {
       "kind" : "Armour",
+      "type" : "Body Armour",
       "dex" : 76,
       "name" : "Lacquered Garb",
-      "type" : "Body Armour",
-      "level" : 52,
-      "int" : 76
+      "int" : 76,
+      "level" : 52
    },
    {
-      "int" : 145,
-      "level" : 53,
-      "type" : "Body Armour",
       "name" : "Destroyer Regalia",
-      "kind" : "Armour"
-   },
-   {
-      "type" : "Body Armour",
-      "level" : 53,
       "kind" : "Armour",
-      "name" : "Cutthroat's Garb",
-      "dex" : 145
-   },
-   {
       "type" : "Body Armour",
       "level" : 53,
+      "int" : 145
+   },
+   {
+      "dex" : 145,
+      "name" : "Cutthroat's Garb",
+      "type" : "Body Armour",
+      "kind" : "Armour",
+      "level" : 53
+   },
+   {
+      "level" : 53,
+      "name" : "Majestic Plate",
       "str" : 145,
       "kind" : "Armour",
-      "name" : "Majestic Plate"
+      "type" : "Body Armour"
    },
    {
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "str" : 79,
       "dex" : 79,
       "name" : "Battle Lamellar",
-      "kind" : "Armour",
-      "str" : 79,
-      "level" : 54,
-      "type" : "Body Armour"
+      "level" : 54
    },
    {
       "level" : 55,
       "int" : 80,
-      "str" : 80,
-      "type" : "Body Armour",
       "name" : "Devout Chainmail",
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "str" : 80
    },
    {
-      "type" : "Body Armour",
-      "int" : 82,
-      "level" : 56,
-      "kind" : "Armour",
+      "name" : "Crypt Armour",
       "dex" : 82,
-      "name" : "Crypt Armour"
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "level" : 56,
+      "int" : 82
    },
    {
       "level" : 56,
       "int" : 152,
-      "type" : "Body Armour",
       "name" : "Savant's Robe",
-      "kind" : "Armour"
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Golden Plate",
       "type" : "Body Armour",
-      "str" : 152,
-      "level" : 56
+      "kind" : "Armour"
    },
    {
       "level" : 56,
+      "name" : "Golden Plate",
       "type" : "Body Armour",
-      "dex" : 152,
-      "name" : "Sharkskin Tunic",
-      "kind" : "Armour"
-   },
-   {
-      "str" : 83,
-      "level" : 57,
-      "type" : "Body Armour",
-      "name" : "Dragonscale Doublet",
-      "dex" : 83,
-      "kind" : "Armour"
-   },
-   {
       "kind" : "Armour",
-      "name" : "Loricated Ringmail",
-      "type" : "Body Armour",
-      "level" : 58,
-      "int" : 84,
-      "str" : 84
+      "str" : 152
    },
    {
-      "int" : 86,
-      "level" : 59,
+      "name" : "Sharkskin Tunic",
+      "dex" : 152,
       "type" : "Body Armour",
+      "kind" : "Armour",
+      "level" : 56
+   },
+   {
+      "level" : 57,
+      "dex" : 83,
+      "name" : "Dragonscale Doublet",
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "str" : 83
+   },
+   {
+      "int" : 84,
+      "level" : 58,
+      "str" : 84,
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "name" : "Loricated Ringmail"
+   },
+   {
       "name" : "Sentinel Jacket",
       "dex" : 86,
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "level" : 59,
+      "int" : 86
    },
    {
       "level" : 59,
+      "name" : "Crusader Plate",
       "str" : 160,
       "type" : "Body Armour",
-      "name" : "Crusader Plate",
       "kind" : "Armour"
    },
    {
       "level" : 59,
-      "type" : "Body Armour",
-      "dex" : 160,
-      "name" : "Destiny Leather",
-      "kind" : "Armour"
-   },
-   {
-      "level" : 59,
-      "int" : 160,
-      "type" : "Body Armour",
-      "name" : "Necromancer Silks",
-      "kind" : "Armour"
-   },
-   {
       "kind" : "Armour",
+      "type" : "Body Armour",
+      "name" : "Destiny Leather",
+      "dex" : 160
+   },
+   {
+      "int" : 160,
+      "level" : 59,
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "name" : "Necromancer Silks"
+   },
+   {
       "dex" : 96,
       "name" : "Desert Brigandine",
+      "kind" : "Armour",
       "type" : "Body Armour",
       "str" : 96,
       "level" : 60
    },
    {
-      "level" : 61,
       "int" : 96,
-      "str" : 96,
+      "level" : 61,
+      "kind" : "Armour",
       "type" : "Body Armour",
-      "name" : "Conquest Chainmail",
-      "kind" : "Armour"
+      "str" : 96,
+      "name" : "Conquest Chainmail"
    },
    {
       "name" : "Varnished Coat",
       "dex" : 96,
+      "type" : "Body Armour",
       "kind" : "Armour",
       "level" : 62,
-      "int" : 96,
+      "int" : 96
+   },
+   {
+      "level" : 62,
+      "dex" : 170,
+      "name" : "Exquisite Leather",
+      "kind" : "Armour",
       "type" : "Body Armour"
    },
    {
-      "type" : "Body Armour",
       "level" : 62,
-      "kind" : "Armour",
-      "dex" : 170,
-      "name" : "Exquisite Leather"
-   },
-   {
-      "name" : "Astral Plate",
+      "type" : "Body Armour",
       "kind" : "Armour",
       "str" : 180,
-      "level" : 62,
-      "type" : "Body Armour"
+      "name" : "Astral Plate"
    },
    {
-      "type" : "Body Armour",
-      "level" : 62,
       "int" : 180,
+      "level" : 62,
       "kind" : "Armour",
+      "type" : "Body Armour",
       "name" : "Occultist's Vestment"
    },
    {
-      "kind" : "Armour",
-      "name" : "Full Dragonscale",
       "dex" : 94,
+      "name" : "Full Dragonscale",
       "type" : "Body Armour",
+      "kind" : "Armour",
       "str" : 115,
       "level" : 63
    },
    {
       "level" : 64,
       "int" : 105,
-      "str" : 90,
-      "type" : "Body Armour",
       "name" : "Elegant Ringmail",
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "str" : 90
    },
    {
+      "kind" : "Armour",
+      "type" : "Body Armour",
       "name" : "Blood Raiment",
       "dex" : 107,
-      "kind" : "Armour",
       "int" : 90,
-      "level" : 65,
-      "type" : "Body Armour"
-   },
-   {
-      "level" : 65,
-      "int" : 187,
-      "type" : "Body Armour",
-      "name" : "Widowsilk Robe",
-      "kind" : "Armour"
-   },
-   {
-      "kind" : "Armour",
-      "dex" : 197,
-      "name" : "Zodiac Leather",
-      "type" : "Body Armour",
       "level" : 65
    },
    {
-      "type" : "Body Armour",
-      "level" : 65,
-      "str" : 177,
       "kind" : "Armour",
-      "name" : "Gladiator Plate"
+      "type" : "Body Armour",
+      "name" : "Widowsilk Robe",
+      "int" : 187,
+      "level" : 65
    },
    {
+      "level" : 65,
+      "name" : "Zodiac Leather",
+      "dex" : 197,
       "kind" : "Armour",
-      "name" : "General's Brigandine",
-      "dex" : 103,
+      "type" : "Body Armour"
+   },
+   {
+      "level" : 65,
+      "name" : "Gladiator Plate",
       "type" : "Body Armour",
+      "kind" : "Armour",
+      "str" : 177
+   },
+   {
       "level" : 66,
+      "dex" : 103,
+      "name" : "General's Brigandine",
+      "type" : "Body Armour",
+      "kind" : "Armour",
       "str" : 103
    },
    {
-      "name" : "Saint's Hauberk",
-      "kind" : "Armour",
-      "int" : 94,
-      "level" : 67,
       "str" : 109,
-      "type" : "Body Armour"
+      "kind" : "Armour",
+      "type" : "Body Armour",
+      "name" : "Saint's Hauberk",
+      "int" : 94,
+      "level" : 67
    },
    {
-      "int" : 109,
-      "level" : 68,
-      "type" : "Body Armour",
       "dex" : 103,
       "name" : "Sadist Garb",
-      "kind" : "Armour"
+      "type" : "Body Armour",
+      "kind" : "Armour",
+      "level" : 68,
+      "int" : 109
    },
    {
+      "level" : 68,
       "name" : "Glorious Plate",
       "kind" : "Armour",
-      "level" : 68,
-      "str" : 191,
-      "type" : "Body Armour"
+      "type" : "Body Armour",
+      "str" : 191
    },
    {
       "level" : 68,
+      "kind" : "Armour",
       "type" : "Body Armour",
       "dex" : 183,
-      "name" : "Assassin's Garb",
-      "kind" : "Armour"
+      "name" : "Assassin's Garb"
    },
    {
-      "level" : 68,
-      "int" : 194,
+      "kind" : "Armour",
       "type" : "Body Armour",
       "name" : "Vaal Regalia",
-      "kind" : "Armour"
+      "int" : 194,
+      "level" : 68
    },
    {
-      "dex" : 116,
-      "name" : "Triumphant Lamellar",
+      "level" : 69,
+      "type" : "Body Armour",
       "kind" : "Armour",
       "str" : 95,
-      "level" : 69,
-      "type" : "Body Armour"
+      "dex" : 116,
+      "name" : "Triumphant Lamellar"
    },
    {
-      "kind" : "Armour",
+      "level" : 70,
+      "int" : 115,
       "name" : "Saintly Chainmail",
       "type" : "Body Armour",
-      "int" : 115,
-      "level" : 70,
+      "kind" : "Armour",
       "str" : 99
    },
    {
-      "type" : "Body Armour",
       "level" : 71,
       "int" : 122,
-      "kind" : "Armour",
+      "name" : "Carnal Armour",
       "dex" : 88,
-      "name" : "Carnal Armour"
+      "type" : "Body Armour",
+      "kind" : "Armour"
    },
    {
-      "dex" : 66,
-      "name" : "Sacrificial Garb",
-      "kind" : "Armour",
       "str" : 66,
+      "type" : "Body Armour",
+      "kind" : "Armour",
+      "name" : "Sacrificial Garb",
+      "dex" : 66,
       "int" : 66,
-      "level" : 72,
-      "type" : "Body Armour"
+      "level" : 72
    },
    {
-      "name" : "Iron Greaves",
-      "kind" : "Armour",
-      "str" : 8,
       "level" : 1,
-      "type" : "Boots"
+      "str" : 8,
+      "kind" : "Armour",
+      "type" : "Boots",
+      "name" : "Iron Greaves"
    },
    {
       "int" : 11,
       "level" : 3,
+      "kind" : "Armour",
       "type" : "Boots",
-      "name" : "Wool Shoes",
+      "name" : "Wool Shoes"
+   },
+   {
+      "level" : 3,
+      "name" : "Rawhide Boots",
+      "dex" : 11,
+      "type" : "Boots",
       "kind" : "Armour"
    },
    {
+      "name" : "Chain Boots",
       "type" : "Boots",
-      "level" : 3,
       "kind" : "Armour",
-      "dex" : 11,
-      "name" : "Rawhide Boots"
-   },
-   {
-      "type" : "Boots",
-      "level" : 5,
-      "int" : 8,
       "str" : 8,
-      "kind" : "Armour",
-      "name" : "Chain Boots"
+      "level" : 5,
+      "int" : 8
    },
    {
-      "int" : 9,
       "level" : 6,
-      "type" : "Boots",
+      "int" : 9,
       "dex" : 9,
       "name" : "Wrapped Boots",
+      "type" : "Boots",
       "kind" : "Armour"
    },
    {
-      "type" : "Boots",
-      "str" : 9,
       "level" : 6,
+      "str" : 9,
+      "type" : "Boots",
       "kind" : "Armour",
       "name" : "Leatherscale Boots",
       "dex" : 9
    },
    {
-      "kind" : "Armour",
-      "name" : "Velvet Slippers",
-      "type" : "Boots",
       "level" : 9,
-      "int" : 21
+      "int" : 21,
+      "name" : "Velvet Slippers",
+      "kind" : "Armour",
+      "type" : "Boots"
    },
    {
-      "name" : "Steel Greaves",
-      "kind" : "Armour",
       "level" : 9,
       "str" : 21,
-      "type" : "Boots"
+      "type" : "Boots",
+      "kind" : "Armour",
+      "name" : "Steel Greaves"
    },
    {
       "dex" : 26,
       "name" : "Goathide Boots",
+      "type" : "Boots",
       "kind" : "Armour",
-      "level" : 12,
-      "type" : "Boots"
+      "level" : 12
    },
    {
-      "name" : "Ringmail Boots",
-      "kind" : "Armour",
-      "int" : 15,
-      "str" : 15,
       "level" : 13,
+      "int" : 15,
+      "name" : "Ringmail Boots",
+      "str" : 15,
+      "kind" : "Armour",
       "type" : "Boots"
    },
    {
-      "dex" : 18,
+      "kind" : "Armour",
+      "type" : "Boots",
       "name" : "Strapped Boots",
-      "kind" : "Armour",
-      "level" : 16,
+      "dex" : 18,
       "int" : 18,
-      "type" : "Boots"
+      "level" : 16
    },
    {
-      "name" : "Ironscale Boots",
-      "dex" : 19,
-      "kind" : "Armour",
-      "str" : 19,
       "level" : 18,
-      "type" : "Boots"
+      "str" : 19,
+      "type" : "Boots",
+      "kind" : "Armour",
+      "name" : "Ironscale Boots",
+      "dex" : 19
    },
    {
-      "type" : "Boots",
+      "level" : 22,
       "int" : 42,
-      "level" : 22,
-      "kind" : "Armour",
-      "name" : "Silk Slippers"
-   },
-   {
-      "dex" : 42,
-      "name" : "Deerskin Boots",
-      "kind" : "Armour",
-      "level" : 22,
-      "type" : "Boots"
-   },
-   {
-      "name" : "Plated Greaves",
-      "kind" : "Armour",
-      "str" : 44,
-      "level" : 23,
-      "type" : "Boots"
-   },
-   {
-      "name" : "Clasped Boots",
-      "dex" : 27,
-      "kind" : "Armour",
-      "int" : 27,
-      "level" : 27,
-      "type" : "Boots"
-   },
-   {
+      "name" : "Silk Slippers",
       "type" : "Boots",
-      "str" : 28,
-      "int" : 28,
-      "level" : 28,
-      "kind" : "Armour",
-      "name" : "Mesh Boots"
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Bronzescale Boots",
-      "dex" : 30,
-      "type" : "Boots",
-      "level" : 30,
-      "str" : 30
-   },
-   {
-      "int" : 59,
-      "level" : 32,
-      "type" : "Boots",
-      "name" : "Scholar Boots",
       "kind" : "Armour"
    },
    {
+      "name" : "Deerskin Boots",
+      "dex" : 42,
+      "kind" : "Armour",
       "type" : "Boots",
-      "str" : 61,
+      "level" : 22
+   },
+   {
+      "type" : "Boots",
+      "kind" : "Armour",
+      "str" : 44,
+      "name" : "Plated Greaves",
+      "level" : 23
+   },
+   {
+      "kind" : "Armour",
+      "type" : "Boots",
+      "dex" : 27,
+      "name" : "Clasped Boots",
+      "int" : 27,
+      "level" : 27
+   },
+   {
+      "level" : 28,
+      "int" : 28,
+      "name" : "Mesh Boots",
+      "str" : 28,
+      "kind" : "Armour",
+      "type" : "Boots"
+   },
+   {
+      "level" : 30,
+      "dex" : 30,
+      "name" : "Bronzescale Boots",
+      "type" : "Boots",
+      "kind" : "Armour",
+      "str" : 30
+   },
+   {
+      "level" : 32,
+      "int" : 59,
+      "name" : "Scholar Boots",
+      "type" : "Boots",
+      "kind" : "Armour"
+   },
+   {
       "level" : 33,
+      "str" : 61,
+      "type" : "Boots",
       "kind" : "Armour",
       "name" : "Reinforced Greaves"
    },
    {
-      "type" : "Boots",
-      "level" : 34,
-      "int" : 34,
-      "kind" : "Armour",
       "name" : "Shackled Boots",
-      "dex" : 34
-   },
-   {
+      "dex" : 34,
       "type" : "Boots",
+      "kind" : "Armour",
       "level" : 34,
+      "int" : 34
+   },
+   {
+      "type" : "Boots",
       "kind" : "Armour",
+      "name" : "Nubuck Boots",
       "dex" : 62,
-      "name" : "Nubuck Boots"
+      "level" : 34
    },
    {
       "level" : 36,
-      "str" : 35,
-      "type" : "Boots",
-      "dex" : 35,
       "name" : "Steelscale Boots",
-      "kind" : "Armour"
-   },
-   {
-      "type" : "Boots",
-      "int" : 35,
+      "dex" : 35,
       "str" : 35,
-      "level" : 36,
-      "kind" : "Armour",
-      "name" : "Riveted Boots"
-   },
-   {
       "type" : "Boots",
-      "level" : 37,
-      "str" : 67,
-      "kind" : "Armour",
-      "name" : "Antique Greaves"
-   },
-   {
-      "level" : 38,
-      "int" : 69,
-      "type" : "Boots",
-      "name" : "Satin Slippers",
       "kind" : "Armour"
    },
    {
-      "kind" : "Armour",
-      "dex" : 70,
-      "name" : "Eelskin Boots",
+      "name" : "Riveted Boots",
+      "str" : 35,
       "type" : "Boots",
-      "level" : 39
+      "kind" : "Armour",
+      "level" : 36,
+      "int" : 35
    },
    {
       "kind" : "Armour",
-      "name" : "Zealot Boots",
       "type" : "Boots",
-      "str" : 39,
+      "str" : 67,
+      "name" : "Antique Greaves",
+      "level" : 37
+   },
+   {
+      "type" : "Boots",
+      "kind" : "Armour",
+      "name" : "Satin Slippers",
+      "int" : 69,
+      "level" : 38
+   },
+   {
+      "level" : 39,
+      "name" : "Eelskin Boots",
+      "dex" : 70,
+      "kind" : "Armour",
+      "type" : "Boots"
+   },
+   {
+      "level" : 40,
       "int" : 39,
-      "level" : 40
+      "name" : "Zealot Boots",
+      "str" : 39,
+      "type" : "Boots",
+      "kind" : "Armour"
    },
    {
       "dex" : 40,
       "name" : "Trapper Boots",
       "kind" : "Armour",
-      "int" : 40,
-      "level" : 41,
-      "type" : "Boots"
-   },
-   {
-      "dex" : 40,
-      "name" : "Serpentscale Boots",
-      "kind" : "Armour",
-      "level" : 42,
-      "str" : 40,
-      "type" : "Boots"
-   },
-   {
-      "name" : "Samite Slippers",
-      "kind" : "Armour",
-      "level" : 44,
-      "int" : 79,
-      "type" : "Boots"
-   },
-   {
-      "level" : 44,
       "type" : "Boots",
+      "level" : 41,
+      "int" : 40
+   },
+   {
+      "level" : 42,
+      "type" : "Boots",
+      "kind" : "Armour",
+      "str" : 40,
+      "dex" : 40,
+      "name" : "Serpentscale Boots"
+   },
+   {
+      "int" : 79,
+      "level" : 44,
+      "kind" : "Armour",
+      "type" : "Boots",
+      "name" : "Samite Slippers"
+   },
+   {
+      "level" : 44,
       "name" : "Sharkskin Boots",
       "dex" : 79,
-      "kind" : "Armour"
-   },
-   {
-      "str" : 82,
-      "level" : 46,
-      "type" : "Boots",
-      "name" : "Ancient Greaves",
-      "kind" : "Armour"
-   },
-   {
       "kind" : "Armour",
-      "name" : "Ambush Boots",
+      "type" : "Boots"
+   },
+   {
+      "name" : "Ancient Greaves",
+      "kind" : "Armour",
+      "type" : "Boots",
+      "str" : 82,
+      "level" : 46
+   },
+   {
       "dex" : 45,
+      "name" : "Ambush Boots",
+      "kind" : "Armour",
       "type" : "Boots",
       "level" : 47,
       "int" : 45
    },
    {
-      "int" : 47,
       "str" : 47,
-      "level" : 49,
+      "kind" : "Armour",
       "type" : "Boots",
       "name" : "Soldier Boots",
-      "kind" : "Armour"
+      "int" : 47,
+      "level" : 49
    },
    {
-      "name" : "Wyrmscale Boots",
       "dex" : 48,
+      "name" : "Wyrmscale Boots",
       "kind" : "Armour",
-      "level" : 51,
+      "type" : "Boots",
       "str" : 48,
-      "type" : "Boots"
+      "level" : 51
    },
    {
-      "type" : "Boots",
-      "level" : 53,
       "int" : 94,
+      "level" : 53,
       "kind" : "Armour",
+      "type" : "Boots",
       "name" : "Conjurer Boots"
    },
    {
-      "type" : "Boots",
-      "str" : 95,
       "level" : 54,
-      "kind" : "Armour",
-      "name" : "Goliath Greaves"
-   },
-   {
+      "name" : "Goliath Greaves",
       "type" : "Boots",
-      "level" : 55,
-      "int" : 52,
       "kind" : "Armour",
-      "name" : "Carnal Boots",
-      "dex" : 52
+      "str" : 95
    },
    {
+      "kind" : "Armour",
+      "type" : "Boots",
+      "name" : "Carnal Boots",
+      "dex" : 52,
+      "int" : 52,
+      "level" : 55
+   },
+   {
+      "kind" : "Armour",
+      "type" : "Boots",
       "name" : "Shagreen Boots",
       "dex" : 97,
-      "kind" : "Armour",
-      "level" : 55,
-      "type" : "Boots"
+      "level" : 55
    },
    {
-      "name" : "Legion Boots",
-      "kind" : "Armour",
-      "int" : 54,
       "level" : 58,
-      "str" : 54,
-      "type" : "Boots"
+      "int" : 54,
+      "name" : "Legion Boots",
+      "type" : "Boots",
+      "kind" : "Armour",
+      "str" : 54
    },
    {
-      "type" : "Boots",
-      "level" : 59,
-      "str" : 56,
-      "kind" : "Armour",
+      "dex" : 56,
       "name" : "Hydrascale Boots",
-      "dex" : 56
+      "kind" : "Armour",
+      "type" : "Boots",
+      "str" : 56,
+      "level" : 59
    },
    {
       "name" : "Arcanist Slippers",
       "kind" : "Armour",
-      "level" : 61,
-      "int" : 119,
-      "type" : "Boots"
-   },
-   {
-      "kind" : "Armour",
-      "dex" : 117,
-      "name" : "Stealth Boots",
       "type" : "Boots",
-      "level" : 62
+      "level" : 61,
+      "int" : 119
    },
    {
       "level" : 62,
-      "str" : 117,
       "type" : "Boots",
-      "name" : "Vaal Greaves",
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "name" : "Stealth Boots",
+      "dex" : 117
    },
    {
-      "int" : 62,
-      "level" : 63,
+      "level" : 62,
+      "name" : "Vaal Greaves",
+      "kind" : "Armour",
       "type" : "Boots",
+      "str" : 117
+   },
+   {
       "dex" : 62,
       "name" : "Assassin's Boots",
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "type" : "Boots",
+      "level" : 63,
+      "int" : 62
    },
    {
-      "kind" : "Armour",
-      "name" : "Crusader Boots",
-      "type" : "Boots",
       "int" : 62,
       "level" : 64,
-      "str" : 62
-   },
-   {
-      "name" : "Dragonscale Boots",
-      "dex" : 62,
+      "type" : "Boots",
       "kind" : "Armour",
-      "level" : 65,
       "str" : 62,
-      "type" : "Boots"
+      "name" : "Crusader Boots"
    },
    {
-      "name" : "Sorcerer Boots",
-      "kind" : "Armour",
-      "level" : 67,
-      "int" : 123,
-      "type" : "Boots"
-   },
-   {
-      "str" : 120,
-      "level" : 68,
-      "type" : "Boots",
-      "name" : "Titan Greaves",
-      "kind" : "Armour"
-   },
-   {
-      "level" : 69,
-      "int" : 42,
-      "type" : "Boots",
-      "dex" : 82,
-      "name" : "Murder Boots",
-      "kind" : "Armour"
-   },
-   {
-      "type" : "Boots",
-      "level" : 69,
-      "kind" : "Armour",
-      "dex" : 120,
-      "name" : "Slink Boots"
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Two-Toned Boots",
       "dex" : 62,
+      "name" : "Dragonscale Boots",
+      "type" : "Boots",
+      "kind" : "Armour",
+      "str" : 62,
+      "level" : 65
+   },
+   {
+      "int" : 123,
+      "level" : 67,
+      "type" : "Boots",
+      "kind" : "Armour",
+      "name" : "Sorcerer Boots"
+   },
+   {
+      "level" : 68,
+      "name" : "Titan Greaves",
+      "kind" : "Armour",
+      "type" : "Boots",
+      "str" : 120
+   },
+   {
+      "type" : "Boots",
+      "kind" : "Armour",
+      "name" : "Murder Boots",
+      "dex" : 82,
+      "int" : 42,
+      "level" : 69
+   },
+   {
+      "level" : 69,
+      "name" : "Slink Boots",
+      "dex" : 120,
+      "kind" : "Armour",
+      "type" : "Boots"
+   },
+   {
+      "dex" : 62,
+      "name" : "Two-Toned Boots",
+      "kind" : "Armour",
       "type" : "Boots",
       "level" : 72,
       "int" : 62
    },
    {
       "level" : 1,
-      "str" : 6,
-      "type" : "Gloves",
       "name" : "Iron Gauntlets",
-      "kind" : "Armour"
-   },
-   {
-      "name" : "Rawhide Gloves",
-      "dex" : 9,
-      "kind" : "Armour",
-      "level" : 3,
-      "type" : "Gloves"
-   },
-   {
-      "name" : "Wool Gloves",
-      "kind" : "Armour",
-      "level" : 3,
-      "int" : 9,
-      "type" : "Gloves"
-   },
-   {
-      "str" : 5,
-      "level" : 4,
       "type" : "Gloves",
+      "kind" : "Armour",
+      "str" : 6
+   },
+   {
+      "type" : "Gloves",
+      "kind" : "Armour",
+      "dex" : 9,
+      "name" : "Rawhide Gloves",
+      "level" : 3
+   },
+   {
+      "kind" : "Armour",
+      "type" : "Gloves",
+      "name" : "Wool Gloves",
+      "int" : 9,
+      "level" : 3
+   },
+   {
       "dex" : 5,
       "name" : "Fishscale Gauntlets",
-      "kind" : "Armour"
+      "type" : "Gloves",
+      "kind" : "Armour",
+      "str" : 5,
+      "level" : 4
    },
    {
-      "dex" : 6,
+      "kind" : "Armour",
+      "type" : "Gloves",
       "name" : "Wrapped Mitts",
-      "kind" : "Armour",
+      "dex" : 6,
       "int" : 6,
-      "level" : 5,
-      "type" : "Gloves"
+      "level" : 5
    },
    {
-      "kind" : "Armour",
-      "name" : "Chain Gloves",
-      "type" : "Gloves",
-      "level" : 7,
       "int" : 8,
-      "str" : 8
+      "level" : 7,
+      "str" : 8,
+      "type" : "Gloves",
+      "kind" : "Armour",
+      "name" : "Chain Gloves"
    },
    {
-      "type" : "Gloves",
       "level" : 9,
       "kind" : "Armour",
+      "type" : "Gloves",
       "dex" : 17,
       "name" : "Goathide Gloves"
    },
    {
-      "str" : 20,
       "level" : 11,
-      "type" : "Gloves",
       "name" : "Plated Gauntlets",
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "type" : "Gloves",
+      "str" : 20
    },
    {
-      "level" : 12,
       "int" : 21,
+      "level" : 12,
+      "kind" : "Armour",
       "type" : "Gloves",
-      "name" : "Velvet Gloves",
-      "kind" : "Armour"
+      "name" : "Velvet Gloves"
    },
    {
-      "str" : 14,
       "level" : 15,
-      "type" : "Gloves",
       "name" : "Ironscale Gauntlets",
       "dex" : 14,
+      "str" : 14,
+      "type" : "Gloves",
       "kind" : "Armour"
    },
    {
       "level" : 16,
       "int" : 14,
-      "type" : "Gloves",
-      "name" : "Strapped Mitts",
       "dex" : 14,
-      "kind" : "Armour"
-   },
-   {
+      "name" : "Strapped Mitts",
       "kind" : "Armour",
-      "name" : "Ringmail Gloves",
-      "type" : "Gloves",
-      "str" : 16,
-      "int" : 16,
-      "level" : 19
-   },
-   {
-      "type" : "Gloves",
-      "level" : 21,
-      "kind" : "Armour",
-      "dex" : 33,
-      "name" : "Deerskin Gloves"
-   },
-   {
-      "str" : 36,
-      "level" : 23,
-      "type" : "Gloves",
-      "name" : "Bronze Gauntlets",
-      "kind" : "Armour"
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Silk Gloves",
-      "type" : "Gloves",
-      "int" : 39,
-      "level" : 25
-   },
-   {
-      "type" : "Gloves",
-      "level" : 27,
-      "str" : 22,
-      "kind" : "Armour",
-      "dex" : 22,
-      "name" : "Bronzescale Gauntlets"
-   },
-   {
-      "name" : "Clasped Mitts",
-      "dex" : 25,
-      "kind" : "Armour",
-      "level" : 31,
-      "int" : 25,
       "type" : "Gloves"
    },
    {
-      "int" : 26,
-      "str" : 26,
-      "level" : 32,
+      "int" : 16,
+      "level" : 19,
+      "kind" : "Armour",
       "type" : "Gloves",
+      "str" : 16,
+      "name" : "Ringmail Gloves"
+   },
+   {
+      "kind" : "Armour",
+      "type" : "Gloves",
+      "dex" : 33,
+      "name" : "Deerskin Gloves",
+      "level" : 21
+   },
+   {
+      "type" : "Gloves",
+      "kind" : "Armour",
+      "str" : 36,
+      "name" : "Bronze Gauntlets",
+      "level" : 23
+   },
+   {
+      "name" : "Silk Gloves",
+      "kind" : "Armour",
+      "type" : "Gloves",
+      "level" : 25,
+      "int" : 39
+   },
+   {
+      "dex" : 22,
+      "name" : "Bronzescale Gauntlets",
+      "type" : "Gloves",
+      "kind" : "Armour",
+      "str" : 22,
+      "level" : 27
+   },
+   {
+      "int" : 25,
+      "level" : 31,
+      "kind" : "Armour",
+      "type" : "Gloves",
+      "dex" : 25,
+      "name" : "Clasped Mitts"
+   },
+   {
       "name" : "Mesh Gloves",
-      "kind" : "Armour"
+      "str" : 26,
+      "type" : "Gloves",
+      "kind" : "Armour",
+      "level" : 32,
+      "int" : 26
    },
    {
-      "type" : "Gloves",
-      "level" : 33,
-      "kind" : "Armour",
+      "dex" : 50,
       "name" : "Nubuck Gloves",
-      "dex" : 50
+      "kind" : "Armour",
+      "type" : "Gloves",
+      "level" : 33
    },
    {
-      "kind" : "Armour",
-      "name" : "Steel Gauntlets",
-      "type" : "Gloves",
       "level" : 35,
-      "str" : 52
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Embroidered Gloves",
       "type" : "Gloves",
-      "level" : 36,
-      "int" : 54
+      "kind" : "Armour",
+      "str" : 52,
+      "name" : "Steel Gauntlets"
    },
    {
+      "level" : 36,
+      "int" : 54,
+      "name" : "Embroidered Gloves",
       "kind" : "Armour",
+      "type" : "Gloves"
+   },
+   {
       "name" : "Steelscale Gauntlets",
       "dex" : 29,
-      "type" : "Gloves",
       "str" : 29,
+      "kind" : "Armour",
+      "type" : "Gloves",
       "level" : 36
    },
    {
       "int" : 29,
       "level" : 36,
+      "kind" : "Armour",
       "type" : "Gloves",
       "name" : "Trapper Mitts",
-      "dex" : 29,
-      "kind" : "Armour"
+      "dex" : 29
    },
    {
-      "type" : "Gloves",
       "int" : 29,
       "level" : 37,
-      "str" : 29,
+      "type" : "Gloves",
       "kind" : "Armour",
+      "str" : 29,
       "name" : "Riveted Gloves"
    },
    {
       "kind" : "Armour",
+      "type" : "Gloves",
       "dex" : 56,
       "name" : "Eelskin Gloves",
-      "type" : "Gloves",
       "level" : 38
    },
    {
+      "name" : "Antique Gauntlets",
+      "kind" : "Armour",
       "type" : "Gloves",
       "str" : 58,
-      "level" : 39,
-      "kind" : "Armour",
-      "name" : "Antique Gauntlets"
+      "level" : 39
    },
    {
-      "kind" : "Armour",
-      "name" : "Satin Gloves",
-      "type" : "Gloves",
+      "level" : 41,
       "int" : 60,
-      "level" : 41
-   },
-   {
-      "name" : "Zealot Gloves",
+      "name" : "Satin Gloves",
       "kind" : "Armour",
-      "int" : 34,
-      "str" : 34,
-      "level" : 43,
       "type" : "Gloves"
    },
    {
-      "kind" : "Armour",
-      "dex" : 34,
-      "name" : "Serpentscale Gauntlets",
-      "type" : "Gloves",
       "level" : 43,
+      "int" : 34,
+      "name" : "Zealot Gloves",
+      "type" : "Gloves",
+      "kind" : "Armour",
       "str" : 34
    },
    {
-      "kind" : "Armour",
-      "dex" : 66,
-      "name" : "Sharkskin Gloves",
       "type" : "Gloves",
-      "level" : 45
+      "kind" : "Armour",
+      "str" : 34,
+      "dex" : 34,
+      "name" : "Serpentscale Gauntlets",
+      "level" : 43
    },
    {
+      "level" : 45,
+      "dex" : 66,
+      "name" : "Sharkskin Gloves",
       "kind" : "Armour",
+      "type" : "Gloves"
+   },
+   {
       "name" : "Ambush Mitts",
       "dex" : 35,
+      "kind" : "Armour",
       "type" : "Gloves",
       "level" : 45,
       "int" : 35
    },
    {
-      "type" : "Gloves",
-      "str" : 68,
       "level" : 47,
+      "type" : "Gloves",
       "kind" : "Armour",
+      "str" : 68,
       "name" : "Ancient Gauntlets"
    },
    {
       "kind" : "Armour",
-      "name" : "Samite Gloves",
       "type" : "Gloves",
+      "name" : "Samite Gloves",
       "int" : 68,
       "level" : 47
    },
    {
-      "type" : "Gloves",
       "level" : 49,
-      "str" : 38,
-      "kind" : "Armour",
+      "name" : "Wyrmscale Gauntlets",
       "dex" : 38,
-      "name" : "Wyrmscale Gauntlets"
+      "str" : 38,
+      "type" : "Gloves",
+      "kind" : "Armour"
    },
    {
-      "kind" : "Armour",
+      "level" : 50,
+      "int" : 39,
       "name" : "Carnal Mitts",
       "dex" : 39,
-      "type" : "Gloves",
-      "level" : 50,
-      "int" : 39
+      "kind" : "Armour",
+      "type" : "Gloves"
    },
    {
-      "int" : 40,
       "str" : 40,
-      "level" : 51,
+      "kind" : "Armour",
       "type" : "Gloves",
       "name" : "Soldier Gloves",
-      "kind" : "Armour"
+      "int" : 40,
+      "level" : 51
+   },
+   {
+      "level" : 53,
+      "str" : 77,
+      "kind" : "Armour",
+      "type" : "Gloves",
+      "name" : "Goliath Gauntlets"
    },
    {
       "kind" : "Armour",
-      "name" : "Goliath Gauntlets",
       "type" : "Gloves",
-      "level" : 53,
-      "str" : 77
-   },
-   {
       "name" : "Shagreen Gloves",
       "dex" : 78,
-      "kind" : "Armour",
-      "level" : 54,
-      "type" : "Gloves"
+      "level" : 54
    },
    {
-      "type" : "Gloves",
       "level" : 55,
       "int" : 79,
+      "name" : "Conjurer Gloves",
       "kind" : "Armour",
-      "name" : "Conjurer Gloves"
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Legion Gloves",
-      "type" : "Gloves",
-      "str" : 44,
-      "int" : 44,
-      "level" : 57
-   },
-   {
-      "kind" : "Armour",
-      "dex" : 45,
-      "name" : "Assassin's Mitts",
-      "type" : "Gloves",
-      "int" : 45,
-      "level" : 58
-   },
-   {
-      "type" : "Gloves",
-      "level" : 59,
-      "str" : 45,
-      "kind" : "Armour",
-      "dex" : 45,
-      "name" : "Hydrascale Gauntlets"
-   },
-   {
-      "type" : "Gloves",
-      "level" : 60,
-      "int" : 95,
-      "kind" : "Armour",
-      "name" : "Arcanist Gloves"
-   },
-   {
-      "dex" : 97,
-      "name" : "Stealth Gloves",
-      "kind" : "Armour",
-      "level" : 62,
       "type" : "Gloves"
    },
    {
-      "type" : "Gloves",
-      "str" : 100,
-      "level" : 63,
+      "level" : 57,
+      "int" : 44,
+      "name" : "Legion Gloves",
       "kind" : "Armour",
-      "name" : "Vaal Gauntlets"
+      "type" : "Gloves",
+      "str" : 44
    },
    {
-      "int" : 51,
-      "level" : 66,
-      "str" : 51,
+      "name" : "Assassin's Mitts",
+      "dex" : 45,
       "type" : "Gloves",
-      "name" : "Crusader Gloves",
+      "kind" : "Armour",
+      "level" : 58,
+      "int" : 45
+   },
+   {
+      "type" : "Gloves",
+      "kind" : "Armour",
+      "str" : 45,
+      "dex" : 45,
+      "name" : "Hydrascale Gauntlets",
+      "level" : 59
+   },
+   {
+      "name" : "Arcanist Gloves",
+      "kind" : "Armour",
+      "type" : "Gloves",
+      "level" : 60,
+      "int" : 95
+   },
+   {
+      "level" : 62,
+      "name" : "Stealth Gloves",
+      "dex" : 97,
+      "type" : "Gloves",
       "kind" : "Armour"
    },
    {
-      "kind" : "Armour",
-      "dex" : 51,
-      "name" : "Dragonscale Gauntlets",
+      "level" : 63,
+      "name" : "Vaal Gauntlets",
+      "str" : 100,
       "type" : "Gloves",
+      "kind" : "Armour"
+   },
+   {
+      "level" : 66,
+      "int" : 51,
+      "name" : "Crusader Gloves",
+      "kind" : "Armour",
+      "type" : "Gloves",
+      "str" : 51
+   },
+   {
       "str" : 51,
+      "kind" : "Armour",
+      "type" : "Gloves",
+      "name" : "Dragonscale Gauntlets",
+      "dex" : 51,
       "level" : 67
    },
    {
+      "int" : 51,
+      "level" : 67,
+      "type" : "Gloves",
       "kind" : "Armour",
       "dex" : 51,
-      "name" : "Murder Mitts",
-      "type" : "Gloves",
-      "level" : 67,
-      "int" : 51
+      "name" : "Murder Mitts"
    },
    {
-      "type" : "Gloves",
       "level" : 69,
       "str" : 98,
+      "type" : "Gloves",
       "kind" : "Armour",
       "name" : "Titan Gauntlets"
    },
    {
-      "name" : "Sorcerer Gloves",
-      "kind" : "Armour",
-      "int" : 97,
       "level" : 69,
-      "type" : "Gloves"
+      "int" : 97,
+      "name" : "Sorcerer Gloves",
+      "type" : "Gloves",
+      "kind" : "Armour"
    },
    {
-      "dex" : 95,
-      "name" : "Slink Gloves",
-      "kind" : "Armour",
       "level" : 70,
-      "type" : "Gloves"
+      "kind" : "Armour",
+      "type" : "Gloves",
+      "dex" : 95,
+      "name" : "Slink Gloves"
    },
    {
-      "name" : "Fingerless Silk Gloves",
-      "kind" : "Armour",
       "level" : 73,
       "int" : 95,
-      "type" : "Gloves"
+      "name" : "Fingerless Silk Gloves",
+      "type" : "Gloves",
+      "kind" : "Armour"
    },
    {
-      "kind" : "Armour",
-      "name" : "Gripped Gloves",
       "dex" : 95,
+      "name" : "Gripped Gloves",
       "type" : "Gloves",
+      "kind" : "Armour",
       "level" : 73
    },
    {
-      "kind" : "Armour",
-      "name" : "Spiked Gloves",
-      "type" : "Gloves",
       "level" : 73,
-      "str" : 95
-   },
-   {
-      "type" : "Helmet",
-      "str" : 9,
-      "level" : 1,
       "kind" : "Armour",
-      "name" : "Iron Hat"
+      "type" : "Gloves",
+      "str" : 95,
+      "name" : "Spiked Gloves"
    },
    {
+      "name" : "Iron Hat",
+      "str" : 9,
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "level" : 1
+   },
+   {
+      "level" : 3,
+      "type" : "Helmet",
       "kind" : "Armour",
       "name" : "Leather Cap",
-      "dex" : 13,
+      "dex" : 13
+   },
+   {
       "type" : "Helmet",
+      "kind" : "Armour",
+      "name" : "Vine Circlet",
+      "int" : 13,
       "level" : 3
    },
    {
       "kind" : "Armour",
-      "name" : "Vine Circlet",
-      "type" : "Helmet",
-      "level" : 3,
-      "int" : 13
-   },
-   {
-      "level" : 4,
-      "int" : 8,
       "type" : "Helmet",
       "name" : "Scare Mask",
       "dex" : 8,
-      "kind" : "Armour"
+      "int" : 8,
+      "level" : 4
    },
    {
-      "type" : "Helmet",
       "level" : 4,
+      "kind" : "Armour",
+      "type" : "Helmet",
       "str" : 8,
-      "kind" : "Armour",
-      "name" : "Battered Helm",
-      "dex" : 8
+      "dex" : 8,
+      "name" : "Battered Helm"
    },
    {
-      "str" : 9,
-      "int" : 9,
-      "level" : 5,
-      "type" : "Helmet",
       "name" : "Rusted Coif",
-      "kind" : "Armour"
-   },
-   {
-      "type" : "Helmet",
-      "str" : 21,
-      "level" : 7,
       "kind" : "Armour",
-      "name" : "Cone Helmet"
+      "type" : "Helmet",
+      "str" : 9,
+      "level" : 5,
+      "int" : 9
    },
    {
-      "level" : 8,
-      "int" : 23,
-      "type" : "Helmet",
+      "level" : 7,
+      "name" : "Cone Helmet",
+      "str" : 21,
+      "kind" : "Armour",
+      "type" : "Helmet"
+   },
+   {
       "name" : "Iron Circlet",
-      "kind" : "Armour"
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "level" : 8,
+      "int" : 23
    },
    {
-      "type" : "Helmet",
       "level" : 10,
       "int" : 14,
-      "kind" : "Armour",
+      "name" : "Plague Mask",
       "dex" : 14,
-      "name" : "Plague Mask"
+      "kind" : "Armour",
+      "type" : "Helmet"
    },
    {
-      "dex" : 27,
-      "name" : "Tricorne",
-      "kind" : "Armour",
       "level" : 10,
+      "name" : "Tricorne",
+      "dex" : 27,
+      "kind" : "Armour",
       "type" : "Helmet"
    },
    {
-      "type" : "Helmet",
       "str" : 16,
-      "int" : 16,
-      "level" : 12,
-      "kind" : "Armour",
-      "name" : "Soldier Helmet"
-   },
-   {
-      "dex" : 18,
-      "name" : "Sallet",
-      "kind" : "Armour",
-      "level" : 13,
-      "str" : 18,
-      "type" : "Helmet"
-   },
-   {
       "type" : "Helmet",
-      "level" : 17,
-      "int" : 21,
       "kind" : "Armour",
-      "dex" : 21,
-      "name" : "Iron Mask"
+      "name" : "Soldier Helmet",
+      "int" : 16,
+      "level" : 12
    },
    {
-      "name" : "Torture Cage",
+      "str" : 18,
+      "type" : "Helmet",
       "kind" : "Armour",
+      "name" : "Sallet",
+      "dex" : 18,
+      "level" : 13
+   },
+   {
+      "int" : 21,
+      "level" : 17,
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "name" : "Iron Mask",
+      "dex" : 21
+   },
+   {
       "level" : 17,
       "int" : 40,
+      "name" : "Torture Cage",
+      "kind" : "Armour",
       "type" : "Helmet"
    },
    {
-      "kind" : "Armour",
-      "name" : "Barbute Helmet",
-      "type" : "Helmet",
       "str" : 42,
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "name" : "Barbute Helmet",
       "level" : 18
    },
    {
-      "type" : "Helmet",
-      "level" : 20,
       "kind" : "Armour",
+      "type" : "Helmet",
+      "dex" : 46,
       "name" : "Leather Hood",
-      "dex" : 46
+      "level" : 20
    },
    {
-      "str" : 27,
-      "int" : 27,
       "level" : 22,
-      "type" : "Helmet",
+      "int" : 27,
       "name" : "Great Helmet",
-      "kind" : "Armour"
+      "str" : 27,
+      "kind" : "Armour",
+      "type" : "Helmet"
    },
    {
       "level" : 23,
-      "str" : 28,
-      "type" : "Helmet",
-      "dex" : 28,
       "name" : "Visored Sallet",
-      "kind" : "Armour"
+      "dex" : 28,
+      "str" : 28,
+      "kind" : "Armour",
+      "type" : "Helmet"
    },
    {
-      "int" : 58,
-      "level" : 26,
-      "type" : "Helmet",
       "name" : "Tribal Circlet",
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "level" : 26,
+      "int" : 58
    },
    {
       "kind" : "Armour",
-      "name" : "Close Helmet",
       "type" : "Helmet",
-      "level" : 26,
-      "str" : 58
+      "str" : 58,
+      "name" : "Close Helmet",
+      "level" : 26
    },
    {
-      "int" : 33,
       "level" : 28,
-      "type" : "Helmet",
+      "int" : 33,
       "name" : "Festival Mask",
       "dex" : 33,
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "type" : "Helmet"
    },
    {
       "level" : 30,
-      "type" : "Helmet",
-      "dex" : 66,
       "name" : "Wolf Pelt",
+      "dex" : 66,
+      "type" : "Helmet",
       "kind" : "Armour"
    },
    {
-      "int" : 36,
       "level" : 31,
-      "str" : 36,
-      "type" : "Helmet",
+      "int" : 36,
       "name" : "Crusader Helmet",
-      "kind" : "Armour"
+      "str" : 36,
+      "kind" : "Armour",
+      "type" : "Helmet"
    },
    {
-      "kind" : "Armour",
-      "dex" : 38,
-      "name" : "Gilded Sallet",
-      "type" : "Helmet",
       "level" : 33,
-      "str" : 38
+      "str" : 38,
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "name" : "Gilded Sallet",
+      "dex" : 38
    },
    {
-      "name" : "Bone Circlet",
-      "kind" : "Armour",
       "int" : 73,
       "level" : 34,
-      "type" : "Helmet"
-   },
-   {
+      "kind" : "Armour",
       "type" : "Helmet",
-      "str" : 75,
-      "level" : 35,
-      "kind" : "Armour",
-      "name" : "Gladiator Helmet"
+      "name" : "Bone Circlet"
    },
    {
-      "name" : "Golden Mask",
-      "dex" : 40,
-      "kind" : "Armour",
       "level" : 35,
+      "name" : "Gladiator Helmet",
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "str" : 75
+   },
+   {
       "int" : 40,
-      "type" : "Helmet"
-   },
-   {
+      "level" : 35,
       "kind" : "Armour",
-      "name" : "Secutor Helm",
-      "dex" : 42,
       "type" : "Helmet",
-      "level" : 36,
-      "str" : 42
+      "dex" : 40,
+      "name" : "Golden Mask"
    },
    {
+      "level" : 36,
+      "kind" : "Armour",
       "type" : "Helmet",
-      "int" : 42,
       "str" : 42,
+      "dex" : 42,
+      "name" : "Secutor Helm"
+   },
+   {
+      "int" : 42,
       "level" : 37,
       "kind" : "Armour",
+      "type" : "Helmet",
+      "str" : 42,
       "name" : "Aventail Helmet"
    },
    {
       "level" : 38,
       "int" : 44,
-      "type" : "Helmet",
-      "name" : "Raven Mask",
       "dex" : 44,
-      "kind" : "Armour"
+      "name" : "Raven Mask",
+      "kind" : "Armour",
+      "type" : "Helmet"
    },
    {
-      "kind" : "Armour",
       "name" : "Lunaris Circlet",
+      "kind" : "Armour",
       "type" : "Helmet",
       "level" : 39,
       "int" : 83
    },
    {
-      "name" : "Reaver Helmet",
       "kind" : "Armour",
+      "type" : "Helmet",
       "str" : 85,
-      "level" : 40,
-      "type" : "Helmet"
+      "name" : "Reaver Helmet",
+      "level" : 40
    },
    {
-      "type" : "Helmet",
-      "level" : 41,
-      "kind" : "Armour",
       "name" : "Hunter Hood",
-      "dex" : 87
+      "dex" : 87,
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "level" : 41
    },
    {
       "name" : "Fencer Helm",
       "dex" : 49,
-      "kind" : "Armour",
       "str" : 49,
-      "level" : 43,
-      "type" : "Helmet"
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "level" : 43
+   },
+   {
+      "name" : "Zealot Helmet",
+      "str" : 50,
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "level" : 44,
+      "int" : 50
    },
    {
       "kind" : "Armour",
-      "name" : "Zealot Helmet",
-      "type" : "Helmet",
-      "int" : 50,
-      "level" : 44,
-      "str" : 50
-   },
-   {
-      "int" : 51,
-      "level" : 45,
       "type" : "Helmet",
       "dex" : 51,
       "name" : "Callous Mask",
-      "kind" : "Armour"
+      "int" : 51,
+      "level" : 45
    },
    {
+      "kind" : "Armour",
+      "type" : "Helmet",
       "name" : "Noble Tricorne",
       "dex" : 99,
-      "kind" : "Armour",
-      "level" : 47,
-      "type" : "Helmet"
+      "level" : 47
    },
    {
-      "type" : "Helmet",
-      "str" : 101,
       "level" : 48,
+      "name" : "Siege Helmet",
       "kind" : "Armour",
-      "name" : "Siege Helmet"
+      "type" : "Helmet",
+      "str" : 101
    },
    {
-      "int" : 101,
-      "level" : 48,
-      "type" : "Helmet",
       "name" : "Steel Circlet",
-      "kind" : "Armour"
-   },
-   {
-      "str" : 57,
-      "level" : 51,
-      "type" : "Helmet",
-      "dex" : 57,
-      "name" : "Lacquered Helmet",
-      "kind" : "Armour"
-   },
-   {
       "kind" : "Armour",
-      "name" : "Regicide Mask",
+      "type" : "Helmet",
+      "level" : 48,
+      "int" : 101
+   },
+   {
+      "level" : 51,
+      "str" : 57,
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "name" : "Lacquered Helmet",
+      "dex" : 57
+   },
+   {
       "dex" : 58,
+      "name" : "Regicide Mask",
+      "kind" : "Armour",
       "type" : "Helmet",
       "level" : 52,
       "int" : 58
@@ -1885,3166 +1885,3748 @@
       "level" : 53,
       "str" : 59,
       "type" : "Helmet",
-      "name" : "Great Crown",
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "name" : "Great Crown"
    },
    {
-      "kind" : "Armour",
-      "name" : "Necromancer Circlet",
-      "type" : "Helmet",
+      "level" : 54,
       "int" : 112,
-      "level" : 54
-   },
-   {
+      "name" : "Necromancer Circlet",
       "kind" : "Armour",
-      "name" : "Ursine Pelt",
-      "dex" : 114,
-      "type" : "Helmet",
-      "level" : 55
-   },
-   {
-      "name" : "Samite Helmet",
-      "kind" : "Armour",
-      "level" : 55,
-      "str" : 114,
       "type" : "Helmet"
    },
    {
-      "type" : "Helmet",
-      "level" : 57,
-      "int" : 64,
+      "level" : 55,
       "kind" : "Armour",
+      "type" : "Helmet",
+      "dex" : 114,
+      "name" : "Ursine Pelt"
+   },
+   {
+      "level" : 55,
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "str" : 114,
+      "name" : "Samite Helmet"
+   },
+   {
+      "int" : 64,
+      "level" : 57,
+      "kind" : "Armour",
+      "type" : "Helmet",
       "name" : "Harlequin Mask",
       "dex" : 64
    },
    {
-      "type" : "Helmet",
+      "level" : 58,
       "int" : 64,
+      "name" : "Magistrate Crown",
       "str" : 64,
-      "level" : 58,
-      "kind" : "Armour",
-      "name" : "Magistrate Crown"
-   },
-   {
-      "name" : "Fluted Bascinet",
-      "dex" : 64,
-      "kind" : "Armour",
-      "level" : 58,
-      "str" : 64,
-      "type" : "Helmet"
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Solaris Circlet",
       "type" : "Helmet",
-      "level" : 59,
-      "int" : 122
-   },
-   {
-      "type" : "Helmet",
-      "str" : 138,
-      "level" : 60,
-      "kind" : "Armour",
-      "name" : "Ezomyte Burgonet"
-   },
-   {
-      "type" : "Helmet",
-      "level" : 60,
-      "kind" : "Armour",
-      "dex" : 138,
-      "name" : "Silken Hood"
-   },
-   {
-      "type" : "Helmet",
-      "level" : 62,
-      "int" : 72,
-      "kind" : "Armour",
-      "dex" : 79,
-      "name" : "Vaal Mask"
-   },
-   {
-      "name" : "Prophet Crown",
-      "kind" : "Armour",
-      "str" : 85,
-      "int" : 62,
-      "level" : 63,
-      "type" : "Helmet"
-   },
-   {
-      "type" : "Helmet",
-      "level" : 63,
-      "str" : 85,
-      "kind" : "Armour",
-      "name" : "Pig-Faced Bascinet",
-      "dex" : 62
-   },
-   {
-      "dex" : 138,
-      "name" : "Sinner Tricorne",
-      "kind" : "Armour",
-      "level" : 64,
-      "type" : "Helmet"
-   },
-   {
-      "name" : "Royal Burgonet",
-      "kind" : "Armour",
-      "str" : 148,
-      "level" : 65,
-      "type" : "Helmet"
-   },
-   {
-      "type" : "Helmet",
-      "level" : 65,
-      "int" : 138,
-      "kind" : "Armour",
-      "name" : "Mind Cage"
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Deicide Mask",
-      "dex" : 73,
-      "type" : "Helmet",
-      "int" : 88,
-      "level" : 67
-   },
-   {
-      "str" : 62,
-      "level" : 67,
-      "type" : "Helmet",
-      "name" : "Nightmare Bascinet",
-      "dex" : 85,
       "kind" : "Armour"
    },
    {
+      "level" : 58,
+      "name" : "Fluted Bascinet",
+      "dex" : 64,
+      "str" : 64,
       "kind" : "Armour",
-      "name" : "Praetor Crown",
+      "type" : "Helmet"
+   },
+   {
       "type" : "Helmet",
-      "level" : 68,
-      "int" : 91,
-      "str" : 62
+      "kind" : "Armour",
+      "name" : "Solaris Circlet",
+      "int" : 122,
+      "level" : 59
+   },
+   {
+      "name" : "Ezomyte Burgonet",
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "str" : 138,
+      "level" : 60
    },
    {
       "kind" : "Armour",
-      "name" : "Eternal Burgonet",
       "type" : "Helmet",
+      "name" : "Silken Hood",
+      "dex" : 138,
+      "level" : 60
+   },
+   {
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "name" : "Vaal Mask",
+      "dex" : 79,
+      "int" : 72,
+      "level" : 62
+   },
+   {
+      "name" : "Prophet Crown",
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "str" : 85,
+      "level" : 63,
+      "int" : 62
+   },
+   {
+      "level" : 63,
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "str" : 85,
+      "dex" : 62,
+      "name" : "Pig-Faced Bascinet"
+   },
+   {
+      "level" : 64,
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "name" : "Sinner Tricorne",
+      "dex" : 138
+   },
+   {
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "str" : 148,
+      "name" : "Royal Burgonet",
+      "level" : 65
+   },
+   {
+      "name" : "Mind Cage",
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "level" : 65,
+      "int" : 138
+   },
+   {
+      "int" : 88,
+      "level" : 67,
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "dex" : 73,
+      "name" : "Deicide Mask"
+   },
+   {
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "str" : 62,
+      "dex" : 85,
+      "name" : "Nightmare Bascinet",
+      "level" : 67
+   },
+   {
+      "name" : "Praetor Crown",
+      "str" : 62,
+      "type" : "Helmet",
+      "kind" : "Armour",
+      "level" : 68,
+      "int" : 91
+   },
+   {
+      "level" : 69,
       "str" : 138,
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "name" : "Eternal Burgonet"
+   },
+   {
+      "kind" : "Armour",
+      "type" : "Helmet",
+      "name" : "Hubris Circlet",
+      "int" : 154,
       "level" : 69
    },
    {
       "type" : "Helmet",
-      "level" : 69,
-      "int" : 154,
-      "kind" : "Armour",
-      "name" : "Hubris Circlet"
-   },
-   {
       "kind" : "Armour",
       "name" : "Lion Pelt",
       "dex" : 150,
-      "type" : "Helmet",
       "level" : 70
    },
    {
       "name" : "Bone Helmet",
       "kind" : "Armour",
-      "int" : 76,
-      "level" : 75,
+      "type" : "Helmet",
       "str" : 76,
-      "type" : "Helmet"
+      "level" : 75,
+      "int" : 76
    },
    {
+      "str" : 11,
+      "type" : "Shield",
       "kind" : "Armour",
       "name" : "Splintered Tower Shield",
-      "type" : "Shield",
-      "level" : 1,
-      "str" : 11
+      "level" : 1
    },
    {
-      "type" : "Shield",
-      "level" : 2,
       "kind" : "Armour",
+      "type" : "Shield",
       "name" : "Goathide Buckler",
-      "dex" : 13
+      "dex" : 13,
+      "level" : 2
    },
    {
-      "kind" : "Armour",
+      "level" : 3,
+      "int" : 15,
       "name" : "Twig Spirit Shield",
       "type" : "Shield",
-      "level" : 3,
-      "int" : 15
+      "kind" : "Armour"
    },
    {
-      "kind" : "Armour",
       "name" : "Corroded Tower Shield",
       "type" : "Shield",
-      "level" : 5,
-      "str" : 20
-   },
-   {
       "kind" : "Armour",
-      "dex" : 11,
-      "name" : "Spiked Bundle",
-      "type" : "Shield",
-      "int" : 11,
+      "str" : 20,
       "level" : 5
    },
    {
-      "type" : "Shield",
+      "int" : 11,
       "level" : 5,
-      "str" : 11,
+      "type" : "Shield",
       "kind" : "Armour",
-      "name" : "Rotted Round Shield",
-      "dex" : 11
+      "dex" : 11,
+      "name" : "Spiked Bundle"
    },
    {
+      "kind" : "Armour",
       "type" : "Shield",
-      "str" : 13,
+      "str" : 11,
+      "dex" : 11,
+      "name" : "Rotted Round Shield",
+      "level" : 5
+   },
+   {
       "int" : 13,
       "level" : 7,
+      "str" : 13,
       "kind" : "Armour",
+      "type" : "Shield",
       "name" : "Plank Kite Shield"
    },
    {
       "level" : 8,
-      "type" : "Shield",
-      "name" : "Pine Buckler",
       "dex" : 26,
+      "name" : "Pine Buckler",
+      "type" : "Shield",
       "kind" : "Armour"
    },
    {
-      "name" : "Yew Spirit Shield",
-      "kind" : "Armour",
-      "level" : 9,
       "int" : 29,
-      "type" : "Shield"
+      "level" : 9,
+      "type" : "Shield",
+      "kind" : "Armour",
+      "name" : "Yew Spirit Shield"
    },
    {
-      "type" : "Shield",
-      "str" : 33,
       "level" : 11,
+      "str" : 33,
+      "type" : "Shield",
       "kind" : "Armour",
       "name" : "Rawhide Tower Shield"
    },
    {
-      "level" : 12,
-      "int" : 19,
       "type" : "Shield",
+      "kind" : "Armour",
       "dex" : 19,
       "name" : "Driftwood Spiked Shield",
-      "kind" : "Armour"
+      "int" : 19,
+      "level" : 12
    },
    {
       "level" : 12,
-      "str" : 19,
+      "kind" : "Armour",
       "type" : "Shield",
+      "str" : 19,
       "dex" : 19,
-      "name" : "Fir Round Shield",
-      "kind" : "Armour"
+      "name" : "Fir Round Shield"
    },
    {
       "level" : 13,
       "int" : 20,
-      "str" : 20,
-      "type" : "Shield",
       "name" : "Linden Kite Shield",
-      "kind" : "Armour"
+      "type" : "Shield",
+      "kind" : "Armour",
+      "str" : 20
    },
    {
+      "name" : "Bone Spirit Shield",
       "type" : "Shield",
-      "int" : 42,
+      "kind" : "Armour",
       "level" : 15,
-      "kind" : "Armour",
-      "name" : "Bone Spirit Shield"
+      "int" : 42
    },
    {
       "kind" : "Armour",
-      "name" : "Painted Buckler",
-      "dex" : 44,
       "type" : "Shield",
+      "dex" : 44,
+      "name" : "Painted Buckler",
       "level" : 16
    },
    {
-      "str" : 47,
       "level" : 17,
-      "type" : "Shield",
       "name" : "Cedar Tower Shield",
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "type" : "Shield",
+      "str" : 47
    },
    {
+      "kind" : "Armour",
       "type" : "Shield",
-      "level" : 20,
-      "int" : 29,
       "str" : 29,
-      "kind" : "Armour",
-      "name" : "Reinforced Kite Shield"
-   },
-   {
-      "type" : "Shield",
+      "name" : "Reinforced Kite Shield",
       "int" : 29,
-      "level" : 20,
-      "kind" : "Armour",
-      "dex" : 29,
-      "name" : "Alloyed Spiked Shield"
+      "level" : 20
    },
    {
-      "kind" : "Armour",
+      "level" : 20,
+      "int" : 29,
+      "name" : "Alloyed Spiked Shield",
       "dex" : 29,
-      "name" : "Studded Round Shield",
+      "kind" : "Armour",
+      "type" : "Shield"
+   },
+   {
+      "level" : 20,
       "type" : "Shield",
-      "level" : 20,
-      "str" : 29
+      "kind" : "Armour",
+      "str" : 29,
+      "dex" : 29,
+      "name" : "Studded Round Shield"
    },
    {
       "kind" : "Armour",
+      "type" : "Shield",
       "name" : "Tarnished Spirit Shield",
-      "type" : "Shield",
       "int" : 60,
       "level" : 23
    },
    {
-      "kind" : "Armour",
-      "name" : "Hammered Buckler",
-      "dex" : 60,
       "type" : "Shield",
+      "kind" : "Armour",
+      "dex" : 60,
+      "name" : "Hammered Buckler",
       "level" : 23
    },
    {
-      "type" : "Shield",
-      "level" : 24,
+      "name" : "Copper Tower Shield",
       "str" : 62,
+      "type" : "Shield",
       "kind" : "Armour",
-      "name" : "Copper Tower Shield"
+      "level" : 24
    },
    {
-      "str" : 37,
       "level" : 27,
-      "type" : "Shield",
       "dex" : 37,
       "name" : "Scarlet Round Shield",
-      "kind" : "Armour"
-   },
-   {
       "kind" : "Armour",
-      "name" : "Layered Kite Shield",
       "type" : "Shield",
-      "int" : 37,
-      "level" : 27,
       "str" : 37
    },
    {
-      "int" : 37,
-      "level" : 27,
+      "kind" : "Armour",
       "type" : "Shield",
-      "name" : "Burnished Spiked Shield",
+      "str" : 37,
+      "name" : "Layered Kite Shield",
+      "int" : 37,
+      "level" : 27
+   },
+   {
+      "level" : 27,
+      "int" : 37,
       "dex" : 37,
+      "name" : "Burnished Spiked Shield",
+      "type" : "Shield",
       "kind" : "Armour"
    },
    {
-      "kind" : "Armour",
-      "name" : "Jingling Spirit Shield",
-      "type" : "Shield",
+      "int" : 71,
       "level" : 28,
-      "int" : 71
+      "kind" : "Armour",
+      "type" : "Shield",
+      "name" : "Jingling Spirit Shield"
    },
    {
-      "name" : "War Buckler",
+      "kind" : "Armour",
+      "type" : "Shield",
       "dex" : 74,
-      "kind" : "Armour",
-      "level" : 29,
-      "type" : "Shield"
+      "name" : "War Buckler",
+      "level" : 29
    },
    {
-      "type" : "Shield",
-      "level" : 30,
+      "name" : "Reinforced Tower Shield",
       "str" : 76,
+      "type" : "Shield",
       "kind" : "Armour",
-      "name" : "Reinforced Tower Shield"
+      "level" : 30
    },
    {
-      "kind" : "Armour",
-      "name" : "Splendid Round Shield",
-      "dex" : 44,
+      "level" : 33,
       "type" : "Shield",
+      "kind" : "Armour",
       "str" : 44,
-      "level" : 33
+      "dex" : 44,
+      "name" : "Splendid Round Shield"
    },
    {
       "int" : 83,
       "level" : 33,
+      "kind" : "Armour",
       "type" : "Shield",
-      "name" : "Brass Spirit Shield",
-      "kind" : "Armour"
+      "name" : "Brass Spirit Shield"
    },
    {
-      "kind" : "Armour",
-      "dex" : 44,
       "name" : "Ornate Spiked Shield",
+      "dex" : 44,
+      "kind" : "Armour",
       "type" : "Shield",
       "level" : 33,
       "int" : 44
    },
    {
-      "level" : 34,
       "type" : "Shield",
-      "name" : "Gilded Buckler",
-      "dex" : 85,
-      "kind" : "Armour"
-   },
-   {
-      "int" : 46,
-      "level" : 34,
-      "str" : 46,
-      "type" : "Shield",
-      "name" : "Ceremonial Kite Shield",
-      "kind" : "Armour"
-   },
-   {
-      "type" : "Shield",
-      "str" : 87,
-      "level" : 35,
       "kind" : "Armour",
-      "name" : "Painted Tower Shield"
+      "dex" : 85,
+      "name" : "Gilded Buckler",
+      "level" : 34
    },
    {
-      "level" : 37,
-      "int" : 92,
+      "kind" : "Armour",
       "type" : "Shield",
+      "str" : 46,
+      "name" : "Ceremonial Kite Shield",
+      "int" : 46,
+      "level" : 34
+   },
+   {
+      "level" : 35,
+      "name" : "Painted Tower Shield",
+      "type" : "Shield",
+      "kind" : "Armour",
+      "str" : 87
+   },
+   {
       "name" : "Walnut Spirit Shield",
-      "kind" : "Armour"
+      "type" : "Shield",
+      "kind" : "Armour",
+      "level" : 37,
+      "int" : 92
    },
    {
       "level" : 38,
+      "kind" : "Armour",
       "type" : "Shield",
-      "dex" : 94,
       "name" : "Oak Buckler",
-      "kind" : "Armour"
+      "dex" : 94
    },
    {
       "str" : 52,
-      "level" : 39,
       "type" : "Shield",
-      "dex" : 52,
-      "name" : "Maple Round Shield",
-      "kind" : "Armour"
-   },
-   {
       "kind" : "Armour",
+      "name" : "Maple Round Shield",
       "dex" : 52,
-      "name" : "Redwood Spiked Shield",
-      "type" : "Shield",
-      "int" : 52,
       "level" : 39
    },
    {
-      "str" : 96,
-      "level" : 39,
+      "dex" : 52,
+      "name" : "Redwood Spiked Shield",
       "type" : "Shield",
+      "kind" : "Armour",
+      "level" : 39,
+      "int" : 52
+   },
+   {
       "name" : "Buckskin Tower Shield",
+      "str" : 96,
+      "kind" : "Armour",
+      "type" : "Shield",
+      "level" : 39
+   },
+   {
+      "level" : 40,
+      "int" : 53,
+      "name" : "Etched Kite Shield",
+      "str" : 53,
+      "kind" : "Armour",
+      "type" : "Shield"
+   },
+   {
+      "int" : 101,
+      "level" : 41,
+      "kind" : "Armour",
+      "type" : "Shield",
+      "name" : "Ivory Spirit Shield"
+   },
+   {
+      "kind" : "Armour",
+      "type" : "Shield",
+      "dex" : 103,
+      "name" : "Enameled Buckler",
+      "level" : 42
+   },
+   {
+      "name" : "Mahogany Tower Shield",
+      "str" : 105,
+      "type" : "Shield",
+      "kind" : "Armour",
+      "level" : 43
+   },
+   {
+      "level" : 45,
+      "name" : "Spiked Round Shield",
+      "dex" : 59,
+      "str" : 59,
+      "kind" : "Armour",
+      "type" : "Shield"
+   },
+   {
+      "kind" : "Armour",
+      "type" : "Shield",
+      "name" : "Compound Spiked Shield",
+      "dex" : 59,
+      "int" : 59,
+      "level" : 45
+   },
+   {
+      "name" : "Ancient Spirit Shield",
+      "kind" : "Armour",
+      "type" : "Shield",
+      "level" : 45,
+      "int" : 110
+   },
+   {
+      "level" : 46,
+      "name" : "Corrugated Buckler",
+      "dex" : 112,
+      "type" : "Shield",
       "kind" : "Armour"
    },
    {
-      "name" : "Etched Kite Shield",
-      "kind" : "Armour",
-      "int" : 53,
-      "str" : 53,
-      "level" : 40,
-      "type" : "Shield"
-   },
-   {
-      "name" : "Ivory Spirit Shield",
-      "kind" : "Armour",
-      "level" : 41,
-      "int" : 101,
-      "type" : "Shield"
-   },
-   {
-      "dex" : 103,
-      "name" : "Enameled Buckler",
-      "kind" : "Armour",
-      "level" : 42,
-      "type" : "Shield"
-   },
-   {
-      "type" : "Shield",
-      "level" : 43,
-      "str" : 105,
-      "kind" : "Armour",
-      "name" : "Mahogany Tower Shield"
-   },
-   {
-      "name" : "Spiked Round Shield",
-      "dex" : 59,
-      "kind" : "Armour",
-      "str" : 59,
-      "level" : 45,
-      "type" : "Shield"
-   },
-   {
-      "name" : "Compound Spiked Shield",
-      "dex" : 59,
-      "kind" : "Armour",
-      "int" : 59,
-      "level" : 45,
-      "type" : "Shield"
-   },
-   {
-      "type" : "Shield",
-      "level" : 45,
-      "int" : 110,
-      "kind" : "Armour",
-      "name" : "Ancient Spirit Shield"
-   },
-   {
-      "type" : "Shield",
-      "level" : 46,
-      "kind" : "Armour",
-      "dex" : 112,
-      "name" : "Corrugated Buckler"
-   },
-   {
-      "name" : "Steel Kite Shield",
-      "kind" : "Armour",
-      "int" : 60,
-      "level" : 46,
       "str" : 60,
-      "type" : "Shield"
+      "kind" : "Armour",
+      "type" : "Shield",
+      "name" : "Steel Kite Shield",
+      "int" : 60,
+      "level" : 46
    },
    {
-      "name" : "Bronze Tower Shield",
-      "kind" : "Armour",
-      "str" : 114,
       "level" : 47,
-      "type" : "Shield"
+      "name" : "Bronze Tower Shield",
+      "type" : "Shield",
+      "kind" : "Armour",
+      "str" : 114
    },
    {
-      "dex" : 64,
-      "name" : "Polished Spiked Shield",
-      "kind" : "Armour",
-      "level" : 49,
       "int" : 64,
-      "type" : "Shield"
+      "level" : 49,
+      "kind" : "Armour",
+      "type" : "Shield",
+      "dex" : 64,
+      "name" : "Polished Spiked Shield"
    },
    {
       "level" : 49,
       "int" : 119,
-      "type" : "Shield",
       "name" : "Chiming Spirit Shield",
-      "kind" : "Armour"
-   },
-   {
-      "dex" : 64,
-      "name" : "Crimson Round Shield",
       "kind" : "Armour",
-      "str" : 64,
-      "level" : 49,
       "type" : "Shield"
    },
    {
-      "int" : 65,
-      "level" : 50,
+      "level" : 49,
+      "str" : 64,
+      "kind" : "Armour",
+      "type" : "Shield",
+      "name" : "Crimson Round Shield",
+      "dex" : 64
+   },
+   {
       "str" : 65,
+      "kind" : "Armour",
       "type" : "Shield",
       "name" : "Laminated Kite Shield",
-      "kind" : "Armour"
+      "int" : 65,
+      "level" : 50
    },
    {
-      "name" : "Battle Buckler",
-      "dex" : 121,
-      "kind" : "Armour",
       "level" : 50,
-      "type" : "Shield"
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Girded Tower Shield",
       "type" : "Shield",
-      "level" : 51,
-      "str" : 123
+      "kind" : "Armour",
+      "dex" : 121,
+      "name" : "Battle Buckler"
    },
    {
+      "name" : "Girded Tower Shield",
+      "kind" : "Armour",
+      "type" : "Shield",
+      "str" : 123,
+      "level" : 51
+   },
+   {
+      "name" : "Thorium Spirit Shield",
+      "kind" : "Armour",
       "type" : "Shield",
       "level" : 53,
-      "int" : 128,
-      "kind" : "Armour",
-      "name" : "Thorium Spirit Shield"
+      "int" : 128
    },
    {
       "kind" : "Armour",
+      "type" : "Shield",
       "name" : "Golden Buckler",
       "dex" : 130,
-      "type" : "Shield",
       "level" : 54
    },
    {
+      "type" : "Shield",
+      "kind" : "Armour",
       "dex" : 70,
       "name" : "Sovereign Spiked Shield",
-      "kind" : "Armour",
       "int" : 70,
-      "level" : 54,
-      "type" : "Shield"
+      "level" : 54
    },
    {
+      "level" : 54,
+      "str" : 70,
       "kind" : "Armour",
+      "type" : "Shield",
       "name" : "Baroque Round Shield",
-      "dex" : 70,
-      "type" : "Shield",
-      "level" : 54,
-      "str" : 70
+      "dex" : 70
    },
    {
-      "type" : "Shield",
-      "int" : 71,
+      "name" : "Angelic Kite Shield",
       "str" : 71,
-      "level" : 55,
       "kind" : "Armour",
-      "name" : "Angelic Kite Shield"
+      "type" : "Shield",
+      "level" : 55,
+      "int" : 71
    },
    {
-      "level" : 55,
+      "name" : "Crested Tower Shield",
       "str" : 132,
       "type" : "Shield",
-      "name" : "Crested Tower Shield",
-      "kind" : "Armour"
+      "kind" : "Armour",
+      "level" : 55
    },
    {
-      "level" : 56,
-      "int" : 134,
+      "kind" : "Armour",
       "type" : "Shield",
       "name" : "Lacewood Spirit Shield",
+      "int" : 134,
+      "level" : 56
+   },
+   {
+      "level" : 57,
+      "name" : "Ironwood Buckler",
+      "dex" : 137,
+      "type" : "Shield",
       "kind" : "Armour"
    },
    {
-      "kind" : "Armour",
-      "dex" : 137,
-      "name" : "Ironwood Buckler",
-      "type" : "Shield",
-      "level" : 57
-   },
-   {
-      "dex" : 74,
       "name" : "Alder Spiked Shield",
+      "dex" : 74,
       "kind" : "Armour",
-      "int" : 74,
+      "type" : "Shield",
       "level" : 58,
-      "type" : "Shield"
+      "int" : 74
    },
    {
       "level" : 58,
       "str" : 139,
+      "kind" : "Armour",
       "type" : "Shield",
-      "name" : "Shagreen Tower Shield",
-      "kind" : "Armour"
+      "name" : "Shagreen Tower Shield"
    },
    {
-      "kind" : "Armour",
-      "dex" : 74,
-      "name" : "Teak Round Shield",
-      "type" : "Shield",
       "level" : 58,
-      "str" : 74
-   },
-   {
-      "str" : 76,
-      "int" : 76,
-      "level" : 59,
+      "name" : "Teak Round Shield",
+      "dex" : 74,
+      "str" : 74,
       "type" : "Shield",
-      "name" : "Branded Kite Shield",
       "kind" : "Armour"
    },
    {
-      "name" : "Fossilised Spirit Shield",
+      "level" : 59,
+      "int" : 76,
+      "name" : "Branded Kite Shield",
+      "str" : 76,
       "kind" : "Armour",
+      "type" : "Shield"
+   },
+   {
       "level" : 59,
       "int" : 141,
-      "type" : "Shield"
-   },
-   {
+      "name" : "Fossilised Spirit Shield",
       "type" : "Shield",
-      "level" : 60,
-      "kind" : "Armour",
-      "name" : "Lacquered Buckler",
-      "dex" : 159
+      "kind" : "Armour"
    },
    {
-      "name" : "Ebony Tower Shield",
+      "dex" : 159,
+      "name" : "Lacquered Buckler",
       "kind" : "Armour",
+      "type" : "Shield",
+      "level" : 60
+   },
+   {
       "level" : 61,
+      "type" : "Shield",
+      "kind" : "Armour",
       "str" : 159,
-      "type" : "Shield"
+      "name" : "Ebony Tower Shield"
    },
    {
       "int" : 159,
       "level" : 62,
+      "kind" : "Armour",
       "type" : "Shield",
-      "name" : "Vaal Spirit Shield",
-      "kind" : "Armour"
+      "name" : "Vaal Spirit Shield"
    },
    {
-      "dex" : 85,
-      "name" : "Spiny Round Shield",
-      "kind" : "Armour",
       "level" : 62,
       "str" : 85,
-      "type" : "Shield"
+      "kind" : "Armour",
+      "type" : "Shield",
+      "name" : "Spiny Round Shield",
+      "dex" : 85
    },
    {
-      "type" : "Shield",
-      "int" : 85,
-      "level" : 62,
       "kind" : "Armour",
+      "type" : "Shield",
+      "name" : "Ezomyte Spiked Shield",
       "dex" : 85,
-      "name" : "Ezomyte Spiked Shield"
-   },
-   {
-      "kind" : "Armour",
-      "name" : "Champion Kite Shield",
-      "type" : "Shield",
-      "level" : 62,
       "int" : 85,
-      "str" : 85
+      "level" : 62
+   },
+   {
+      "name" : "Champion Kite Shield",
+      "kind" : "Armour",
+      "type" : "Shield",
+      "str" : 85,
+      "level" : 62,
+      "int" : 85
    },
    {
       "kind" : "Armour",
+      "type" : "Shield",
       "name" : "Vaal Buckler",
       "dex" : 159,
-      "type" : "Shield",
       "level" : 63
    },
    {
-      "kind" : "Armour",
       "name" : "Ezomyte Tower Shield",
-      "type" : "Shield",
       "str" : 159,
+      "type" : "Shield",
+      "kind" : "Armour",
       "level" : 64
    },
    {
-      "name" : "Mosaic Kite Shield",
-      "kind" : "Armour",
-      "level" : 65,
       "int" : 85,
+      "level" : 65,
       "str" : 85,
-      "type" : "Shield"
+      "kind" : "Armour",
+      "type" : "Shield",
+      "name" : "Mosaic Kite Shield"
    },
    {
       "name" : "Harmonic Spirit Shield",
       "kind" : "Armour",
+      "type" : "Shield",
       "level" : 65,
-      "int" : 159,
+      "int" : 159
+   },
+   {
+      "type" : "Shield",
+      "kind" : "Armour",
+      "name" : "Mirrored Spiked Shield",
+      "dex" : 85,
+      "int" : 85,
+      "level" : 66
+   },
+   {
+      "level" : 66,
+      "dex" : 85,
+      "name" : "Cardinal Round Shield",
+      "kind" : "Armour",
+      "type" : "Shield",
+      "str" : 85
+   },
+   {
+      "level" : 66,
+      "dex" : 159,
+      "name" : "Crusader Buckler",
+      "kind" : "Armour",
       "type" : "Shield"
    },
    {
-      "type" : "Shield",
-      "level" : 66,
-      "int" : 85,
-      "kind" : "Armour",
-      "dex" : 85,
-      "name" : "Mirrored Spiked Shield"
-   },
-   {
-      "str" : 85,
-      "level" : 66,
-      "type" : "Shield",
-      "dex" : 85,
-      "name" : "Cardinal Round Shield",
-      "kind" : "Armour"
-   },
-   {
-      "type" : "Shield",
-      "level" : 66,
-      "kind" : "Armour",
-      "name" : "Crusader Buckler",
-      "dex" : 159
-   },
-   {
-      "str" : 159,
       "level" : 67,
+      "kind" : "Armour",
       "type" : "Shield",
-      "name" : "Colossal Tower Shield",
-      "kind" : "Armour"
+      "str" : 159,
+      "name" : "Colossal Tower Shield"
    },
    {
       "name" : "Archon Kite Shield",
+      "type" : "Shield",
       "kind" : "Armour",
-      "level" : 68,
-      "int" : 85,
       "str" : 85,
-      "type" : "Shield"
+      "level" : 68,
+      "int" : 85
    },
    {
       "name" : "Titanium Spirit Shield",
       "kind" : "Armour",
-      "int" : 159,
+      "type" : "Shield",
       "level" : 68,
-      "type" : "Shield"
+      "int" : 159
    },
    {
+      "level" : 69,
+      "type" : "Shield",
       "kind" : "Armour",
       "dex" : 159,
-      "name" : "Imperial Buckler",
-      "type" : "Shield",
-      "level" : 69
+      "name" : "Imperial Buckler"
    },
    {
+      "int" : 85,
+      "level" : 70,
       "kind" : "Armour",
+      "type" : "Shield",
       "name" : "Supreme Spiked Shield",
-      "dex" : 85,
-      "type" : "Shield",
-      "level" : 70,
-      "int" : 85
-   },
-   {
-      "name" : "Pinnacle Tower Shield",
-      "kind" : "Armour",
-      "str" : 159,
-      "level" : 70,
-      "type" : "Shield"
-   },
-   {
-      "type" : "Shield",
-      "level" : 70,
-      "str" : 85,
-      "kind" : "Armour",
-      "name" : "Elegant Round Shield",
       "dex" : 85
    },
    {
-      "name" : "Crude Bow",
-      "dex" : 14,
-      "kind" : "Weapon",
+      "level" : 70,
+      "str" : 159,
+      "type" : "Shield",
+      "kind" : "Armour",
+      "name" : "Pinnacle Tower Shield"
+   },
+   {
+      "name" : "Elegant Round Shield",
+      "dex" : 85,
+      "str" : 85,
+      "type" : "Shield",
+      "kind" : "Armour",
+      "level" : 70
+   },
+   {
       "level" : 1,
-      "type" : "Bow"
+      "kind" : "Weapon",
+      "type" : "Bow",
+      "name" : "Crude Bow",
+      "dex" : 14
    },
    {
-      "type" : "Bow",
       "level" : 5,
-      "kind" : "Weapon",
+      "name" : "Short Bow",
       "dex" : 26,
-      "name" : "Short Bow"
-   },
-   {
-      "name" : "Long Bow",
-      "dex" : 38,
-      "kind" : "Weapon",
-      "level" : 9,
-      "type" : "Bow"
-   },
-   {
-      "level" : 14,
       "type" : "Bow",
+      "kind" : "Weapon"
+   },
+   {
+      "level" : 9,
+      "kind" : "Weapon",
+      "type" : "Bow",
+      "name" : "Long Bow",
+      "dex" : 38
+   },
+   {
+      "type" : "Bow",
+      "kind" : "Weapon",
       "name" : "Composite Bow",
       "dex" : 53,
-      "kind" : "Weapon"
+      "level" : 14
    },
    {
-      "level" : 18,
-      "type" : "Bow",
       "dex" : 65,
       "name" : "Recurve Bow",
-      "kind" : "Weapon"
+      "kind" : "Weapon",
+      "type" : "Bow",
+      "level" : 18
    },
    {
-      "level" : 23,
-      "type" : "Bow",
-      "dex" : 80,
       "name" : "Bone Bow",
-      "kind" : "Weapon"
+      "dex" : 80,
+      "kind" : "Weapon",
+      "type" : "Bow",
+      "level" : 23
    },
    {
-      "level" : 28,
-      "type" : "Bow",
       "dex" : 95,
       "name" : "Royal Bow",
-      "kind" : "Weapon"
-   },
-   {
       "type" : "Bow",
-      "level" : 32,
       "kind" : "Weapon",
-      "dex" : 107,
-      "name" : "Death Bow"
+      "level" : 28
    },
    {
+      "level" : 32,
       "type" : "Bow",
+      "kind" : "Weapon",
+      "name" : "Death Bow",
+      "dex" : 107
+   },
+   {
       "level" : 35,
       "kind" : "Weapon",
+      "type" : "Bow",
       "name" : "Grove Bow",
       "dex" : 116
    },
    {
-      "kind" : "Weapon",
+      "level" : 36,
       "dex" : 124,
       "name" : "Reflex Bow",
-      "type" : "Bow",
-      "level" : 36
-   },
-   {
-      "type" : "Bow",
-      "level" : 38,
       "kind" : "Weapon",
-      "name" : "Decurve Bow",
-      "dex" : 125
-   },
-   {
-      "level" : 41,
-      "type" : "Bow",
-      "name" : "Compound Bow",
-      "dex" : 134,
-      "kind" : "Weapon"
-   },
-   {
-      "kind" : "Weapon",
-      "dex" : 143,
-      "name" : "Sniper Bow",
-      "type" : "Bow",
-      "level" : 44
-   },
-   {
-      "level" : 47,
-      "type" : "Bow",
-      "name" : "Ivory Bow",
-      "dex" : 152,
-      "kind" : "Weapon"
-   },
-   {
-      "name" : "Highborn Bow",
-      "dex" : 161,
-      "kind" : "Weapon",
-      "level" : 50,
       "type" : "Bow"
    },
    {
+      "level" : 38,
       "type" : "Bow",
-      "level" : 53,
       "kind" : "Weapon",
-      "dex" : 170,
-      "name" : "Decimation Bow"
+      "dex" : 125,
+      "name" : "Decurve Bow"
    },
    {
+      "level" : 41,
       "kind" : "Weapon",
+      "type" : "Bow",
+      "dex" : 134,
+      "name" : "Compound Bow"
+   },
+   {
+      "level" : 44,
+      "name" : "Sniper Bow",
+      "dex" : 143,
+      "kind" : "Weapon",
+      "type" : "Bow"
+   },
+   {
+      "level" : 47,
+      "kind" : "Weapon",
+      "type" : "Bow",
+      "dex" : 152,
+      "name" : "Ivory Bow"
+   },
+   {
+      "level" : 50,
+      "name" : "Highborn Bow",
+      "dex" : 161,
+      "type" : "Bow",
+      "kind" : "Weapon"
+   },
+   {
+      "dex" : 170,
+      "name" : "Decimation Bow",
+      "type" : "Bow",
+      "kind" : "Weapon",
+      "level" : 53
+   },
+   {
       "dex" : 179,
       "name" : "Thicket Bow",
+      "kind" : "Weapon",
       "type" : "Bow",
       "level" : 56
    },
    {
       "kind" : "Weapon",
-      "name" : "Steelwood Bow",
-      "dex" : 190,
       "type" : "Bow",
+      "dex" : 190,
+      "name" : "Steelwood Bow",
       "level" : 57
    },
    {
-      "type" : "Bow",
       "level" : 58,
-      "kind" : "Weapon",
+      "name" : "Citadel Bow",
       "dex" : 185,
-      "name" : "Citadel Bow"
-   },
-   {
       "type" : "Bow",
-      "level" : 60,
-      "kind" : "Weapon",
-      "name" : "Ranger Bow",
-      "dex" : 212
+      "kind" : "Weapon"
    },
    {
+      "level" : 60,
+      "dex" : 212,
+      "name" : "Ranger Bow",
+      "type" : "Bow",
+      "kind" : "Weapon"
+   },
+   {
+      "level" : 62,
       "dex" : 212,
       "name" : "Assassin Bow",
       "kind" : "Weapon",
-      "level" : 62,
       "type" : "Bow"
    },
    {
-      "type" : "Bow",
-      "level" : 64,
       "kind" : "Weapon",
+      "type" : "Bow",
+      "dex" : 212,
       "name" : "Spine Bow",
-      "dex" : 212
+      "level" : 64
    },
    {
       "level" : 66,
       "type" : "Bow",
+      "kind" : "Weapon",
       "name" : "Imperial Bow",
-      "dex" : 212,
-      "kind" : "Weapon"
+      "dex" : 212
    },
    {
       "kind" : "Weapon",
+      "type" : "Bow",
       "dex" : 212,
       "name" : "Harbinger Bow",
-      "type" : "Bow",
       "level" : 68
    },
    {
+      "type" : "Bow",
       "kind" : "Weapon",
       "dex" : 222,
       "name" : "Maraketh Bow",
-      "type" : "Bow",
       "level" : 71
    },
    {
-      "int" : 11,
-      "level" : 3,
-      "type" : "Claw",
-      "name" : "Nailed Fist",
       "dex" : 11,
-      "kind" : "Weapon"
+      "name" : "Nailed Fist",
+      "type" : "Claw",
+      "kind" : "Weapon",
+      "level" : 3,
+      "int" : 11
    },
    {
-      "type" : "Claw",
-      "level" : 7,
       "int" : 20,
+      "level" : 7,
       "kind" : "Weapon",
+      "type" : "Claw",
       "name" : "Sharktooth Claw",
       "dex" : 14
    },
    {
-      "type" : "Claw",
-      "int" : 25,
-      "level" : 12,
-      "kind" : "Weapon",
       "name" : "Awl",
-      "dex" : 25
-   },
-   {
+      "dex" : 25,
       "type" : "Claw",
-      "int" : 27,
-      "level" : 17,
       "kind" : "Weapon",
-      "dex" : 39,
-      "name" : "Cat's Paw"
+      "level" : 12,
+      "int" : 25
    },
    {
+      "dex" : 39,
+      "name" : "Cat's Paw",
       "kind" : "Weapon",
+      "type" : "Claw",
+      "level" : 17,
+      "int" : 27
+   },
+   {
+      "level" : 22,
+      "int" : 41,
       "dex" : 41,
       "name" : "Blinder",
       "type" : "Claw",
-      "level" : 22,
-      "int" : 41
+      "kind" : "Weapon"
    },
    {
       "name" : "Timeworn Claw",
       "dex" : 39,
       "kind" : "Weapon",
+      "type" : "Claw",
       "level" : 26,
-      "int" : 56,
-      "type" : "Claw"
+      "int" : 56
    },
    {
-      "name" : "Sparkling Claw",
-      "dex" : 64,
-      "kind" : "Weapon",
-      "int" : 44,
       "level" : 30,
-      "type" : "Claw"
+      "int" : 44,
+      "dex" : 64,
+      "name" : "Sparkling Claw",
+      "type" : "Claw",
+      "kind" : "Weapon"
    },
    {
-      "name" : "Fright Claw",
+      "kind" : "Weapon",
+      "type" : "Claw",
       "dex" : 61,
-      "kind" : "Weapon",
+      "name" : "Fright Claw",
       "int" : 61,
-      "level" : 34,
-      "type" : "Claw"
-   },
-   {
-      "dex" : 67,
-      "name" : "Double Claw",
-      "kind" : "Weapon",
-      "level" : 36,
-      "int" : 67,
-      "type" : "Claw"
+      "level" : 34
    },
    {
       "type" : "Claw",
-      "level" : 37,
-      "int" : 77,
       "kind" : "Weapon",
-      "name" : "Thresher Claw",
-      "dex" : 53
+      "dex" : 67,
+      "name" : "Double Claw",
+      "int" : 67,
+      "level" : 36
    },
    {
+      "type" : "Claw",
+      "kind" : "Weapon",
+      "dex" : 53,
+      "name" : "Thresher Claw",
+      "int" : 77,
+      "level" : 37
+   },
+   {
+      "type" : "Claw",
       "kind" : "Weapon",
       "name" : "Gouger",
       "dex" : 70,
-      "type" : "Claw",
       "int" : 70,
       "level" : 40
    },
    {
-      "kind" : "Weapon",
-      "dex" : 88,
       "name" : "Tiger's Paw",
-      "type" : "Claw",
-      "int" : 61,
-      "level" : 43
-   },
-   {
-      "dex" : 80,
-      "name" : "Gut Ripper",
+      "dex" : 88,
       "kind" : "Weapon",
-      "level" : 46,
-      "int" : 80,
-      "type" : "Claw"
+      "type" : "Claw",
+      "level" : 43,
+      "int" : 61
    },
    {
-      "int" : 100,
-      "level" : 49,
       "type" : "Claw",
+      "kind" : "Weapon",
+      "name" : "Gut Ripper",
+      "dex" : 80,
+      "int" : 80,
+      "level" : 46
+   },
+   {
+      "level" : 49,
+      "int" : 100,
       "name" : "Prehistoric Claw",
       "dex" : 69,
-      "kind" : "Weapon"
+      "kind" : "Weapon",
+      "type" : "Claw"
    },
    {
       "int" : 73,
       "level" : 52,
       "type" : "Claw",
+      "kind" : "Weapon",
       "dex" : 105,
-      "name" : "Noble Claw",
-      "kind" : "Weapon"
+      "name" : "Noble Claw"
    },
    {
       "int" : 94,
       "level" : 55,
+      "kind" : "Weapon",
       "type" : "Claw",
-      "dex" : 94,
       "name" : "Eagle Claw",
-      "kind" : "Weapon"
+      "dex" : 94
    },
    {
-      "type" : "Claw",
       "int" : 103,
       "level" : 57,
       "kind" : "Weapon",
-      "dex" : 103,
-      "name" : "Twin Claw"
+      "type" : "Claw",
+      "name" : "Twin Claw",
+      "dex" : 103
    },
    {
-      "kind" : "Weapon",
-      "name" : "Great White Claw",
-      "dex" : 81,
-      "type" : "Claw",
+      "level" : 58,
       "int" : 117,
-      "level" : 58
-   },
-   {
-      "level" : 60,
-      "int" : 113,
+      "dex" : 81,
+      "name" : "Great White Claw",
       "type" : "Claw",
-      "dex" : 113,
-      "name" : "Throat Stabber",
       "kind" : "Weapon"
    },
    {
+      "int" : 113,
+      "level" : 60,
+      "kind" : "Weapon",
+      "type" : "Claw",
+      "dex" : 113,
+      "name" : "Throat Stabber"
+   },
+   {
+      "name" : "Hellion's Paw",
+      "dex" : 131,
+      "kind" : "Weapon",
       "type" : "Claw",
       "level" : 62,
-      "int" : 95,
-      "kind" : "Weapon",
-      "name" : "Hellion's Paw",
-      "dex" : 131
+      "int" : 95
    },
    {
       "int" : 113,
       "level" : 64,
+      "kind" : "Weapon",
       "type" : "Claw",
-      "name" : "Eye Gouger",
       "dex" : 113,
-      "kind" : "Weapon"
+      "name" : "Eye Gouger"
    },
    {
-      "dex" : 95,
-      "name" : "Vaal Claw",
-      "kind" : "Weapon",
       "int" : 131,
       "level" : 66,
-      "type" : "Claw"
-   },
-   {
-      "dex" : 131,
-      "name" : "Imperial Claw",
-      "kind" : "Weapon",
-      "level" : 68,
-      "int" : 95,
-      "type" : "Claw"
-   },
-   {
-      "name" : "Terror Claw",
-      "dex" : 113,
-      "kind" : "Weapon",
-      "level" : 70,
-      "int" : 113,
-      "type" : "Claw"
-   },
-   {
       "type" : "Claw",
-      "int" : 121,
-      "level" : 72,
       "kind" : "Weapon",
-      "dex" : 121,
-      "name" : "Gemini Claw"
+      "name" : "Vaal Claw",
+      "dex" : 95
    },
    {
-      "type" : "Dagger",
-      "int" : 6,
-      "level" : 1,
+      "int" : 95,
+      "level" : 68,
       "kind" : "Weapon",
-      "name" : "Glass Shank",
-      "dex" : 9
+      "type" : "Claw",
+      "dex" : 131,
+      "name" : "Imperial Claw"
    },
    {
-      "kind" : "Weapon",
-      "name" : "Skinning Knife",
-      "dex" : 16,
-      "type" : "Dagger",
-      "level" : 5,
-      "int" : 11
-   },
-   {
-      "type" : "Dagger",
-      "level" : 10,
-      "int" : 26,
-      "kind" : "Weapon",
-      "dex" : 18,
-      "name" : "Carving Knife"
-   },
-   {
-      "kind" : "Weapon",
-      "dex" : 30,
-      "name" : "Stiletto",
-      "type" : "Dagger",
-      "int" : 30,
-      "level" : 15
-   },
-   {
-      "type" : "Dagger",
-      "level" : 20,
-      "int" : 45,
-      "kind" : "Weapon",
-      "name" : "Boot Knife",
-      "dex" : 31
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Copper Kris",
-      "dex" : 28,
-      "type" : "Dagger",
-      "int" : 60,
-      "level" : 24
-   },
-   {
-      "type" : "Dagger",
-      "level" : 28,
-      "int" : 60,
-      "kind" : "Weapon",
-      "dex" : 42,
-      "name" : "Skean"
-   },
-   {
-      "type" : "Dagger",
-      "level" : 32,
-      "int" : 78,
-      "kind" : "Weapon",
-      "name" : "Imp Dagger",
-      "dex" : 36
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Flaying Knife",
-      "dex" : 73,
-      "type" : "Dagger",
-      "int" : 51,
-      "level" : 35
-   },
-   {
-      "type" : "Dagger",
-      "level" : 36,
-      "int" : 77,
-      "kind" : "Weapon",
-      "dex" : 55,
-      "name" : "Prong Dagger"
-   },
-   {
-      "name" : "Butcher Knife",
-      "dex" : 55,
-      "kind" : "Weapon",
-      "int" : 79,
-      "level" : 38,
-      "type" : "Dagger"
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Poignard",
-      "dex" : 72,
-      "type" : "Dagger",
-      "int" : 72,
-      "level" : 41
-   },
-   {
-      "kind" : "Weapon",
-      "dex" : 63,
-      "name" : "Boot Blade",
-      "type" : "Dagger",
-      "level" : 44,
-      "int" : 90
-   },
-   {
-      "type" : "Dagger",
-      "level" : 47,
-      "int" : 110,
-      "kind" : "Weapon",
-      "dex" : 51,
-      "name" : "Golden Kris"
-   },
-   {
-      "int" : 102,
-      "level" : 50,
-      "type" : "Dagger",
-      "name" : "Royal Skean",
-      "dex" : 71,
-      "kind" : "Weapon"
-   },
-   {
-      "kind" : "Weapon",
-      "dex" : 58,
-      "name" : "Fiend Dagger",
-      "type" : "Dagger",
-      "level" : 53,
-      "int" : 123
-   },
-   {
-      "level" : 55,
-      "int" : 106,
-      "type" : "Dagger",
-      "dex" : 89,
-      "name" : "Trisula",
-      "kind" : "Weapon"
-   },
-   {
-      "dex" : 113,
-      "name" : "Gutting Knife",
-      "kind" : "Weapon",
-      "int" : 78,
-      "level" : 56,
-      "type" : "Dagger"
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Slaughter Knife",
-      "dex" : 81,
-      "type" : "Dagger",
-      "level" : 58,
-      "int" : 117
-   },
-   {
-      "type" : "Dagger",
-      "level" : 60,
       "int" : 113,
+      "level" : 70,
+      "type" : "Claw",
       "kind" : "Weapon",
-      "name" : "Ambusher",
+      "name" : "Terror Claw",
       "dex" : 113
    },
    {
+      "type" : "Claw",
       "kind" : "Weapon",
-      "name" : "Ezomyte Dagger",
-      "dex" : 95,
-      "type" : "Dagger",
-      "level" : 62,
-      "int" : 131
+      "dex" : 121,
+      "name" : "Gemini Claw",
+      "int" : 121,
+      "level" : 72
    },
    {
-      "dex" : 76,
-      "name" : "Platinum Kris",
+      "level" : 1,
+      "int" : 6,
+      "name" : "Glass Shank",
+      "dex" : 9,
+      "type" : "Dagger",
+      "kind" : "Weapon"
+   },
+   {
+      "int" : 11,
+      "level" : 5,
+      "type" : "Dagger",
       "kind" : "Weapon",
-      "int" : 149,
-      "level" : 64,
+      "dex" : 16,
+      "name" : "Skinning Knife"
+   },
+   {
+      "int" : 26,
+      "level" : 10,
+      "type" : "Dagger",
+      "kind" : "Weapon",
+      "name" : "Carving Knife",
+      "dex" : 18
+   },
+   {
+      "dex" : 30,
+      "name" : "Stiletto",
+      "kind" : "Weapon",
+      "type" : "Dagger",
+      "level" : 15,
+      "int" : 30
+   },
+   {
+      "name" : "Boot Knife",
+      "dex" : 31,
+      "type" : "Dagger",
+      "kind" : "Weapon",
+      "level" : 20,
+      "int" : 45
+   },
+   {
+      "level" : 24,
+      "int" : 60,
+      "name" : "Copper Kris",
+      "dex" : 28,
+      "type" : "Dagger",
+      "kind" : "Weapon"
+   },
+   {
+      "level" : 28,
+      "int" : 60,
+      "name" : "Skean",
+      "dex" : 42,
+      "kind" : "Weapon",
+      "type" : "Dagger"
+   },
+   {
+      "dex" : 36,
+      "name" : "Imp Dagger",
+      "kind" : "Weapon",
+      "type" : "Dagger",
+      "level" : 32,
+      "int" : 78
+   },
+   {
+      "level" : 35,
+      "int" : 51,
+      "dex" : 73,
+      "name" : "Flaying Knife",
+      "type" : "Dagger",
+      "kind" : "Weapon"
+   },
+   {
+      "level" : 36,
+      "int" : 77,
+      "dex" : 55,
+      "name" : "Prong Dagger",
+      "type" : "Dagger",
+      "kind" : "Weapon"
+   },
+   {
+      "type" : "Dagger",
+      "kind" : "Weapon",
+      "name" : "Butcher Knife",
+      "dex" : 55,
+      "int" : 79,
+      "level" : 38
+   },
+   {
+      "level" : 41,
+      "int" : 72,
+      "name" : "Poignard",
+      "dex" : 72,
+      "kind" : "Weapon",
+      "type" : "Dagger"
+   },
+   {
+      "type" : "Dagger",
+      "kind" : "Weapon",
+      "name" : "Boot Blade",
+      "dex" : 63,
+      "int" : 90,
+      "level" : 44
+   },
+   {
+      "dex" : 51,
+      "name" : "Golden Kris",
+      "type" : "Dagger",
+      "kind" : "Weapon",
+      "level" : 47,
+      "int" : 110
+   },
+   {
+      "dex" : 71,
+      "name" : "Royal Skean",
+      "type" : "Dagger",
+      "kind" : "Weapon",
+      "level" : 50,
+      "int" : 102
+   },
+   {
+      "kind" : "Weapon",
+      "type" : "Dagger",
+      "name" : "Fiend Dagger",
+      "dex" : 58,
+      "int" : 123,
+      "level" : 53
+   },
+   {
+      "int" : 106,
+      "level" : 55,
+      "type" : "Dagger",
+      "kind" : "Weapon",
+      "name" : "Trisula",
+      "dex" : 89
+   },
+   {
+      "kind" : "Weapon",
+      "type" : "Dagger",
+      "dex" : 113,
+      "name" : "Gutting Knife",
+      "int" : 78,
+      "level" : 56
+   },
+   {
+      "level" : 58,
+      "int" : 117,
+      "dex" : 81,
+      "name" : "Slaughter Knife",
+      "type" : "Dagger",
+      "kind" : "Weapon"
+   },
+   {
+      "name" : "Ambusher",
+      "dex" : 113,
+      "kind" : "Weapon",
+      "type" : "Dagger",
+      "level" : 60,
+      "int" : 113
+   },
+   {
+      "level" : 62,
+      "int" : 131,
+      "name" : "Ezomyte Dagger",
+      "dex" : 95,
+      "kind" : "Weapon",
       "type" : "Dagger"
    },
    {
       "kind" : "Weapon",
-      "dex" : 95,
-      "name" : "Imperial Skean",
       "type" : "Dagger",
-      "level" : 66,
-      "int" : 131
+      "name" : "Platinum Kris",
+      "dex" : 76,
+      "int" : 149,
+      "level" : 64
    },
    {
-      "int" : 149,
-      "level" : 68,
       "type" : "Dagger",
+      "kind" : "Weapon",
+      "name" : "Imperial Skean",
+      "dex" : 95,
+      "int" : 131,
+      "level" : 66
+   },
+   {
       "dex" : 76,
       "name" : "Demon Dagger",
-      "kind" : "Weapon"
-   },
-   {
       "type" : "Dagger",
-      "level" : 70,
-      "int" : 121,
       "kind" : "Weapon",
-      "name" : "Sai",
-      "dex" : 121
+      "level" : 68,
+      "int" : 149
    },
    {
-      "name" : "Rusted Hatchet",
-      "dex" : 6,
+      "name" : "Sai",
+      "dex" : 121,
+      "type" : "Dagger",
       "kind" : "Weapon",
-      "level" : 2,
+      "level" : 70,
+      "int" : 121
+   },
+   {
+      "type" : "One Hand Axe",
+      "kind" : "Weapon",
       "str" : 12,
-      "type" : "One Hand Axe"
+      "dex" : 6,
+      "name" : "Rusted Hatchet",
+      "level" : 2
    },
    {
       "str" : 21,
-      "level" : 6,
       "type" : "One Hand Axe",
-      "dex" : 10,
+      "kind" : "Weapon",
       "name" : "Jade Hatchet",
-      "kind" : "Weapon"
+      "dex" : 10,
+      "level" : 6
    },
    {
-      "level" : 11,
       "str" : 28,
+      "kind" : "Weapon",
       "type" : "One Hand Axe",
-      "dex" : 19,
       "name" : "Boarding Axe",
-      "kind" : "Weapon"
+      "dex" : 19,
+      "level" : 11
    },
    {
-      "type" : "One Hand Axe",
       "level" : 16,
       "str" : 48,
       "kind" : "Weapon",
-      "dex" : 14,
-      "name" : "Cleaver"
+      "type" : "One Hand Axe",
+      "name" : "Cleaver",
+      "dex" : 14
    },
    {
-      "name" : "Broad Axe",
       "dex" : 25,
+      "name" : "Broad Axe",
       "kind" : "Weapon",
-      "level" : 21,
+      "type" : "One Hand Axe",
       "str" : 54,
-      "type" : "One Hand Axe"
+      "level" : 21
    },
    {
-      "dex" : 33,
-      "name" : "Arming Axe",
-      "kind" : "Weapon",
       "level" : 25,
       "str" : 58,
-      "type" : "One Hand Axe"
-   },
-   {
-      "name" : "Decorative Axe",
-      "dex" : 23,
       "kind" : "Weapon",
-      "str" : 80,
-      "level" : 29,
-      "type" : "One Hand Axe"
-   },
-   {
       "type" : "One Hand Axe",
-      "str" : 85,
+      "name" : "Arming Axe",
+      "dex" : 33
+   },
+   {
+      "dex" : 23,
+      "name" : "Decorative Axe",
+      "kind" : "Weapon",
+      "type" : "One Hand Axe",
+      "str" : 80,
+      "level" : 29
+   },
+   {
       "level" : 33,
-      "kind" : "Weapon",
       "name" : "Spectral Axe",
-      "dex" : 37
+      "dex" : 37,
+      "str" : 85,
+      "type" : "One Hand Axe",
+      "kind" : "Weapon"
    },
    {
-      "dex" : 43,
-      "name" : "Etched Hatchet",
-      "kind" : "Weapon",
-      "level" : 35,
       "str" : 93,
-      "type" : "One Hand Axe"
+      "kind" : "Weapon",
+      "type" : "One Hand Axe",
+      "name" : "Etched Hatchet",
+      "dex" : 43,
+      "level" : 35
    },
    {
-      "level" : 36,
       "str" : 86,
       "type" : "One Hand Axe",
+      "kind" : "Weapon",
       "name" : "Jasper Axe",
       "dex" : 40,
-      "kind" : "Weapon"
+      "level" : 36
    },
    {
       "str" : 81,
-      "level" : 39,
+      "kind" : "Weapon",
       "type" : "One Hand Axe",
-      "dex" : 56,
       "name" : "Tomahawk",
-      "kind" : "Weapon"
+      "dex" : 56,
+      "level" : 39
    },
    {
-      "dex" : 32,
-      "name" : "Wrist Chopper",
-      "kind" : "Weapon",
       "level" : 42,
       "str" : 112,
-      "type" : "One Hand Axe"
+      "kind" : "Weapon",
+      "type" : "One Hand Axe",
+      "name" : "Wrist Chopper",
+      "dex" : 32
    },
    {
+      "level" : 45,
       "kind" : "Weapon",
-      "name" : "War Axe",
-      "dex" : 49,
       "type" : "One Hand Axe",
       "str" : 106,
-      "level" : 45
+      "dex" : 49,
+      "name" : "War Axe"
    },
    {
-      "kind" : "Weapon",
-      "name" : "Chest Splitter",
-      "dex" : 60,
-      "type" : "One Hand Axe",
       "level" : 48,
-      "str" : 105
+      "type" : "One Hand Axe",
+      "kind" : "Weapon",
+      "str" : 105,
+      "dex" : 60,
+      "name" : "Chest Splitter"
    },
    {
-      "kind" : "Weapon",
-      "name" : "Ceremonial Axe",
+      "level" : 51,
       "dex" : 39,
+      "name" : "Ceremonial Axe",
+      "kind" : "Weapon",
       "type" : "One Hand Axe",
-      "str" : 134,
-      "level" : 51
+      "str" : 134
    },
    {
       "name" : "Wraith Axe",
       "dex" : 59,
-      "kind" : "Weapon",
-      "level" : 54,
       "str" : 134,
-      "type" : "One Hand Axe"
+      "type" : "One Hand Axe",
+      "kind" : "Weapon",
+      "level" : 54
    },
    {
-      "type" : "One Hand Axe",
-      "str" : 143,
       "level" : 56,
+      "type" : "One Hand Axe",
       "kind" : "Weapon",
+      "str" : 143,
       "dex" : 66,
       "name" : "Engraved Hatchet"
    },
    {
-      "dex" : 62,
-      "name" : "Karui Axe",
-      "kind" : "Weapon",
-      "str" : 132,
       "level" : 57,
-      "type" : "One Hand Axe"
-   },
-   {
+      "str" : 132,
       "type" : "One Hand Axe",
-      "level" : 59,
-      "str" : 119,
       "kind" : "Weapon",
-      "dex" : 82,
-      "name" : "Siege Axe"
+      "name" : "Karui Axe",
+      "dex" : 62
    },
    {
-      "level" : 61,
-      "str" : 167,
+      "kind" : "Weapon",
       "type" : "One Hand Axe",
+      "str" : 119,
+      "dex" : 82,
+      "name" : "Siege Axe",
+      "level" : 59
+   },
+   {
+      "type" : "One Hand Axe",
+      "kind" : "Weapon",
+      "str" : 167,
       "dex" : 57,
       "name" : "Reaver Axe",
-      "kind" : "Weapon"
+      "level" : 61
    },
    {
-      "type" : "One Hand Axe",
-      "str" : 149,
       "level" : 63,
-      "kind" : "Weapon",
       "dex" : 76,
-      "name" : "Butcher Axe"
+      "name" : "Butcher Axe",
+      "kind" : "Weapon",
+      "type" : "One Hand Axe",
+      "str" : 149
    },
    {
-      "kind" : "Weapon",
+      "level" : 65,
       "dex" : 86,
       "name" : "Vaal Hatchet",
+      "kind" : "Weapon",
       "type" : "One Hand Axe",
-      "str" : 140,
-      "level" : 65
+      "str" : 140
    },
    {
-      "level" : 67,
+      "kind" : "Weapon",
+      "type" : "One Hand Axe",
       "str" : 167,
-      "type" : "One Hand Axe",
-      "name" : "Royal Axe",
       "dex" : 57,
-      "kind" : "Weapon"
+      "name" : "Royal Axe",
+      "level" : 67
    },
    {
-      "name" : "Infernal Axe",
-      "dex" : 76,
       "kind" : "Weapon",
-      "level" : 69,
+      "type" : "One Hand Axe",
       "str" : 158,
-      "type" : "One Hand Axe"
+      "dex" : 76,
+      "name" : "Infernal Axe",
+      "level" : 69
    },
    {
-      "dex" : 82,
-      "name" : "Runic Hatchet",
-      "kind" : "Weapon",
-      "str" : 163,
       "level" : 71,
-      "type" : "One Hand Axe"
-   },
-   {
-      "type" : "One Hand Mace",
-      "str" : 14,
-      "level" : 1,
+      "str" : 163,
+      "type" : "One Hand Axe",
       "kind" : "Weapon",
-      "name" : "Driftwood Club"
+      "name" : "Runic Hatchet",
+      "dex" : 82
    },
    {
-      "level" : 5,
-      "str" : 26,
+      "str" : 14,
       "type" : "One Hand Mace",
-      "name" : "Tribal Club",
-      "kind" : "Weapon"
+      "kind" : "Weapon",
+      "name" : "Driftwood Club",
+      "level" : 1
    },
    {
+      "name" : "Tribal Club",
+      "kind" : "Weapon",
+      "type" : "One Hand Mace",
+      "str" : 26,
+      "level" : 5
+   },
+   {
+      "str" : 41,
+      "type" : "One Hand Mace",
       "kind" : "Weapon",
       "name" : "Spiked Club",
-      "type" : "One Hand Mace",
-      "str" : 41,
       "level" : 10
    },
    {
+      "name" : "Stone Hammer",
       "type" : "One Hand Mace",
-      "str" : 56,
-      "level" : 15,
       "kind" : "Weapon",
-      "name" : "Stone Hammer"
+      "str" : 56,
+      "level" : 15
    },
    {
+      "str" : 71,
+      "type" : "One Hand Mace",
       "kind" : "Weapon",
       "name" : "War Hammer",
-      "type" : "One Hand Mace",
-      "str" : 71,
       "level" : 20
    },
    {
-      "kind" : "Weapon",
       "name" : "Bladed Mace",
-      "type" : "One Hand Mace",
       "str" : 83,
+      "type" : "One Hand Mace",
+      "kind" : "Weapon",
       "level" : 24
    },
    {
-      "type" : "One Hand Mace",
-      "str" : 95,
       "level" : 28,
+      "name" : "Ceremonial Mace",
       "kind" : "Weapon",
-      "name" : "Ceremonial Mace"
+      "type" : "One Hand Mace",
+      "str" : 95
    },
    {
-      "name" : "Dream Mace",
-      "kind" : "Weapon",
-      "level" : 32,
       "str" : 107,
-      "type" : "One Hand Mace"
+      "type" : "One Hand Mace",
+      "kind" : "Weapon",
+      "name" : "Dream Mace",
+      "level" : 32
    },
    {
-      "kind" : "Weapon",
       "name" : "Wyrm Mace",
+      "str" : 118,
       "type" : "One Hand Mace",
-      "level" : 34,
-      "str" : 118
+      "kind" : "Weapon",
+      "level" : 34
    },
    {
-      "kind" : "Weapon",
-      "name" : "Petrified Club",
       "type" : "One Hand Mace",
+      "kind" : "Weapon",
       "str" : 116,
+      "name" : "Petrified Club",
       "level" : 35
    },
    {
-      "str" : 125,
       "level" : 38,
-      "type" : "One Hand Mace",
       "name" : "Barbed Club",
-      "kind" : "Weapon"
-   },
-   {
-      "type" : "One Hand Mace",
-      "level" : 41,
-      "str" : 134,
+      "str" : 125,
       "kind" : "Weapon",
-      "name" : "Rock Breaker"
+      "type" : "One Hand Mace"
    },
    {
       "type" : "One Hand Mace",
+      "kind" : "Weapon",
+      "str" : 134,
+      "name" : "Rock Breaker",
+      "level" : 41
+   },
+   {
       "level" : 44,
+      "name" : "Battle Hammer",
       "str" : 143,
       "kind" : "Weapon",
-      "name" : "Battle Hammer"
+      "type" : "One Hand Mace"
    },
    {
+      "name" : "Flanged Mace",
       "type" : "One Hand Mace",
-      "str" : 152,
-      "level" : 47,
       "kind" : "Weapon",
-      "name" : "Flanged Mace"
+      "str" : 152,
+      "level" : 47
    },
    {
       "name" : "Ornate Mace",
-      "kind" : "Weapon",
       "str" : 161,
-      "level" : 50,
-      "type" : "One Hand Mace"
+      "kind" : "Weapon",
+      "type" : "One Hand Mace",
+      "level" : 50
    },
    {
       "name" : "Phantom Mace",
-      "kind" : "Weapon",
-      "level" : 53,
       "str" : 170,
+      "type" : "One Hand Mace",
+      "kind" : "Weapon",
+      "level" : 53
+   },
+   {
+      "level" : 55,
+      "name" : "Dragon Mace",
+      "type" : "One Hand Mace",
+      "kind" : "Weapon",
+      "str" : 184
+   },
+   {
+      "level" : 56,
+      "name" : "Ancestral Club",
+      "str" : 179,
+      "type" : "One Hand Mace",
+      "kind" : "Weapon"
+   },
+   {
+      "level" : 58,
+      "str" : 185,
+      "kind" : "Weapon",
+      "type" : "One Hand Mace",
+      "name" : "Tenderizer"
+   },
+   {
+      "level" : 60,
+      "name" : "Gavel",
+      "str" : 212,
+      "kind" : "Weapon",
       "type" : "One Hand Mace"
    },
    {
-      "type" : "One Hand Mace",
-      "level" : 55,
-      "str" : 184,
-      "kind" : "Weapon",
-      "name" : "Dragon Mace"
-   },
-   {
-      "str" : 179,
-      "level" : 56,
-      "type" : "One Hand Mace",
-      "name" : "Ancestral Club",
-      "kind" : "Weapon"
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Tenderizer",
-      "type" : "One Hand Mace",
-      "level" : 58,
-      "str" : 185
-   },
-   {
-      "str" : 212,
-      "level" : 60,
-      "type" : "One Hand Mace",
-      "name" : "Gavel",
-      "kind" : "Weapon"
-   },
-   {
-      "name" : "Legion Hammer",
-      "kind" : "Weapon",
       "level" : 62,
       "str" : 212,
-      "type" : "One Hand Mace"
+      "type" : "One Hand Mace",
+      "kind" : "Weapon",
+      "name" : "Legion Hammer"
    },
    {
       "level" : 64,
       "str" : 212,
+      "kind" : "Weapon",
       "type" : "One Hand Mace",
-      "name" : "Pernarch",
-      "kind" : "Weapon"
+      "name" : "Pernarch"
    },
    {
       "name" : "Auric Mace",
+      "type" : "One Hand Mace",
       "kind" : "Weapon",
       "str" : 212,
-      "level" : 66,
-      "type" : "One Hand Mace"
+      "level" : 66
    },
    {
-      "type" : "One Hand Mace",
       "level" : 68,
-      "str" : 212,
-      "kind" : "Weapon",
-      "name" : "Nightmare Mace"
-   },
-   {
-      "str" : 220,
-      "level" : 70,
+      "name" : "Nightmare Mace",
       "type" : "One Hand Mace",
-      "name" : "Behemoth Mace",
-      "kind" : "Weapon"
+      "kind" : "Weapon",
+      "str" : 212
    },
    {
-      "str" : 8,
+      "name" : "Behemoth Mace",
+      "kind" : "Weapon",
+      "type" : "One Hand Mace",
+      "str" : 220,
+      "level" : 70
+   },
+   {
       "level" : 1,
-      "type" : "One Hand Sword",
       "dex" : 8,
       "name" : "Rusted Sword",
-      "kind" : "Weapon"
+      "type" : "One Hand Sword",
+      "kind" : "Weapon",
+      "str" : 8
    },
    {
+      "type" : "One Hand Sword",
+      "kind" : "Weapon",
+      "str" : 14,
       "dex" : 14,
       "name" : "Copper Sword",
-      "kind" : "Weapon",
-      "level" : 5,
-      "str" : 14,
-      "type" : "One Hand Sword"
+      "level" : 5
    },
    {
-      "type" : "One Hand Sword",
-      "level" : 10,
       "str" : 18,
+      "type" : "One Hand Sword",
       "kind" : "Weapon",
+      "name" : "Sabre",
       "dex" : 26,
-      "name" : "Sabre"
+      "level" : 10
    },
    {
+      "level" : 15,
       "kind" : "Weapon",
-      "name" : "Broad Sword",
-      "dex" : 30,
       "type" : "One Hand Sword",
       "str" : 30,
-      "level" : 15
+      "dex" : 30,
+      "name" : "Broad Sword"
    },
    {
+      "level" : 20,
       "dex" : 35,
       "name" : "War Sword",
       "kind" : "Weapon",
-      "level" : 20,
-      "str" : 41,
-      "type" : "One Hand Sword"
-   },
-   {
       "type" : "One Hand Sword",
-      "level" : 24,
-      "str" : 44,
-      "kind" : "Weapon",
+      "str" : 41
+   },
+   {
       "name" : "Ancient Sword",
-      "dex" : 44
+      "dex" : 44,
+      "str" : 44,
+      "type" : "One Hand Sword",
+      "kind" : "Weapon",
+      "level" : 24
    },
    {
       "kind" : "Weapon",
-      "name" : "Elegant Sword",
-      "dex" : 55,
       "type" : "One Hand Sword",
       "str" : 46,
+      "dex" : 55,
+      "name" : "Elegant Sword",
       "level" : 28
    },
    {
-      "dex" : 57,
-      "name" : "Dusk Blade",
-      "kind" : "Weapon",
-      "level" : 32,
       "str" : 57,
-      "type" : "One Hand Sword"
+      "type" : "One Hand Sword",
+      "kind" : "Weapon",
+      "name" : "Dusk Blade",
+      "dex" : 57,
+      "level" : 32
    },
    {
       "level" : 34,
       "str" : 64,
+      "kind" : "Weapon",
       "type" : "One Hand Sword",
-      "dex" : 64,
       "name" : "Hook Sword",
-      "kind" : "Weapon"
+      "dex" : 64
    },
    {
-      "type" : "One Hand Sword",
-      "level" : 35,
-      "str" : 62,
-      "kind" : "Weapon",
       "dex" : 62,
-      "name" : "Variscite Blade"
+      "name" : "Variscite Blade",
+      "type" : "One Hand Sword",
+      "kind" : "Weapon",
+      "str" : 62,
+      "level" : 35
    },
    {
-      "name" : "Cutlass",
       "dex" : 79,
+      "name" : "Cutlass",
       "kind" : "Weapon",
+      "type" : "One Hand Sword",
       "str" : 55,
-      "level" : 38,
-      "type" : "One Hand Sword"
+      "level" : 38
    },
    {
       "level" : 41,
       "str" : 72,
+      "kind" : "Weapon",
       "type" : "One Hand Sword",
-      "dex" : 72,
       "name" : "Baselard",
-      "kind" : "Weapon"
+      "dex" : 72
    },
    {
-      "str" : 83,
       "level" : 44,
-      "type" : "One Hand Sword",
-      "dex" : 70,
       "name" : "Battle Sword",
+      "dex" : 70,
+      "str" : 83,
+      "type" : "One Hand Sword",
       "kind" : "Weapon"
    },
    {
-      "kind" : "Weapon",
-      "dex" : 81,
-      "name" : "Elder Sword",
-      "type" : "One Hand Sword",
       "level" : 47,
-      "str" : 81
+      "str" : 81,
+      "kind" : "Weapon",
+      "type" : "One Hand Sword",
+      "name" : "Elder Sword",
+      "dex" : 81
    },
    {
-      "dex" : 94,
-      "name" : "Graceful Sword",
-      "kind" : "Weapon",
-      "level" : 50,
       "str" : 78,
-      "type" : "One Hand Sword"
+      "type" : "One Hand Sword",
+      "kind" : "Weapon",
+      "name" : "Graceful Sword",
+      "dex" : 94,
+      "level" : 50
    },
    {
-      "type" : "One Hand Sword",
-      "str" : 91,
-      "level" : 53,
-      "kind" : "Weapon",
       "name" : "Twilight Blade",
-      "dex" : 91
-   },
-   {
-      "level" : 55,
-      "str" : 99,
+      "dex" : 91,
+      "str" : 91,
       "type" : "One Hand Sword",
-      "dex" : 99,
-      "name" : "Grappler",
-      "kind" : "Weapon"
-   },
-   {
-      "type" : "One Hand Sword",
-      "level" : 56,
-      "str" : 96,
       "kind" : "Weapon",
-      "name" : "Gemstone Sword",
-      "dex" : 96
+      "level" : 53
    },
    {
-      "level" : 58,
+      "str" : 99,
+      "kind" : "Weapon",
+      "type" : "One Hand Sword",
+      "name" : "Grappler",
+      "dex" : 99,
+      "level" : 55
+   },
+   {
+      "dex" : 96,
+      "name" : "Gemstone Sword",
+      "kind" : "Weapon",
+      "type" : "One Hand Sword",
+      "str" : 96,
+      "level" : 56
+   },
+   {
       "str" : 81,
       "type" : "One Hand Sword",
-      "dex" : 117,
+      "kind" : "Weapon",
       "name" : "Corsair Sword",
-      "kind" : "Weapon"
+      "dex" : 117,
+      "level" : 58
    },
    {
-      "kind" : "Weapon",
       "name" : "Gladius",
       "dex" : 113,
+      "str" : 113,
+      "kind" : "Weapon",
       "type" : "One Hand Sword",
-      "level" : 60,
-      "str" : 113
+      "level" : 60
    },
    {
       "kind" : "Weapon",
-      "dex" : 104,
-      "name" : "Legion Sword",
       "type" : "One Hand Sword",
       "str" : 122,
+      "dex" : 104,
+      "name" : "Legion Sword",
       "level" : 62
    },
    {
-      "str" : 113,
-      "level" : 64,
       "type" : "One Hand Sword",
+      "kind" : "Weapon",
+      "str" : 113,
       "dex" : 113,
       "name" : "Vaal Blade",
-      "kind" : "Weapon"
+      "level" : 64
    },
    {
-      "kind" : "Weapon",
-      "dex" : 122,
-      "name" : "Eternal Sword",
-      "type" : "One Hand Sword",
       "level" : 66,
-      "str" : 104
+      "str" : 104,
+      "kind" : "Weapon",
+      "type" : "One Hand Sword",
+      "name" : "Eternal Sword",
+      "dex" : 122
    },
    {
-      "dex" : 113,
-      "name" : "Midnight Blade",
-      "kind" : "Weapon",
-      "level" : 68,
       "str" : 113,
-      "type" : "One Hand Sword"
+      "kind" : "Weapon",
+      "type" : "One Hand Sword",
+      "name" : "Midnight Blade",
+      "dex" : 113,
+      "level" : 68
    },
    {
       "dex" : 119,
       "name" : "Tiger Hook",
+      "type" : "One Hand Sword",
       "kind" : "Weapon",
       "str" : 119,
-      "level" : 70,
-      "type" : "One Hand Sword"
+      "level" : 70
    },
    {
+      "name" : "Driftwood Sceptre",
       "type" : "Sceptre",
-      "int" : 8,
-      "level" : 1,
-      "str" : 8,
       "kind" : "Weapon",
-      "name" : "Driftwood Sceptre"
+      "str" : 8,
+      "level" : 1,
+      "int" : 8
    },
    {
-      "type" : "Sceptre",
       "int" : 14,
       "level" : 5,
-      "str" : 14,
+      "type" : "Sceptre",
       "kind" : "Weapon",
+      "str" : 14,
       "name" : "Darkwood Sceptre"
    },
    {
-      "type" : "Sceptre",
-      "int" : 22,
       "level" : 10,
-      "str" : 22,
+      "int" : 22,
+      "name" : "Bronze Sceptre",
       "kind" : "Weapon",
-      "name" : "Bronze Sceptre"
+      "type" : "Sceptre",
+      "str" : 22
    },
    {
-      "name" : "Quartz Sceptre",
       "kind" : "Weapon",
+      "type" : "Sceptre",
       "str" : 25,
+      "name" : "Quartz Sceptre",
       "int" : 35,
-      "level" : 15,
-      "type" : "Sceptre"
+      "level" : 15
    },
    {
       "name" : "Iron Sceptre",
+      "type" : "Sceptre",
       "kind" : "Weapon",
-      "int" : 38,
-      "level" : 20,
       "str" : 38,
-      "type" : "Sceptre"
+      "level" : 20,
+      "int" : 38
    },
    {
-      "type" : "Sceptre",
-      "str" : 44,
       "int" : 44,
       "level" : 24,
+      "str" : 44,
+      "type" : "Sceptre",
       "kind" : "Weapon",
       "name" : "Ochre Sceptre"
    },
    {
-      "kind" : "Weapon",
-      "name" : "Ritual Sceptre",
-      "type" : "Sceptre",
-      "int" : 51,
       "level" : 28,
-      "str" : 51
+      "int" : 51,
+      "name" : "Ritual Sceptre",
+      "str" : 51,
+      "type" : "Sceptre",
+      "kind" : "Weapon"
    },
    {
+      "name" : "Shadow Sceptre",
+      "kind" : "Weapon",
       "type" : "Sceptre",
       "str" : 52,
-      "int" : 62,
       "level" : 32,
-      "kind" : "Weapon",
-      "name" : "Shadow Sceptre"
+      "int" : 62
    },
    {
-      "type" : "Sceptre",
       "int" : 62,
-      "str" : 62,
       "level" : 35,
+      "str" : 62,
+      "type" : "Sceptre",
       "kind" : "Weapon",
       "name" : "Grinning Fetish"
    },
    {
-      "name" : "Horned Sceptre",
-      "kind" : "Weapon",
       "int" : 66,
-      "str" : 66,
       "level" : 36,
-      "type" : "Sceptre"
+      "str" : 66,
+      "type" : "Sceptre",
+      "kind" : "Weapon",
+      "name" : "Horned Sceptre"
    },
    {
-      "name" : "Sekhem",
-      "kind" : "Weapon",
-      "str" : 67,
       "int" : 67,
       "level" : 38,
-      "type" : "Sceptre"
+      "str" : 67,
+      "kind" : "Weapon",
+      "type" : "Sceptre",
+      "name" : "Sekhem"
    },
    {
-      "type" : "Sceptre",
-      "int" : 85,
-      "level" : 41,
+      "name" : "Crystal Sceptre",
       "str" : 59,
       "kind" : "Weapon",
-      "name" : "Crystal Sceptre"
+      "type" : "Sceptre",
+      "level" : 41,
+      "int" : 85
    },
    {
+      "level" : 44,
+      "int" : 77,
       "name" : "Lead Sceptre",
       "kind" : "Weapon",
-      "str" : 77,
-      "int" : 77,
-      "level" : 44,
-      "type" : "Sceptre"
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Blood Sceptre",
       "type" : "Sceptre",
-      "int" : 81,
-      "level" : 47,
-      "str" : 81
+      "str" : 77
    },
    {
-      "name" : "Royal Sceptre",
+      "type" : "Sceptre",
       "kind" : "Weapon",
-      "str" : 86,
+      "str" : 81,
+      "name" : "Blood Sceptre",
+      "int" : 81,
+      "level" : 47
+   },
+   {
       "int" : 86,
       "level" : 50,
-      "type" : "Sceptre"
+      "str" : 86,
+      "kind" : "Weapon",
+      "type" : "Sceptre",
+      "name" : "Royal Sceptre"
    },
    {
-      "type" : "Sceptre",
-      "int" : 99,
-      "level" : 53,
+      "name" : "Abyssal Sceptre",
       "str" : 83,
       "kind" : "Weapon",
-      "name" : "Abyssal Sceptre"
+      "type" : "Sceptre",
+      "level" : 53,
+      "int" : 99
    },
    {
-      "type" : "Sceptre",
-      "int" : 98,
       "level" : 55,
-      "str" : 98,
+      "int" : 98,
+      "name" : "Stag Sceptre",
       "kind" : "Weapon",
-      "name" : "Stag Sceptre"
+      "type" : "Sceptre",
+      "str" : 98
    },
    {
+      "str" : 96,
       "kind" : "Weapon",
-      "name" : "Karui Sceptre",
       "type" : "Sceptre",
-      "level" : 56,
+      "name" : "Karui Sceptre",
       "int" : 96,
-      "str" : 96
+      "level" : 56
    },
    {
       "str" : 99,
-      "int" : 99,
-      "level" : 58,
+      "kind" : "Weapon",
       "type" : "Sceptre",
       "name" : "Tyrant's Sekhem",
-      "kind" : "Weapon"
+      "int" : 99,
+      "level" : 58
    },
    {
-      "kind" : "Weapon",
-      "name" : "Opal Sceptre",
-      "type" : "Sceptre",
       "int" : 131,
+      "level" : 60,
+      "type" : "Sceptre",
+      "kind" : "Weapon",
       "str" : 95,
-      "level" : 60
+      "name" : "Opal Sceptre"
    },
    {
-      "type" : "Sceptre",
       "level" : 62,
       "int" : 113,
-      "str" : 113,
+      "name" : "Platinum Sceptre",
       "kind" : "Weapon",
-      "name" : "Platinum Sceptre"
+      "type" : "Sceptre",
+      "str" : 113
    },
    {
-      "type" : "Sceptre",
-      "str" : 113,
       "int" : 113,
       "level" : 64,
       "kind" : "Weapon",
+      "type" : "Sceptre",
+      "str" : 113,
       "name" : "Vaal Sceptre"
    },
    {
-      "int" : 113,
-      "level" : 66,
-      "str" : 113,
+      "kind" : "Weapon",
       "type" : "Sceptre",
+      "str" : 113,
       "name" : "Carnal Sceptre",
+      "int" : 113,
+      "level" : 66
+   },
+   {
+      "int" : 122,
+      "level" : 68,
+      "str" : 104,
+      "type" : "Sceptre",
+      "kind" : "Weapon",
+      "name" : "Void Sceptre"
+   },
+   {
+      "level" : 70,
+      "int" : 113,
+      "name" : "Sambar Sceptre",
+      "str" : 121,
+      "type" : "Sceptre",
       "kind" : "Weapon"
    },
    {
-      "kind" : "Weapon",
-      "name" : "Void Sceptre",
-      "type" : "Sceptre",
-      "level" : 68,
-      "int" : 122,
-      "str" : 104
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Sambar Sceptre",
-      "type" : "Sceptre",
-      "int" : 113,
-      "level" : 70,
-      "str" : 121
-   },
-   {
-      "type" : "Staff",
-      "int" : 12,
-      "level" : 4,
       "str" : 12,
+      "type" : "Staff",
       "kind" : "Weapon",
-      "name" : "Gnarled Branch"
+      "name" : "Gnarled Branch",
+      "int" : 12,
+      "level" : 4
    },
    {
-      "name" : "Primitive Staff",
-      "kind" : "Weapon",
       "level" : 9,
       "int" : 20,
-      "str" : 20,
-      "type" : "Staff"
+      "name" : "Primitive Staff",
+      "type" : "Staff",
+      "kind" : "Weapon",
+      "str" : 20
    },
    {
       "str" : 27,
-      "int" : 27,
-      "level" : 13,
       "type" : "Staff",
+      "kind" : "Weapon",
       "name" : "Long Staff",
-      "kind" : "Weapon"
+      "int" : 27,
+      "level" : 13
    },
    {
-      "type" : "Staff",
-      "level" : 18,
       "int" : 35,
-      "str" : 35,
+      "level" : 18,
+      "type" : "Staff",
       "kind" : "Weapon",
+      "str" : 35,
       "name" : "Iron Staff"
    },
    {
+      "str" : 43,
+      "type" : "Staff",
       "kind" : "Weapon",
       "name" : "Coiled Staff",
-      "type" : "Staff",
       "int" : 43,
-      "level" : 23,
-      "str" : 43
+      "level" : 23
    },
    {
-      "kind" : "Weapon",
       "name" : "Royal Staff",
-      "type" : "Staff",
       "str" : 51,
-      "int" : 51,
-      "level" : 28
+      "kind" : "Weapon",
+      "type" : "Staff",
+      "level" : 28,
+      "int" : 51
    },
    {
-      "type" : "Staff",
-      "int" : 59,
-      "level" : 33,
       "str" : 59,
+      "type" : "Staff",
       "kind" : "Weapon",
-      "name" : "Vile Staff"
+      "name" : "Vile Staff",
+      "int" : 59,
+      "level" : 33
    },
    {
-      "kind" : "Weapon",
-      "name" : "Crescent Staff",
-      "type" : "Staff",
-      "int" : 66,
       "level" : 36,
+      "int" : 66,
+      "name" : "Crescent Staff",
+      "kind" : "Weapon",
+      "type" : "Staff",
       "str" : 66
    },
    {
-      "int" : 65,
-      "level" : 37,
-      "str" : 65,
-      "type" : "Staff",
       "name" : "Woodful Staff",
-      "kind" : "Weapon"
+      "str" : 65,
+      "kind" : "Weapon",
+      "type" : "Staff",
+      "level" : 37,
+      "int" : 65
    },
    {
-      "int" : 72,
-      "level" : 41,
       "str" : 72,
+      "kind" : "Weapon",
       "type" : "Staff",
       "name" : "Quarterstaff",
-      "kind" : "Weapon"
+      "int" : 72,
+      "level" : 41
    },
    {
       "name" : "Military Staff",
-      "kind" : "Weapon",
       "str" : 78,
-      "int" : 78,
+      "type" : "Staff",
+      "kind" : "Weapon",
       "level" : 45,
+      "int" : 78
+   },
+   {
+      "level" : 49,
+      "int" : 85,
+      "name" : "Serpentine Staff",
+      "str" : 85,
+      "kind" : "Weapon",
       "type" : "Staff"
    },
    {
-      "int" : 85,
-      "level" : 49,
-      "str" : 85,
-      "type" : "Staff",
-      "name" : "Serpentine Staff",
-      "kind" : "Weapon"
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Highborn Staff",
-      "type" : "Staff",
-      "str" : 89,
       "int" : 89,
-      "level" : 52
-   },
-   {
-      "type" : "Staff",
-      "int" : 94,
-      "level" : 55,
-      "str" : 94,
+      "level" : 52,
+      "str" : 89,
       "kind" : "Weapon",
-      "name" : "Foul Staff"
+      "type" : "Staff",
+      "name" : "Highborn Staff"
    },
    {
+      "name" : "Foul Staff",
+      "kind" : "Weapon",
       "type" : "Staff",
-      "str" : 101,
+      "str" : 94,
+      "level" : 55,
+      "int" : 94
+   },
+   {
       "int" : 101,
       "level" : 57,
+      "type" : "Staff",
       "kind" : "Weapon",
+      "str" : 101,
       "name" : "Moon Staff"
    },
    {
-      "type" : "Staff",
-      "int" : 99,
+      "name" : "Primordial Staff",
       "str" : 99,
-      "level" : 58,
       "kind" : "Weapon",
-      "name" : "Primordial Staff"
+      "type" : "Staff",
+      "level" : 58,
+      "int" : 99
    },
    {
-      "int" : 113,
+      "name" : "Lathi",
+      "type" : "Staff",
+      "kind" : "Weapon",
       "str" : 113,
       "level" : 60,
-      "type" : "Staff",
-      "name" : "Lathi",
-      "kind" : "Weapon"
+      "int" : 113
    },
    {
-      "str" : 113,
       "int" : 113,
       "level" : 62,
+      "str" : 113,
       "type" : "Staff",
-      "name" : "Ezomyte Staff",
-      "kind" : "Weapon"
+      "kind" : "Weapon",
+      "name" : "Ezomyte Staff"
    },
    {
-      "name" : "Maelstrom Staff",
-      "kind" : "Weapon",
-      "int" : 113,
       "level" : 64,
+      "int" : 113,
+      "name" : "Maelstrom Staff",
       "str" : 113,
+      "kind" : "Weapon",
       "type" : "Staff"
    },
    {
       "kind" : "Weapon",
-      "name" : "Imperial Staff",
       "type" : "Staff",
       "str" : 113,
+      "name" : "Imperial Staff",
       "int" : 113,
       "level" : 66
    },
    {
       "name" : "Judgement Staff",
-      "kind" : "Weapon",
-      "int" : 113,
-      "level" : 68,
       "str" : 113,
-      "type" : "Staff"
-   },
-   {
-      "name" : "Eclipse Staff",
       "kind" : "Weapon",
-      "str" : 117,
-      "int" : 117,
-      "level" : 70,
-      "type" : "Staff"
+      "type" : "Staff",
+      "level" : 68,
+      "int" : 113
    },
    {
-      "type" : "Thrusting One Hand Sword",
+      "level" : 70,
+      "int" : 117,
+      "name" : "Eclipse Staff",
+      "str" : 117,
+      "type" : "Staff",
+      "kind" : "Weapon"
+   },
+   {
       "level" : 3,
       "kind" : "Weapon",
-      "name" : "Rusted Spike",
-      "dex" : 20
+      "type" : "Thrusting One Hand Sword",
+      "dex" : 20,
+      "name" : "Rusted Spike"
    },
    {
       "dex" : 32,
       "name" : "Whalebone Rapier",
       "kind" : "Weapon",
-      "level" : 7,
-      "type" : "Thrusting One Hand Sword"
+      "type" : "Thrusting One Hand Sword",
+      "level" : 7
    },
    {
-      "type" : "Thrusting One Hand Sword",
       "level" : 12,
-      "kind" : "Weapon",
       "name" : "Battered Foil",
-      "dex" : 47
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Basket Rapier",
-      "dex" : 62,
+      "dex" : 47,
       "type" : "Thrusting One Hand Sword",
-      "level" : 17
-   },
-   {
-      "level" : 22,
-      "type" : "Thrusting One Hand Sword",
-      "dex" : 77,
-      "name" : "Jagged Foil",
       "kind" : "Weapon"
    },
    {
+      "level" : 17,
       "type" : "Thrusting One Hand Sword",
+      "kind" : "Weapon",
+      "name" : "Basket Rapier",
+      "dex" : 62
+   },
+   {
+      "level" : 22,
+      "dex" : 77,
+      "name" : "Jagged Foil",
+      "type" : "Thrusting One Hand Sword",
+      "kind" : "Weapon"
+   },
+   {
       "level" : 26,
+      "type" : "Thrusting One Hand Sword",
       "kind" : "Weapon",
       "name" : "Antique Rapier",
       "dex" : 89
    },
    {
-      "name" : "Elegant Foil",
-      "dex" : 101,
+      "type" : "Thrusting One Hand Sword",
       "kind" : "Weapon",
-      "level" : 30,
-      "type" : "Thrusting One Hand Sword"
+      "dex" : 101,
+      "name" : "Elegant Foil",
+      "level" : 30
    },
    {
       "kind" : "Weapon",
+      "type" : "Thrusting One Hand Sword",
       "name" : "Thorn Rapier",
       "dex" : 113,
-      "type" : "Thrusting One Hand Sword",
       "level" : 34
    },
    {
-      "name" : "Smallsword",
-      "dex" : 124,
+      "type" : "Thrusting One Hand Sword",
       "kind" : "Weapon",
-      "level" : 36,
-      "type" : "Thrusting One Hand Sword"
+      "dex" : 124,
+      "name" : "Smallsword",
+      "level" : 36
    },
    {
-      "name" : "Wyrmbone Rapier",
-      "dex" : 122,
-      "kind" : "Weapon",
       "level" : 37,
-      "type" : "Thrusting One Hand Sword"
+      "dex" : 122,
+      "name" : "Wyrmbone Rapier",
+      "type" : "Thrusting One Hand Sword",
+      "kind" : "Weapon"
    },
    {
       "level" : 40,
       "type" : "Thrusting One Hand Sword",
-      "dex" : 131,
-      "name" : "Burnished Foil",
-      "kind" : "Weapon"
-   },
-   {
       "kind" : "Weapon",
-      "name" : "Estoc",
-      "dex" : 140,
-      "type" : "Thrusting One Hand Sword",
-      "level" : 43
+      "dex" : 131,
+      "name" : "Burnished Foil"
    },
    {
-      "level" : 46,
-      "type" : "Thrusting One Hand Sword",
-      "dex" : 149,
+      "level" : 43,
+      "dex" : 140,
+      "name" : "Estoc",
+      "kind" : "Weapon",
+      "type" : "Thrusting One Hand Sword"
+   },
+   {
       "name" : "Serrated Foil",
-      "kind" : "Weapon"
+      "dex" : 149,
+      "type" : "Thrusting One Hand Sword",
+      "kind" : "Weapon",
+      "level" : 46
    },
    {
       "level" : 49,
       "type" : "Thrusting One Hand Sword",
-      "name" : "Primeval Rapier",
+      "kind" : "Weapon",
       "dex" : 158,
-      "kind" : "Weapon"
+      "name" : "Primeval Rapier"
    },
    {
-      "type" : "Thrusting One Hand Sword",
       "level" : 52,
-      "kind" : "Weapon",
+      "name" : "Fancy Foil",
       "dex" : 167,
-      "name" : "Fancy Foil"
+      "type" : "Thrusting One Hand Sword",
+      "kind" : "Weapon"
    },
    {
       "name" : "Apex Rapier",
       "dex" : 176,
       "kind" : "Weapon",
-      "level" : 55,
-      "type" : "Thrusting One Hand Sword"
+      "type" : "Thrusting One Hand Sword",
+      "level" : 55
    },
    {
-      "type" : "Thrusting One Hand Sword",
-      "level" : 57,
-      "kind" : "Weapon",
+      "name" : "Courtesan Sword",
       "dex" : 190,
-      "name" : "Courtesan Sword"
-   },
-   {
-      "type" : "Thrusting One Hand Sword",
-      "level" : 58,
       "kind" : "Weapon",
-      "name" : "Dragonbone Rapier",
-      "dex" : 185
+      "type" : "Thrusting One Hand Sword",
+      "level" : 57
    },
    {
+      "level" : 58,
       "type" : "Thrusting One Hand Sword",
+      "kind" : "Weapon",
+      "dex" : 185,
+      "name" : "Dragonbone Rapier"
+   },
+   {
       "level" : 60,
+      "type" : "Thrusting One Hand Sword",
       "kind" : "Weapon",
       "name" : "Tempered Foil",
       "dex" : 212
    },
    {
       "level" : 62,
-      "type" : "Thrusting One Hand Sword",
       "dex" : 212,
       "name" : "Pecoraro",
-      "kind" : "Weapon"
-   },
-   {
-      "type" : "Thrusting One Hand Sword",
-      "level" : 64,
       "kind" : "Weapon",
-      "name" : "Spiraled Foil",
-      "dex" : 212
-   },
-   {
-      "level" : 66,
-      "type" : "Thrusting One Hand Sword",
-      "name" : "Vaal Rapier",
-      "dex" : 212,
-      "kind" : "Weapon"
-   },
-   {
-      "kind" : "Weapon",
-      "dex" : 212,
-      "name" : "Jewelled Foil",
-      "type" : "Thrusting One Hand Sword",
-      "level" : 68
-   },
-   {
-      "name" : "Harpy Rapier",
-      "dex" : 212,
-      "kind" : "Weapon",
-      "level" : 70,
       "type" : "Thrusting One Hand Sword"
    },
    {
+      "name" : "Spiraled Foil",
+      "dex" : 212,
       "type" : "Thrusting One Hand Sword",
-      "level" : 72,
       "kind" : "Weapon",
-      "name" : "Dragoon Sword",
-      "dex" : 220
+      "level" : 64
    },
    {
-      "level" : 4,
-      "str" : 17,
-      "type" : "Two Hand Axe",
-      "name" : "Stone Axe",
-      "dex" : 8,
-      "kind" : "Weapon"
-   },
-   {
-      "type" : "Two Hand Axe",
-      "str" : 31,
-      "level" : 9,
-      "kind" : "Weapon",
-      "dex" : 9,
-      "name" : "Jade Chopper"
-   },
-   {
-      "level" : 13,
-      "str" : 36,
-      "type" : "Two Hand Axe",
-      "dex" : 17,
-      "name" : "Woodsplitter",
-      "kind" : "Weapon"
-   },
-   {
-      "name" : "Poleaxe",
-      "dex" : 25,
-      "kind" : "Weapon",
-      "str" : 44,
-      "level" : 18,
-      "type" : "Two Hand Axe"
-   },
-   {
-      "level" : 23,
-      "str" : 62,
-      "type" : "Two Hand Axe",
-      "dex" : 27,
-      "name" : "Double Axe",
-      "kind" : "Weapon"
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Gilded Axe",
-      "dex" : 37,
-      "type" : "Two Hand Axe",
-      "level" : 28,
-      "str" : 64
-   },
-   {
-      "type" : "Two Hand Axe",
-      "str" : 80,
-      "level" : 33,
-      "kind" : "Weapon",
-      "name" : "Shadow Axe",
-      "dex" : 37
-   },
-   {
-      "level" : 36,
-      "str" : 89,
-      "type" : "Two Hand Axe",
-      "name" : "Dagger Axe",
-      "dex" : 43,
-      "kind" : "Weapon"
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Jasper Chopper",
-      "dex" : 29,
-      "type" : "Two Hand Axe",
-      "str" : 100,
-      "level" : 37
-   },
-   {
-      "dex" : 45,
-      "name" : "Timber Axe",
-      "kind" : "Weapon",
-      "str" : 97,
-      "level" : 41,
-      "type" : "Two Hand Axe"
-   },
-   {
-      "name" : "Headsman Axe",
-      "dex" : 57,
-      "kind" : "Weapon",
-      "level" : 45,
-      "str" : 99,
-      "type" : "Two Hand Axe"
-   },
-   {
-      "level" : 49,
-      "str" : 122,
-      "type" : "Two Hand Axe",
-      "name" : "Labrys",
-      "dex" : 53,
-      "kind" : "Weapon"
-   },
-   {
-      "dex" : 65,
-      "name" : "Noble Axe",
-      "kind" : "Weapon",
-      "str" : 113,
-      "level" : 52,
-      "type" : "Two Hand Axe"
-   },
-   {
-      "name" : "Abyssal Axe",
-      "dex" : 60,
-      "kind" : "Weapon",
-      "level" : 55,
-      "str" : 128,
-      "type" : "Two Hand Axe"
-   },
-   {
-      "type" : "Two Hand Axe",
-      "level" : 58,
-      "str" : 151,
-      "kind" : "Weapon",
-      "dex" : 43,
-      "name" : "Karui Chopper"
-   },
-   {
-      "type" : "Two Hand Axe",
-      "str" : 140,
-      "level" : 59,
-      "kind" : "Weapon",
-      "dex" : 67,
-      "name" : "Talon Axe"
-   },
-   {
-      "dex" : 76,
-      "name" : "Sundering Axe",
-      "kind" : "Weapon",
-      "level" : 60,
-      "str" : 149,
-      "type" : "Two Hand Axe"
-   },
-   {
-      "level" : 62,
-      "str" : 140,
-      "type" : "Two Hand Axe",
-      "dex" : 86,
-      "name" : "Ezomyte Axe",
-      "kind" : "Weapon"
-   },
-   {
-      "dex" : 76,
-      "name" : "Vaal Axe",
-      "kind" : "Weapon",
-      "level" : 64,
-      "str" : 158,
-      "type" : "Two Hand Axe"
-   },
-   {
-      "dex" : 86,
-      "name" : "Despot Axe",
-      "kind" : "Weapon",
-      "str" : 140,
       "level" : 66,
-      "type" : "Two Hand Axe"
+      "kind" : "Weapon",
+      "type" : "Thrusting One Hand Sword",
+      "name" : "Vaal Rapier",
+      "dex" : 212
    },
    {
       "level" : 68,
-      "str" : 149,
-      "type" : "Two Hand Axe",
-      "dex" : 76,
-      "name" : "Void Axe",
+      "kind" : "Weapon",
+      "type" : "Thrusting One Hand Sword",
+      "name" : "Jewelled Foil",
+      "dex" : 212
+   },
+   {
+      "level" : 70,
+      "name" : "Harpy Rapier",
+      "dex" : 212,
+      "type" : "Thrusting One Hand Sword",
       "kind" : "Weapon"
    },
    {
+      "dex" : 220,
+      "name" : "Dragoon Sword",
+      "kind" : "Weapon",
+      "type" : "Thrusting One Hand Sword",
+      "level" : 72
+   },
+   {
+      "name" : "Stone Axe",
+      "dex" : 8,
+      "str" : 17,
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon",
+      "level" : 4
+   },
+   {
+      "level" : 9,
+      "name" : "Jade Chopper",
+      "dex" : 9,
+      "str" : 31,
+      "kind" : "Weapon",
+      "type" : "Two Hand Axe"
+   },
+   {
+      "level" : 13,
+      "name" : "Woodsplitter",
+      "dex" : 17,
+      "str" : 36,
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon"
+   },
+   {
+      "level" : 18,
+      "dex" : 25,
+      "name" : "Poleaxe",
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon",
+      "str" : 44
+   },
+   {
+      "level" : 23,
+      "name" : "Double Axe",
+      "dex" : 27,
+      "str" : 62,
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon"
+   },
+   {
+      "dex" : 37,
+      "name" : "Gilded Axe",
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon",
+      "str" : 64,
+      "level" : 28
+   },
+   {
+      "name" : "Shadow Axe",
+      "dex" : 37,
+      "str" : 80,
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon",
+      "level" : 33
+   },
+   {
+      "kind" : "Weapon",
+      "type" : "Two Hand Axe",
+      "str" : 89,
+      "dex" : 43,
+      "name" : "Dagger Axe",
+      "level" : 36
+   },
+   {
+      "level" : 37,
+      "str" : 100,
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon",
+      "name" : "Jasper Chopper",
+      "dex" : 29
+   },
+   {
+      "level" : 41,
+      "dex" : 45,
+      "name" : "Timber Axe",
+      "kind" : "Weapon",
+      "type" : "Two Hand Axe",
+      "str" : 97
+   },
+   {
+      "level" : 45,
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon",
+      "str" : 99,
+      "dex" : 57,
+      "name" : "Headsman Axe"
+   },
+   {
+      "name" : "Labrys",
+      "dex" : 53,
+      "str" : 122,
+      "kind" : "Weapon",
+      "type" : "Two Hand Axe",
+      "level" : 49
+   },
+   {
+      "level" : 52,
+      "name" : "Noble Axe",
+      "dex" : 65,
+      "str" : 113,
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon"
+   },
+   {
+      "level" : 55,
+      "dex" : 60,
+      "name" : "Abyssal Axe",
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon",
+      "str" : 128
+   },
+   {
+      "dex" : 43,
+      "name" : "Karui Chopper",
+      "kind" : "Weapon",
+      "type" : "Two Hand Axe",
+      "str" : 151,
+      "level" : 58
+   },
+   {
+      "level" : 59,
+      "name" : "Talon Axe",
+      "dex" : 67,
+      "str" : 140,
+      "kind" : "Weapon",
+      "type" : "Two Hand Axe"
+   },
+   {
+      "str" : 149,
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon",
+      "name" : "Sundering Axe",
+      "dex" : 76,
+      "level" : 60
+   },
+   {
+      "level" : 62,
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon",
+      "str" : 140,
+      "dex" : 86,
+      "name" : "Ezomyte Axe"
+   },
+   {
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon",
+      "str" : 158,
+      "dex" : 76,
+      "name" : "Vaal Axe",
+      "level" : 64
+   },
+   {
+      "kind" : "Weapon",
+      "type" : "Two Hand Axe",
+      "str" : 140,
+      "dex" : 86,
+      "name" : "Despot Axe",
+      "level" : 66
+   },
+   {
+      "str" : 149,
+      "type" : "Two Hand Axe",
+      "kind" : "Weapon",
+      "name" : "Void Axe",
+      "dex" : 76,
+      "level" : 68
+   },
+   {
+      "str" : 156,
+      "type" : "Two Hand Axe",
       "kind" : "Weapon",
       "name" : "Fleshripper",
       "dex" : 84,
-      "type" : "Two Hand Axe",
-      "str" : 156,
       "level" : 70
    },
    {
-      "type" : "Two Hand Mace",
       "level" : 3,
-      "str" : 20,
+      "type" : "Two Hand Mace",
       "kind" : "Weapon",
+      "str" : 20,
       "name" : "Driftwood Maul"
    },
    {
-      "kind" : "Weapon",
-      "name" : "Tribal Maul",
-      "type" : "Two Hand Mace",
       "level" : 8,
-      "str" : 35
+      "str" : 35,
+      "kind" : "Weapon",
+      "type" : "Two Hand Mace",
+      "name" : "Tribal Maul"
    },
    {
-      "kind" : "Weapon",
-      "name" : "Mallet",
-      "type" : "Two Hand Mace",
       "str" : 47,
+      "kind" : "Weapon",
+      "type" : "Two Hand Mace",
+      "name" : "Mallet",
       "level" : 12
    },
    {
       "level" : 17,
-      "str" : 62,
-      "type" : "Two Hand Mace",
       "name" : "Sledgehammer",
-      "kind" : "Weapon"
-   },
-   {
-      "name" : "Jagged Maul",
+      "str" : 62,
       "kind" : "Weapon",
-      "level" : 22,
-      "str" : 77,
       "type" : "Two Hand Mace"
    },
    {
+      "str" : 77,
       "type" : "Two Hand Mace",
-      "level" : 27,
+      "kind" : "Weapon",
+      "name" : "Jagged Maul",
+      "level" : 22
+   },
+   {
       "str" : 92,
       "kind" : "Weapon",
-      "name" : "Brass Maul"
-   },
-   {
       "type" : "Two Hand Mace",
+      "name" : "Brass Maul",
+      "level" : 27
+   },
+   {
       "level" : 32,
-      "str" : 107,
+      "name" : "Fright Maul",
       "kind" : "Weapon",
-      "name" : "Fright Maul"
+      "type" : "Two Hand Mace",
+      "str" : 107
    },
    {
-      "name" : "Morning Star",
-      "kind" : "Weapon",
-      "str" : 118,
       "level" : 34,
-      "type" : "Two Hand Mace"
+      "kind" : "Weapon",
+      "type" : "Two Hand Mace",
+      "str" : 118,
+      "name" : "Morning Star"
    },
    {
+      "kind" : "Weapon",
       "type" : "Two Hand Mace",
       "str" : 119,
-      "level" : 36,
-      "kind" : "Weapon",
-      "name" : "Totemic Maul"
+      "name" : "Totemic Maul",
+      "level" : 36
    },
    {
+      "level" : 40,
       "name" : "Great Mallet",
       "kind" : "Weapon",
-      "level" : 40,
-      "str" : 131,
-      "type" : "Two Hand Mace"
+      "type" : "Two Hand Mace",
+      "str" : 131
    },
    {
-      "type" : "Two Hand Mace",
       "level" : 44,
       "str" : 143,
       "kind" : "Weapon",
+      "type" : "Two Hand Mace",
       "name" : "Steelhead"
    },
    {
-      "type" : "Two Hand Mace",
-      "str" : 155,
       "level" : 48,
-      "kind" : "Weapon",
-      "name" : "Spiny Maul"
+      "name" : "Spiny Maul",
+      "str" : 155,
+      "type" : "Two Hand Mace",
+      "kind" : "Weapon"
    },
    {
-      "name" : "Plated Maul",
-      "kind" : "Weapon",
       "level" : 51,
+      "kind" : "Weapon",
+      "type" : "Two Hand Mace",
       "str" : 164,
-      "type" : "Two Hand Mace"
+      "name" : "Plated Maul"
    },
    {
       "kind" : "Weapon",
-      "name" : "Dread Maul",
       "type" : "Two Hand Mace",
       "str" : 173,
+      "name" : "Dread Maul",
       "level" : 54
    },
    {
-      "kind" : "Weapon",
-      "name" : "Solar Maul",
-      "type" : "Two Hand Mace",
       "level" : 56,
-      "str" : 187
+      "str" : 187,
+      "kind" : "Weapon",
+      "type" : "Two Hand Mace",
+      "name" : "Solar Maul"
    },
    {
-      "type" : "Two Hand Mace",
       "str" : 182,
-      "level" : 57,
+      "type" : "Two Hand Mace",
       "kind" : "Weapon",
-      "name" : "Karui Maul"
+      "name" : "Karui Maul",
+      "level" : 57
    },
    {
+      "type" : "Two Hand Mace",
       "kind" : "Weapon",
+      "str" : 188,
       "name" : "Colossus Mallet",
-      "type" : "Two Hand Mace",
-      "level" : 59,
-      "str" : 188
+      "level" : 59
    },
    {
-      "type" : "Two Hand Mace",
-      "str" : 212,
-      "level" : 61,
+      "name" : "Piledriver",
       "kind" : "Weapon",
-      "name" : "Piledriver"
+      "type" : "Two Hand Mace",
+      "str" : 212,
+      "level" : 61
    },
    {
-      "str" : 212,
-      "level" : 63,
-      "type" : "Two Hand Mace",
       "name" : "Meatgrinder",
-      "kind" : "Weapon"
+      "type" : "Two Hand Mace",
+      "kind" : "Weapon",
+      "str" : 212,
+      "level" : 63
    },
    {
-      "kind" : "Weapon",
       "name" : "Imperial Maul",
+      "str" : 212,
+      "kind" : "Weapon",
       "type" : "Two Hand Mace",
-      "level" : 65,
-      "str" : 212
+      "level" : 65
    },
    {
       "name" : "Terror Maul",
+      "type" : "Two Hand Mace",
       "kind" : "Weapon",
-      "level" : 67,
       "str" : 212,
-      "type" : "Two Hand Mace"
+      "level" : 67
    },
    {
+      "level" : 69,
       "kind" : "Weapon",
-      "name" : "Coronal Maul",
       "type" : "Two Hand Mace",
       "str" : 220,
-      "level" : 69
+      "name" : "Coronal Maul"
    },
    {
-      "type" : "Two Hand Sword",
-      "str" : 11,
       "level" : 3,
-      "kind" : "Weapon",
+      "dex" : 11,
       "name" : "Corroded Blade",
-      "dex" : 11
+      "type" : "Two Hand Sword",
+      "kind" : "Weapon",
+      "str" : 11
    },
    {
-      "level" : 8,
-      "str" : 20,
+      "kind" : "Weapon",
       "type" : "Two Hand Sword",
+      "str" : 20,
       "dex" : 17,
       "name" : "Longsword",
-      "kind" : "Weapon"
+      "level" : 8
    },
    {
-      "kind" : "Weapon",
-      "name" : "Bastard Sword",
       "dex" : 30,
-      "type" : "Two Hand Sword",
-      "level" : 12,
-      "str" : 21
-   },
-   {
-      "type" : "Two Hand Sword",
-      "str" : 33,
-      "level" : 17,
+      "name" : "Bastard Sword",
       "kind" : "Weapon",
-      "name" : "Two-Handed Sword",
-      "dex" : 33
+      "type" : "Two Hand Sword",
+      "str" : 21,
+      "level" : 12
    },
    {
-      "type" : "Two Hand Sword",
-      "str" : 45,
+      "level" : 17,
+      "name" : "Two-Handed Sword",
+      "dex" : 33,
+      "str" : 33,
+      "kind" : "Weapon",
+      "type" : "Two Hand Sword"
+   },
+   {
       "level" : 22,
       "kind" : "Weapon",
-      "name" : "Etched Greatsword",
-      "dex" : 38
+      "type" : "Two Hand Sword",
+      "str" : 45,
+      "dex" : 38,
+      "name" : "Etched Greatsword"
    },
    {
+      "kind" : "Weapon",
+      "type" : "Two Hand Sword",
+      "str" : 45,
       "dex" : 54,
       "name" : "Ornate Sword",
-      "kind" : "Weapon",
-      "level" : 27,
-      "str" : 45,
-      "type" : "Two Hand Sword"
+      "level" : 27
    },
    {
-      "name" : "Spectral Sword",
-      "dex" : 57,
-      "kind" : "Weapon",
-      "str" : 57,
       "level" : 32,
-      "type" : "Two Hand Sword"
-   },
-   {
       "kind" : "Weapon",
-      "name" : "Curved Blade",
-      "dex" : 73,
       "type" : "Two Hand Sword",
-      "str" : 62,
-      "level" : 35
+      "str" : 57,
+      "dex" : 57,
+      "name" : "Spectral Sword"
    },
    {
+      "level" : 35,
+      "dex" : 73,
+      "name" : "Curved Blade",
+      "kind" : "Weapon",
       "type" : "Two Hand Sword",
+      "str" : 62
+   },
+   {
       "str" : 69,
-      "level" : 36,
+      "type" : "Two Hand Sword",
       "kind" : "Weapon",
       "name" : "Butcher Sword",
-      "dex" : 58
+      "dex" : 58,
+      "level" : 36
    },
    {
-      "type" : "Two Hand Sword",
-      "str" : 57,
       "level" : 40,
+      "str" : 57,
+      "type" : "Two Hand Sword",
       "kind" : "Weapon",
       "name" : "Footman Sword",
       "dex" : 83
    },
    {
-      "type" : "Two Hand Sword",
-      "str" : 77,
       "level" : 44,
-      "kind" : "Weapon",
       "dex" : 77,
-      "name" : "Highland Blade"
+      "name" : "Highland Blade",
+      "type" : "Two Hand Sword",
+      "kind" : "Weapon",
+      "str" : 77
    },
    {
-      "dex" : 76,
-      "name" : "Engraved Greatsword",
-      "kind" : "Weapon",
       "level" : 48,
+      "name" : "Engraved Greatsword",
+      "dex" : 76,
       "str" : 91,
-      "type" : "Two Hand Sword"
+      "type" : "Two Hand Sword",
+      "kind" : "Weapon"
    },
    {
+      "str" : 80,
       "kind" : "Weapon",
+      "type" : "Two Hand Sword",
       "name" : "Tiger Sword",
       "dex" : 96,
-      "type" : "Two Hand Sword",
-      "level" : 51,
-      "str" : 80
+      "level" : 51
    },
    {
       "name" : "Wraith Sword",
       "dex" : 93,
-      "kind" : "Weapon",
       "str" : 93,
-      "level" : 54,
-      "type" : "Two Hand Sword"
+      "kind" : "Weapon",
+      "type" : "Two Hand Sword",
+      "level" : 54
+   },
+   {
+      "level" : 56,
+      "dex" : 113,
+      "name" : "Lithe Blade",
+      "kind" : "Weapon",
+      "type" : "Two Hand Sword",
+      "str" : 96
+   },
+   {
+      "str" : 106,
+      "kind" : "Weapon",
+      "type" : "Two Hand Sword",
+      "name" : "Headman's Sword",
+      "dex" : 89,
+      "level" : 57
    },
    {
       "type" : "Two Hand Sword",
-      "str" : 96,
-      "level" : 56,
       "kind" : "Weapon",
-      "name" : "Lithe Blade",
-      "dex" : 113
-   },
-   {
-      "dex" : 89,
-      "name" : "Headman's Sword",
-      "kind" : "Weapon",
-      "level" : 57,
-      "str" : 106,
-      "type" : "Two Hand Sword"
-   },
-   {
-      "kind" : "Weapon",
+      "str" : 82,
       "dex" : 119,
       "name" : "Reaver Sword",
-      "type" : "Two Hand Sword",
-      "level" : 59,
-      "str" : 82
+      "level" : 59
    },
    {
       "str" : 113,
-      "level" : 61,
       "type" : "Two Hand Sword",
-      "dex" : 113,
+      "kind" : "Weapon",
       "name" : "Ezomyte Blade",
-      "kind" : "Weapon"
+      "dex" : 113,
+      "level" : 61
    },
    {
-      "dex" : 104,
-      "name" : "Vaal Greatsword",
+      "level" : 63,
+      "type" : "Two Hand Sword",
       "kind" : "Weapon",
       "str" : 122,
-      "level" : 63,
-      "type" : "Two Hand Sword"
+      "dex" : 104,
+      "name" : "Vaal Greatsword"
    },
    {
-      "kind" : "Weapon",
-      "name" : "Lion Sword",
       "dex" : 122,
+      "name" : "Lion Sword",
       "type" : "Two Hand Sword",
-      "level" : 65,
-      "str" : 104
+      "kind" : "Weapon",
+      "str" : 104,
+      "level" : 65
    },
    {
-      "level" : 67,
       "str" : 113,
       "type" : "Two Hand Sword",
-      "dex" : 113,
+      "kind" : "Weapon",
       "name" : "Infernal Sword",
-      "kind" : "Weapon"
+      "dex" : 113,
+      "level" : 67
    },
    {
-      "type" : "Two Hand Sword",
-      "str" : 119,
       "level" : 70,
-      "kind" : "Weapon",
       "name" : "Exquisite Blade",
-      "dex" : 131
+      "dex" : 131,
+      "str" : 119,
+      "kind" : "Weapon",
+      "type" : "Two Hand Sword"
    },
    {
       "name" : "Driftwood Wand",
       "kind" : "Weapon",
+      "type" : "Wand",
       "level" : 1,
-      "int" : 14,
-      "type" : "Wand"
+      "int" : 14
    },
    {
       "int" : 29,
       "level" : 6,
-      "type" : "Wand",
-      "name" : "Goat's Horn",
-      "kind" : "Weapon"
-   },
-   {
-      "level" : 12,
-      "int" : 47,
-      "type" : "Wand",
-      "name" : "Carved Wand",
-      "kind" : "Weapon"
-   },
-   {
       "kind" : "Weapon",
+      "type" : "Wand",
+      "name" : "Goat's Horn"
+   },
+   {
+      "name" : "Carved Wand",
+      "type" : "Wand",
+      "kind" : "Weapon",
+      "level" : 12,
+      "int" : 47
+   },
+   {
+      "level" : 18,
+      "int" : 65,
       "name" : "Quartz Wand",
       "type" : "Wand",
-      "level" : 18,
-      "int" : 65
-   },
-   {
-      "type" : "Wand",
-      "int" : 83,
-      "level" : 24,
-      "kind" : "Weapon",
-      "name" : "Spiraled Wand"
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Sage Wand",
-      "type" : "Wand",
-      "level" : 30,
-      "int" : 119
-   },
-   {
-      "type" : "Wand",
-      "int" : 118,
-      "level" : 34,
-      "kind" : "Weapon",
-      "name" : "Pagan Wand"
-   },
-   {
-      "type" : "Wand",
-      "int" : 116,
-      "level" : 35,
-      "kind" : "Weapon",
-      "name" : "Faun's Horn"
-   },
-   {
-      "name" : "Engraved Wand",
-      "kind" : "Weapon",
-      "level" : 40,
-      "int" : 131,
-      "type" : "Wand"
-   },
-   {
-      "kind" : "Weapon",
-      "name" : "Crystal Wand",
-      "type" : "Wand",
-      "level" : 45,
-      "int" : 146
-   },
-   {
-      "name" : "Serpent Wand",
-      "kind" : "Weapon",
-      "int" : 158,
-      "level" : 49,
-      "type" : "Wand"
-   },
-   {
-      "type" : "Wand",
-      "level" : 53,
-      "int" : 200,
-      "kind" : "Weapon",
-      "name" : "Omen Wand"
-   },
-   {
-      "level" : 55,
-      "int" : 184,
-      "type" : "Wand",
-      "name" : "Heathen Wand",
       "kind" : "Weapon"
    },
    {
-      "name" : "Demon's Horn",
-      "kind" : "Weapon",
-      "int" : 179,
-      "level" : 56,
-      "type" : "Wand"
+      "level" : 24,
+      "int" : 83,
+      "name" : "Spiraled Wand",
+      "type" : "Wand",
+      "kind" : "Weapon"
    },
    {
       "type" : "Wand",
-      "level" : 59,
-      "int" : 188,
       "kind" : "Weapon",
-      "name" : "Imbued Wand"
+      "name" : "Sage Wand",
+      "int" : 119,
+      "level" : 30
    },
    {
       "kind" : "Weapon",
+      "type" : "Wand",
+      "name" : "Pagan Wand",
+      "int" : 118,
+      "level" : 34
+   },
+   {
+      "type" : "Wand",
+      "kind" : "Weapon",
+      "name" : "Faun's Horn",
+      "int" : 116,
+      "level" : 35
+   },
+   {
+      "type" : "Wand",
+      "kind" : "Weapon",
+      "name" : "Engraved Wand",
+      "int" : 131,
+      "level" : 40
+   },
+   {
+      "level" : 45,
+      "int" : 146,
+      "name" : "Crystal Wand",
+      "type" : "Wand",
+      "kind" : "Weapon"
+   },
+   {
+      "int" : 158,
+      "level" : 49,
+      "type" : "Wand",
+      "kind" : "Weapon",
+      "name" : "Serpent Wand"
+   },
+   {
+      "kind" : "Weapon",
+      "type" : "Wand",
+      "name" : "Omen Wand",
+      "int" : 200,
+      "level" : 53
+   },
+   {
+      "name" : "Heathen Wand",
+      "kind" : "Weapon",
+      "type" : "Wand",
+      "level" : 55,
+      "int" : 184
+   },
+   {
+      "level" : 56,
+      "int" : 179,
+      "name" : "Demon's Horn",
+      "type" : "Wand",
+      "kind" : "Weapon"
+   },
+   {
+      "kind" : "Weapon",
+      "type" : "Wand",
+      "name" : "Imbued Wand",
+      "int" : 188,
+      "level" : 59
+   },
+   {
       "name" : "Opal Wand",
+      "kind" : "Weapon",
       "type" : "Wand",
       "level" : 62,
       "int" : 212
    },
    {
-      "level" : 65,
-      "int" : 212,
+      "kind" : "Weapon",
       "type" : "Wand",
       "name" : "Tornado Wand",
-      "kind" : "Weapon"
+      "int" : 212,
+      "level" : 65
    },
    {
       "type" : "Wand",
-      "int" : 245,
-      "level" : 68,
       "kind" : "Weapon",
-      "name" : "Prophecy Wand"
+      "name" : "Prophecy Wand",
+      "int" : 245,
+      "level" : 68
    },
    {
-      "kind" : "Weapon",
       "name" : "Profane Wand",
+      "kind" : "Weapon",
       "type" : "Wand",
       "level" : 70,
       "int" : 237
+   },
+   {
+      "kind" : "Belt",
+      "type" : "Belt",
+      "name" : "Stygian Vise",
+      "level" : 1
+   },
+   {
+      "level" : 2,
+      "name" : "Rustic Sash",
+      "type" : "Belt",
+      "kind" : "Belt"
+   },
+   {
+      "name" : "Chain Belt",
+      "type" : "Belt",
+      "kind" : "Belt",
+      "level" : 2
+   },
+   {
+      "name" : "Leather Belt",
+      "type" : "Belt",
+      "kind" : "Belt",
+      "level" : 10
+   },
+   {
+      "level" : 10,
+      "name" : "Heavy Belt",
+      "kind" : "Belt",
+      "type" : "Belt"
+   },
+   {
+      "name" : "Cloth Belt",
+      "kind" : "Belt",
+      "type" : "Belt",
+      "level" : 20
+   },
+   {
+      "level" : 20,
+      "name" : "Studded Belt",
+      "kind" : "Belt",
+      "type" : "Belt"
+   },
+   {
+      "kind" : "Belt",
+      "type" : "Belt",
+      "name" : "Vanguard Belt",
+      "level" : 78
+   },
+   {
+      "level" : 79,
+      "type" : "Belt",
+      "kind" : "Belt",
+      "name" : "Crystal Belt"
+   },
+   {
+      "kind" : "Ring",
+      "type" : "Ring",
+      "name" : "Breach Ring",
+      "level" : 1
+   },
+   {
+      "level" : 2,
+      "type" : "Ring",
+      "kind" : "Ring",
+      "name" : "Iron Ring"
+   },
+   {
+      "level" : 4,
+      "kind" : "Ring",
+      "type" : "Ring",
+      "name" : "Coral Ring"
+   },
+   {
+      "level" : 5,
+      "name" : "Paua Ring",
+      "type" : "Ring",
+      "kind" : "Ring"
+   },
+   {
+      "level" : 8,
+      "name" : "Sapphire Ring",
+      "type" : "Ring",
+      "kind" : "Ring"
+   },
+   {
+      "name" : "Topaz Ring",
+      "type" : "Ring",
+      "kind" : "Ring",
+      "level" : 12
+   },
+   {
+      "level" : 16,
+      "type" : "Ring",
+      "kind" : "Ring",
+      "name" : "Ruby Ring"
+   },
+   {
+      "level" : 20,
+      "name" : "Gold Ring",
+      "type" : "Ring",
+      "kind" : "Ring"
+   },
+   {
+      "name" : "Two-Stone Ring",
+      "kind" : "Ring",
+      "type" : "Ring",
+      "level" : 20
+   },
+   {
+      "level" : 25,
+      "kind" : "Ring",
+      "type" : "Ring",
+      "name" : "Diamond Ring"
+   },
+   {
+      "name" : "Moonstone Ring",
+      "type" : "Ring",
+      "kind" : "Ring",
+      "level" : 25
+   },
+   {
+      "type" : "Ring",
+      "kind" : "Ring",
+      "name" : "Prismatic Ring",
+      "level" : 30
+   },
+   {
+      "name" : "Amethyst Ring",
+      "kind" : "Ring",
+      "type" : "Ring",
+      "level" : 38
+   },
+   {
+      "type" : "Ring",
+      "kind" : "Ring",
+      "name" : "Unset Ring",
+      "level" : 45
+   },
+   {
+      "type" : "Ring",
+      "kind" : "Ring",
+      "name" : "Steel Ring",
+      "level" : 80
+   },
+   {
+      "name" : "Opal Ring",
+      "kind" : "Ring",
+      "type" : "Ring",
+      "level" : 80
+   },
+   {
+      "level" : 1,
+      "name" : "Small Life Flask",
+      "type" : "Life Flask",
+      "kind" : "Flask"
+   },
+   {
+      "name" : "Medium Life Flask",
+      "kind" : "Flask",
+      "type" : "Life Flask",
+      "level" : 3
+   },
+   {
+      "kind" : "Flask",
+      "type" : "Life Flask",
+      "name" : "Large Life Flask",
+      "level" : 6
+   },
+   {
+      "name" : "Greater Life Flask",
+      "type" : "Life Flask",
+      "kind" : "Flask",
+      "level" : 12
+   },
+   {
+      "name" : "Grand Life Flask",
+      "type" : "Life Flask",
+      "kind" : "Flask",
+      "level" : 18
+   },
+   {
+      "type" : "Life Flask",
+      "kind" : "Flask",
+      "name" : "Giant Life Flask",
+      "level" : 24
+   },
+   {
+      "level" : 30,
+      "name" : "Colossal Life Flask",
+      "type" : "Life Flask",
+      "kind" : "Flask"
+   },
+   {
+      "type" : "Life Flask",
+      "kind" : "Flask",
+      "name" : "Sacred Life Flask",
+      "level" : 36
+   },
+   {
+      "name" : "Hallowed Life Flask",
+      "type" : "Life Flask",
+      "kind" : "Flask",
+      "level" : 42
+   },
+   {
+      "name" : "Sanctified Life Flask",
+      "kind" : "Flask",
+      "type" : "Life Flask",
+      "level" : 50
+   },
+   {
+      "type" : "Life Flask",
+      "kind" : "Flask",
+      "name" : "Divine Life Flask",
+      "level" : 60
+   },
+   {
+      "level" : 65,
+      "name" : "Eternal Life Flask",
+      "type" : "Life Flask",
+      "kind" : "Flask"
+   },
+   {
+      "kind" : "Flask",
+      "type" : "Mana Flask",
+      "name" : "Small Mana Flask",
+      "level" : 1
+   },
+   {
+      "name" : "Medium Mana Flask",
+      "type" : "Mana Flask",
+      "kind" : "Flask",
+      "level" : 3
+   },
+   {
+      "kind" : "Flask",
+      "type" : "Mana Flask",
+      "name" : "Large Mana Flask",
+      "level" : 6
+   },
+   {
+      "level" : 12,
+      "name" : "Greater Mana Flask",
+      "type" : "Mana Flask",
+      "kind" : "Flask"
+   },
+   {
+      "kind" : "Flask",
+      "type" : "Mana Flask",
+      "name" : "Grand Mana Flask",
+      "level" : 18
+   },
+   {
+      "level" : 24,
+      "kind" : "Flask",
+      "type" : "Mana Flask",
+      "name" : "Giant Mana Flask"
+   },
+   {
+      "level" : 30,
+      "name" : "Colossal Mana Flask",
+      "type" : "Mana Flask",
+      "kind" : "Flask"
+   },
+   {
+      "level" : 36,
+      "name" : "Sacred Mana Flask",
+      "kind" : "Flask",
+      "type" : "Mana Flask"
+   },
+   {
+      "type" : "Mana Flask",
+      "kind" : "Flask",
+      "name" : "Hallowed Mana Flask",
+      "level" : 42
+   },
+   {
+      "kind" : "Flask",
+      "type" : "Mana Flask",
+      "name" : "Sanctified Mana Flask",
+      "level" : 50
+   },
+   {
+      "type" : "Mana Flask",
+      "kind" : "Flask",
+      "name" : "Divine Mana Flask",
+      "level" : 60
+   },
+   {
+      "name" : "Eternal Mana Flask",
+      "kind" : "Flask",
+      "type" : "Mana Flask",
+      "level" : 65
+   },
+   {
+      "level" : 4,
+      "type" : "Quiver",
+      "kind" : "Quiver",
+      "name" : "Two-Point Arrow Quiver"
+   },
+   {
+      "kind" : "Quiver",
+      "type" : "Quiver",
+      "name" : "Serrated Arrow Quiver",
+      "level" : 5
+   },
+   {
+      "name" : "Sharktooth Arrow Quiver",
+      "kind" : "Quiver",
+      "type" : "Quiver",
+      "level" : 10
+   },
+   {
+      "type" : "Quiver",
+      "kind" : "Quiver",
+      "name" : "Blunt Arrow Quiver",
+      "level" : 16
+   },
+   {
+      "kind" : "Quiver",
+      "type" : "Quiver",
+      "name" : "Fire Arrow Quiver",
+      "level" : 22
+   },
+   {
+      "kind" : "Quiver",
+      "type" : "Quiver",
+      "name" : "Broadhead Arrow Quiver",
+      "level" : 28
+   },
+   {
+      "name" : "Penetrating Arrow Quiver",
+      "kind" : "Quiver",
+      "type" : "Quiver",
+      "level" : 36
+   },
+   {
+      "level" : 45,
+      "kind" : "Quiver",
+      "type" : "Quiver",
+      "name" : "Spike-Point Arrow Quiver"
+   },
+   {
+      "level" : 3,
+      "kind" : "Amulet",
+      "type" : "Amulet",
+      "name" : "Paua Amulet"
+   },
+   {
+      "level" : 3,
+      "kind" : "Amulet",
+      "type" : "Amulet",
+      "name" : "Coral Amulet"
+   },
+   {
+      "name" : "Lapis Amulet",
+      "kind" : "Amulet",
+      "type" : "Amulet",
+      "level" : 7
+   },
+   {
+      "name" : "Jade Amulet",
+      "type" : "Amulet",
+      "kind" : "Amulet",
+      "level" : 7
+   },
+   {
+      "level" : 7,
+      "kind" : "Amulet",
+      "type" : "Amulet",
+      "name" : "Amber Amulet"
+   },
+   {
+      "level" : 15,
+      "name" : "Gold Amulet",
+      "type" : "Amulet",
+      "kind" : "Amulet"
+   },
+   {
+      "type" : "Amulet",
+      "kind" : "Amulet",
+      "name" : "Turquoise Amulet",
+      "level" : 20
+   },
+   {
+      "kind" : "Amulet",
+      "type" : "Amulet",
+      "name" : "Agate Amulet",
+      "level" : 20
+   },
+   {
+      "type" : "Amulet",
+      "kind" : "Amulet",
+      "name" : "Citrine Amulet",
+      "level" : 20
+   },
+   {
+      "level" : 25,
+      "type" : "Amulet",
+      "kind" : "Amulet",
+      "name" : "Onyx Amulet"
+   },
+   {
+      "name" : "Ruby Amulet",
+      "type" : "Amulet",
+      "kind" : "Amulet",
+      "level" : 50
+   },
+   {
+      "level" : 74,
+      "kind" : "Amulet",
+      "type" : "Amulet",
+      "name" : "Marble Amulet"
+   },
+   {
+      "name" : "Small Hybrid Flask",
+      "kind" : "Flask",
+      "type" : "Hybrid Flask",
+      "level" : 10
+   },
+   {
+      "name" : "Medium Hybrid Flask",
+      "kind" : "Flask",
+      "type" : "Hybrid Flask",
+      "level" : 20
+   },
+   {
+      "kind" : "Flask",
+      "type" : "Hybrid Flask",
+      "name" : "Large Hybrid Flask",
+      "level" : 30
+   },
+   {
+      "level" : 40,
+      "name" : "Colossal Hybrid Flask",
+      "type" : "Hybrid Flask",
+      "kind" : "Flask"
+   },
+   {
+      "level" : 50,
+      "name" : "Sacred Hybrid Flask",
+      "kind" : "Flask",
+      "type" : "Hybrid Flask"
+   },
+   {
+      "level" : 60,
+      "name" : "Hallowed Hybrid Flask",
+      "type" : "Hybrid Flask",
+      "kind" : "Flask"
+   },
+   {
+      "level" : 1,
+      "kind" : "Jewel",
+      "type" : "Jewel",
+      "name" : "Cobalt Jewel"
+   },
+   {
+      "name" : "Crimson Jewel",
+      "type" : "Jewel",
+      "kind" : "Jewel",
+      "level" : 1
+   },
+   {
+      "type" : "Jewel",
+      "kind" : "Jewel",
+      "name" : "Viridian Jewel",
+      "level" : 1
+   },
+   {
+      "type" : "Jewel",
+      "kind" : "Jewel",
+      "name" : "Murderous Eye Jewel",
+      "level" : 1
+   },
+   {
+      "level" : 1,
+      "name" : "Searching Eye Jewel",
+      "type" : "Jewel",
+      "kind" : "Jewel"
+   },
+   {
+      "type" : "Jewel",
+      "kind" : "Jewel",
+      "name" : "Hypnotic Eye Jewel",
+      "level" : 1
+   },
+   {
+      "name" : "Ghastly Eye Jewel",
+      "kind" : "Jewel",
+      "type" : "Jewel",
+      "level" : 1
+   },
+   {
+      "kind" : "Flask",
+      "type" : "Utility Flask",
+      "name" : "Quicksilver Flask",
+      "level" : 4
+   },
+   {
+      "name" : "Bismuth Flask",
+      "type" : "Utility Flask",
+      "kind" : "Flask",
+      "level" : 8
+   },
+   {
+      "name" : "Stibnite Flask",
+      "type" : "Utility Flask",
+      "kind" : "Flask",
+      "level" : 14
+   },
+   {
+      "kind" : "Flask",
+      "type" : "Utility Flask",
+      "name" : "Amethyst Flask",
+      "level" : 18
+   },
+   {
+      "name" : "Ruby Flask",
+      "type" : "Utility Flask",
+      "kind" : "Flask",
+      "level" : 18
+   },
+   {
+      "name" : "Sapphire Flask",
+      "type" : "Utility Flask",
+      "kind" : "Flask",
+      "level" : 18
+   },
+   {
+      "level" : 18,
+      "kind" : "Flask",
+      "type" : "Utility Flask",
+      "name" : "Topaz Flask"
+   },
+   {
+      "level" : 22,
+      "name" : "Silver Flask",
+      "type" : "Utility Flask",
+      "kind" : "Flask"
+   },
+   {
+      "level" : 27,
+      "kind" : "Flask",
+      "type" : "Utility Flask",
+      "name" : "Diamond Flask"
+   },
+   {
+      "name" : "Aquamarine Flask",
+      "kind" : "Flask",
+      "type" : "Utility Flask",
+      "level" : 27
+   },
+   {
+      "level" : 27,
+      "type" : "Utility Flask",
+      "kind" : "Flask",
+      "name" : "Granite Flask"
+   },
+   {
+      "level" : 27,
+      "name" : "Jade Flask",
+      "type" : "Utility Flask",
+      "kind" : "Flask"
+   },
+   {
+      "level" : 27,
+      "name" : "Quartz Flask",
+      "type" : "Utility Flask",
+      "kind" : "Flask"
+   },
+   {
+      "name" : "Sulphur Flask",
+      "type" : "Utility Flask",
+      "kind" : "Flask",
+      "level" : 35
+   },
+   {
+      "type" : "Utility Flask",
+      "kind" : "Flask",
+      "name" : "Basalt Flask",
+      "level" : 40
    }
 ]
